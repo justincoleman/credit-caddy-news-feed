@@ -1,4 +1,145 @@
 {
-  "updatedAt": "2026-04-20T00:00:00Z",
-  "articles": []
+  "updatedAt": "2026-04-21T12:00:00Z",
+  "articles": [
+    {
+      "id": "b306a2c2aee3744e",
+      "title": "AT&T Points Plus Card Refresh: More Points, More Perks",
+      "summary": "Citi refreshed the AT&T Points Plus card with 2X ThankYou Points on AT&T purchases plus monthly bill discounts worth up to $240/year.",
+      "url": "https://awardwallet.com/news/citi-thankyou-rewards/att-points-plus-card-refresh/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-04-20T20:00:00Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "99d3aa4ec20e6d7f",
+      "title": "Citibank's Strata Elite Card Has A 100,000 Point Bonus — And Earns More American Miles Than AA's Cards",
+      "summary": "Citi Strata Elite bumped its welcome offer to 100K points and earns more AA miles per dollar than AA's own cards. $595 annual fee.",
+      "url": "https://viewfromthewing.com/citibanks-strata-elite-card-has-a-100000-point-bonus-and-earns-more-american-miles-than-aas-cards/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-20T18:00:00Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "cd4034104c19d2b8",
+      "title": "Amex Is Offering Some Business Platinum Cardholders Nearly 1 Million Points To Keep Spending",
+      "summary": "Select Amex Business Platinum holders are targeted for a tiered spending offer worth up to 954K Membership Rewards points by July 2026.",
+      "url": "https://viewfromthewing.com/amex-is-offering-some-business-platinum-cardholders-nearly-1-million-points-to-keep-spending/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-20T16:00:00Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "46bffdde770d9a82",
+      "title": "From Included Breakfast To Award Nights: Why This Marriott Credit Card Is Worth Thousands To Me Every Year",
+      "summary": "All three Marriott Amex cards are at best-ever welcome bonuses — the Brilliant reaches 200K points after $6K spend, ending May 13.",
+      "url": "https://thepointsguy.com/credit-cards/marriott-bonvoy-brilliant-amex-increased-offer/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-20T14:00:00Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "d59103c929044084",
+      "title": "Bank of America & Alaska Air Announce Expansion Of Partnership (New Cards/Refreshes?)",
+      "summary": "BofA and Alaska extended their Atmos Rewards co-brand deal, hinting at new card launches and bigger lounge investments in the program ahead.",
+      "url": "https://www.doctorofcredit.com/bank-of-america-alaska-air-announce-expansion-of-partnership-new-cards-refreshes/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-04-20T12:00:00Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d4a9000603af6afc",
+      "title": "Alaska & Bank Of America Expand Partnership: New Credit Cards & Perks",
+      "summary": "Alaska and Bank of America extended their Atmos Rewards co-brand deal — expect new card launches and bigger lounge investments ahead.",
+      "url": "https://onemileatatime.com/news/alaska-bank-of-america-expand-partnership/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-04-20T10:00:00Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "e76593672e475063",
+      "title": "(Reminder) Ouch: Citi Decreasing Transfer Ratio To Choice Privileges And Preferred Hotels iPrefer On 4/19/26",
+      "summary": "Citi devalued transfer ratios to Choice Privileges and Preferred Hotels iPrefer on April 19 — your ThankYou Points now go less far at both.",
+      "url": "https://frequentmiler.com/ouch-citi-decreasing-transfer-ratio-to-choice-and-preferred-on-4-19-26/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-04-19T12:00:00Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "c8ca0aa5cba94ff1",
+      "title": "[Ends Soon] Best-Ever 200,000-Point IHG Business Card Bonus",
+      "summary": "IHG Premier Business card is back to its all-time-high 200K-point offer — 140K after $4K spend, then 60K more — ending April 30.",
+      "url": "https://viewfromthewing.com/ends-soon-best-ever-200000-point-ihg-business-card-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-16T16:00:00Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "e1fbd93e11de55ca",
+      "title": "[Ends Soon] Hyatt Business Card Record 80,000 Points — The Fastest Way To Spend Toward Status",
+      "summary": "Hyatt Business card's record 80K-point bonus is also the fastest route to Globalist status — expires April 30, so act fast.",
+      "url": "https://viewfromthewing.com/ends-soon-hyatt-business-card-record-80000-points-the-fastest-way-to-spend-toward-status/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-16T14:00:00Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "1f87acbb6fb2124d",
+      "title": "World Of Hyatt Business Card 80K Bonus Points Limited Time Offer",
+      "summary": "Hyatt Business card hits a record 80K-point offer after $10K spend — best ever on this card, ending April 30.",
+      "url": "https://onemileatatime.com/deals/hyatt-business-card-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-16T12:00:00Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "68f3b05fbf9adbb8",
+      "title": "Hidden, Targeted Spending Offers On Cobranded Barclays Cards: Get 5 Or 10 Extra Points Per Dollar",
+      "summary": "JetBlue, Hawaiian, and Frontier Barclays cardholders may have hidden Q2 bonuses worth +5–10 points per dollar — log in to claim yours.",
+      "url": "https://frequentmiler.com/hidden-targeted-spending-offers-on-cobranded-barclays-cards-get-5-or-10-extra-points-per-dollar/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-14T14:00:00Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0bb85fe15b90f4b5",
+      "title": "Good News: $95 Capital One Venture Business Card Replaces Spark Miles",
+      "summary": "Capital One is rebranding Spark Miles to Venture Business — same $95 fee and 2X on travel, just unified with the personal Venture lineup.",
+      "url": "https://onemileatatime.com/news/capital-one-venture-business-replaces-spark-miles/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-04-14T12:00:00Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "b3901ec35c83cb3d",
+      "title": "Citi Expands Premium Dining Experience For Strata Elite Card Holders",
+      "summary": "Citi's Supper Club dining series for Strata Elite cardholders is expanding to 5 more US cities in 2026, starting with Miami this April.",
+      "url": "https://thepointsguy.com/news/citi-strata-elite-supper-club-dining-experience-expands/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "fa60e5cb642b3fec",
+      "title": "Chase Q2 Cobranded Card Spending Offers With Direct Registration Links",
+      "summary": "Chase Q2 targeted spending bonuses for Southwest, United, Marriott, and Disney cards are live — up to 12K bonus points through June 30.",
+      "url": "https://frequentmiler.com/chase-q2-cobranded-card-spending-offers-with-direct-registration-links/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-07T12:00:00Z",
+      "source": "Frequent Miler"
+    }
+  ]
 }
