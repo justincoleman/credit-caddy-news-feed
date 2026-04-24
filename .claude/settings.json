@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "doctorofcredit.com",
+        "www.doctorofcredit.com",
+        "thepointsguy.com",
+        "www.thepointsguy.com",
+        "onemileatatime.com",
+        "www.onemileatatime.com",
+        "viewfromthewing.com",
+        "www.viewfromthewing.com",
+        "frequentmiler.com",
+        "www.frequentmiler.com",
+        "awardwallet.com",
+        "www.awardwallet.com"
+      ]
+    }
+  }
+}
