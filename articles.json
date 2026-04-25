@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-04-25T07:20:02Z",
+  "updatedAt": "2026-04-25T13:07:49Z",
   "articles": [
+    {
+      "id": "5f00e5a5255c905f",
+      "title": "Wyndham Rewards Promotions: Member Month Deals, Special Insider Enrollment Offer, and More",
+      "summary": "There are plenty of Wyndham Rewards promotions available right now.",
+      "url": "https://awardwallet.com/news/wyndham-rewards/bonus-points-promotion/?pubDate=2026-04-25",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-25T12:10:01Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "9d7d9277b6353122",
+      "title": "Strategic Choices, major Hyatt changes, seize the high seas, and more [Week in Review]",
+      "summary": "A week ago, Citi Thank You Rewards devalued transfers to Choice Privileges.",
+      "url": "https://frequentmiler.com/strategic-choices-major-hyatt-changes-seize-the-high-seas-and-more-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2017/10/Chess.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-04-25T11:49:26Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "b1fa79bc7f680da8",
       "title": "The Ultimate Guide To Earning a Southwest Companion Pass",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-04-20T14:00:00Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "d59103c929044084",
-      "title": "Bank of America & Alaska Air Announce Expansion Of Partnership (New Cards/Refreshes?)",
-      "summary": "BofA and Alaska extended their Atmos Rewards co-brand deal, hinting at new card launches and bigger lounge investments in the program ahead.",
-      "url": "https://www.doctorofcredit.com/bank-of-america-alaska-air-announce-expansion-of-partnership-new-cards-refreshes/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-20T12:00:00Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "d4a9000603af6afc",
-      "title": "Alaska & Bank Of America Expand Partnership: New Credit Cards & Perks",
-      "summary": "Alaska and Bank of America extended their Atmos Rewards co-brand deal \u2014 expect new card launches and bigger lounge investments ahead.",
-      "url": "https://onemileatatime.com/news/alaska-bank-of-america-expand-partnership/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-20T10:00:00Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
