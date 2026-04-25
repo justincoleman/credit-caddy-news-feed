@@ -1,10 +1,430 @@
 {
-  "updatedAt": "2026-04-23T00:00:00Z",
+  "updatedAt": "2026-04-25T00:20:59Z",
   "articles": [
     {
+      "id": "b1fa79bc7f680da8",
+      "title": "The Ultimate Guide To Earning a Southwest Companion Pass",
+      "summary": "The Southwest Companion Pass allows you to fly with one other person for free (plus taxes and fees).",
+      "url": "https://awardwallet.com/airlines/southwest-rapid-rewards/how-to-earn-southwest-companion-pass/?pubDate=2026-04-24",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-04-24T23:50:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "05b51fbca43255d6",
+      "title": "Chase reduces redemption rates on hundreds of The Edit properties",
+      "summary": "The Edit by Chase Travel\u2120 is a luxury hotel booking program available to JP Morgan Reserve and Chase Sapphire Reserve\u00ae cardholders.",
+      "url": "https://frequentmiler.com/chase-reduces-redemption-rates-on-hundreds-of-the-edit-properties/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/09/Chase-Sapphire-Reserve-Business-The-Edit.jpg",
+      "category": "News",
+      "publishedAt": "2026-04-24T23:45:29Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "8ce11f52a42b7701",
+      "title": "When Should You Add Authorized Users to the Platinum Card\u00ae from American Express?",
+      "summary": "Adding an authorized user to your American Express Platinum Card\u00ae costs $195 per person.",
+      "url": "https://awardwallet.com/credit-cards/amex-membership-rewards/companion-platinum-card/?pubDate=2026-04-24",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-04-24T22:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "3daabae1d9d78f4b",
+      "title": "Hilton Chase Offer: Save 10% on purchases of $100+",
+      "summary": "There is a new Chase Offer out that offers 10% back when staying at Hilton brands in the US, capped at $65 in total cash back.",
+      "url": "https://frequentmiler.com/hilton-chase-offer-save-10-on-purchases-of-100/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/10/Hilton-Waikiki-Beach.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T21:45:15Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "1f775516050d1435",
+      "title": "Deal alert: Points and miles travel deals for April 2026",
+      "summary": "Save, maximize and earn points and miles on various travel purchases this April.",
+      "url": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/09/United-Planes-SFO-9.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T21:00:10Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "c803f49dc1a9604a",
+      "title": "[Targeted] Existing MooMoo Users: Get $100/$200 Bonus With $5k/$10k Deposit",
+      "summary": "Targeted: Existing MooMoo users can get a bonus of $100 with $5,000 deposit or $200 with a $10,000 deposit",
+      "url": "https://www.doctorofcredit.com/targeted-existing-moomoo-users-get-100-200-bonus-with-5k-10k-deposit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T19:00:30Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "596ebd2a2bd42971",
+      "title": "Chase Sapphire Cardholders Get Early Access and More at EEEEEATSCON Los Angeles 2026",
+      "summary": "EEEEEATSCON Los Angeles is coming on May 16-17, and Chase Sapphire cardholders can score early access and a $10 cash back offer.",
+      "url": "https://awardwallet.com/news/credit-cards/eeeeeatscon-chase-sapphire-benefits/?pubDate=2026-04-24",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T18:10:01Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "921e30f181ec5f41",
+      "title": "Delta Shopping Portal: Get 500 Bonus Miles With $100 Spend (4/23-5/4)",
+      "summary": "Delta Skymiles Shopping is offering 500 miles bonus when you shop $100 through the portal.",
+      "url": "https://www.doctorofcredit.com/delta-shopping-portal-get-500-bonus-miles-with-100-spend-4-23-5-4/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T17:30:51Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "90efb9c0f4970aa0",
+      "title": "(Update) Chase Announces Select Properties With 2.5x PointsBoost Redemption",
+      "summary": "Update 4/24/26: reader Nextcard noticed that the same time Chase released this 2.5x promo, they also lowered the majority of 2 CPP hotels d\u2026",
+      "url": "https://www.doctorofcredit.com/chase-announces-select-properties-with-2-5x-pointsboost-redemption/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T17:00:03Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "9439272e085bedd9",
+      "title": "Chase Offers/BofA: 10% Back at Hilton",
+      "summary": "Deal is back through 3/31/24: earn 10% cash back on your Hilton stay, when you spend $100 or more, with a $65 cash back maximum.",
+      "url": "https://www.doctorofcredit.com/chase-offers-bofa-5-back-at-hilton-225-500-spend/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T16:40:22Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "9b2098bca90bf07d",
+      "title": "[Targeted] Citi: Spend $350 On Hotels, Get $30 Credit",
+      "summary": "Check your Citi Offers: Spend $350 at Airlines through 08/15/2022 and earn $30 back.",
+      "url": "https://www.doctorofcredit.com/targeted-citi-offers-spend-350-on-airlines-hotels-get-30-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T16:02:45Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "e1372dfb2b96d09d",
+      "title": "Amex Membership Rewards transfer partners: Redeem your points with airlines and hotels",
+      "summary": "Check out this complete guide to maximizing your American Express Membership Rewards points with its transfer partners.",
+      "url": "https://thepointsguy.com/credit-cards/membership-rewards-partner-guide/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/06/20240617_Qatar-Airways-QSuite_Qatar-Qsuite-777-cabin-2_ERosen_7.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-04-24T16:00:59Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "2ee629e7721e0a83",
+      "title": "136 Hyatt hotels and resorts will shift to new award categories May 20",
+      "summary": "136 Hyatt hotels and resorts will shift categories on May 20.",
+      "url": "https://thepointsguy.com/news/hyatt-category-changes-2026/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/09/Hyatt-Regency-New-Orleans_Hyatt.jpg",
+      "category": "News",
+      "publishedAt": "2026-04-24T15:56:19Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "3e31665026e795e8",
+      "title": "Mayday: Brutal new World of Hyatt chart launches May 20th",
+      "summary": "Update 4/24: Well, we have an official date for Mayday: May 20th.",
+      "url": "https://frequentmiler.com/mayday-hyatt-to-launch-a-brutal-new-world-of-hyatt-chart-in-may-2026/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/11/Hyatt-Featured-Image-3.png",
+      "category": "Card Updates",
+      "publishedAt": "2026-04-24T15:45:19Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "4d9ff732aa4ee1a9",
+      "title": "Now Is The Ideal Time For United To Buy JetBlue\u2026 Or Was It All A Bluff?",
+      "summary": "For quite some time now, there have been rumors that United Airlines might be interested in buying JetBlue Airways.",
+      "url": "https://onemileatatime.com/insights/ideal-time-united-buy-jetblue-bluff/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/JetBlue-United-Planes.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T15:00:26Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "8f552f9db5160c49",
+      "title": "Delta and United cards offer cheaper award flights \u2014 will other airlines follow?",
+      "summary": "If you are a United or Delta cardholder, you unlock access to discounted award redemptions.",
+      "url": "https://thepointsguy.com/credit-cards/delta-united-cardholders-cheaper-award-flights/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/20250304_Delta-One-LAX-to-Brisbane-Australia_CHenderson-52.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T15:00:24Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "ee9adbba1c91fb4a",
+      "title": "World Of Hyatt 2026 Hotel Category Changes: 136 Properties Impacted",
+      "summary": "We know that as of May 20, 2026, World of Hyatt is completely overhauling award pricing, by introducing a new five tier award chart (compar\u2026",
+      "url": "https://onemileatatime.com/news/world-of-hyatt-hotel-category-changes/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/01/Andaz-Tokyo-59.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-04-24T14:59:05Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "7f442d8679e6b3e2",
+      "title": "How to Select Your Bank of America Customized Cash 3% Bonus Category",
+      "summary": "Getting an outsized return with the Bank of America Customized Cash Card is one of the best moves you can make with your credit card portfo\u2026",
+      "url": "https://awardwallet.com/credit-cards/bank-of-america/cash-rewards-categories/?pubDate=2026-04-24",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-24T14:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "10673394155d6ad1",
+      "title": "Caviar, lie-flat beds and a cool snack bar: 17 hours in United's swanky new Polaris suites",
+      "summary": "United's 17-hour Pacific crossing to Singapore\u2019s Changi Airport (SIN) marked the true hard launch of the carrier's \u201cElevated\u201d Boeing 787-9\u2026",
+      "url": "https://thepointsguy.com/news/united-airlines-debut-boeing-787-dreamliner-elevated-polaris-studios/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/04/united-787-elevated-38.jpeg",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T13:45:37Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "b9f9d3a5dfe1a23a",
+      "title": "Citi AT&T Points Plus card is intriguing with new monthly credits and $250 welcome offer",
+      "summary": "Citi and AT&T have increased the welcome offer and added new statement credits to the AT&T Points Plus card, making it a surprisingly compe\u2026",
+      "url": "https://frequentmiler.com/citi-att-points-plus-card-newly-intriguing-with-monthly-credits-and-250-welcome-offer/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2023/11/ATT-Points-Plus-Card-Art.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T13:45:11Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "c5a5e9405e30699a",
+      "title": "[FINAL WEEK] Best-Ever 200,000-Point IHG Business Card Bonus",
+      "summary": "Chase has brought back the best-ever 200,000-point offer on the IHG One Rewards Premier Business card, giving small-business owners a shot\u2026",
+      "url": "https://viewfromthewing.com/final-week-best-ever-200000-point-ihg-business-card-bonus/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2024/02/kimpton-surfcomber-pool.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T13:04:32Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "3b340d1dd570eb5c",
+      "title": "JetBlue TrueBlue Complete Guide (2026)",
+      "summary": "JetBlue TrueBlue is the loyalty program for JetBlue Airways.",
+      "url": "https://frequentmiler.com/jetblue-trueblue-guide/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/04/JetBlue.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-04-24T10:45:57Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "5533c7efdb6af179",
+      "title": "Ending Soon: Earn up to 200k Points With This Lucrative IHG Business Card Offer",
+      "summary": "Chase is offering its best-ever bonus on the IHG One Rewards Premier Business Credit Card, with up to 200,000 bonus points available to new\u2026",
+      "url": "https://awardwallet.com/blog/ihg-business-premier-card-increased-offer/?pubDate=2026-04-23",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-23T23:50:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "6d5e48f935a31987",
+      "title": "(Update: Amazon 5%) ShopBack Shopping Portal $15+ In Signup Bonuses & More; Earn Cashback On Amazon & More",
+      "summary": "Shopback shopping portal with $15 signup bonus, 1.5% back on Amazon, and often increased cashback rates and Quest deals",
+      "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-23T23:16:39Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d7016ce59bb083dc",
+      "title": "Wells Fargo Rewards Transfer Partners: Our Complete Guide to Maximizing Your Wells Fargo Points",
+      "summary": "Credit card holders can now redeem Wells Fargo Rewards points by transferring them across nine partners.",
+      "url": "https://awardwallet.com/credit-cards/wells-fargo-rewards/transfer-partners/?pubDate=2026-04-23",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-04-23T22:10:01Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "90f230ede2789170",
+      "title": "Marriott Selling Bonvoy Points With 30% Discount (0.875 Cents Each): Worth It?",
+      "summary": "Marriott Bonvoy has just launched its newest promotion on purchased points, which is only the program\u2019s second such offer of the year.",
+      "url": "https://onemileatatime.com/deals/buy-marriott-bonvoy-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/04/St-Regis-Venice-86.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T22:03:39Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "6a459154a68a95d9",
+      "title": "Delta shopping portal promo: Earn up to 500 bonus SkyMiles",
+      "summary": "The Delta shopping portal is running a Mother\u2019s Day promo that gives you a bonus 500 SkyMiles when spending $100+ by 5/4 (which is ironic,\u2026",
+      "url": "https://frequentmiler.com/delta-shopping-portal-promo-earn-up-to-500-bonus-skymiles/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Deltas-Mothers-Day-promo.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T21:45:57Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "37192b6850a59b2e",
+      "title": "Last chance: Earn $250 bonus cash back with the Chase Freedom Unlimited",
+      "summary": "These welcome offers on the Chase Freedom Flex and the Chase Freedom Unlimited make them compelling options.",
+      "url": "https://thepointsguy.com/credit-cards/chase-freedom-unlimited-freedom-flex-bonuses/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/Exterior-of-Chase-Bank-in-Calabasas-California_Jeremy-MoellerGetty-Images.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T20:00:03Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "96089f6de5213cb0",
+      "title": "Save 25% on Roame with exclusive promo code",
+      "summary": "We\u2019ve written about Roame.travel before, an award tool that can be particularly useful when searching for award availability with Oneworld\u2026",
+      "url": "https://frequentmiler.com/save-on-roame-with-exclusive-promo-code/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Roame.travel-landing-page.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T17:45:30Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "72dcf430d3673725",
+      "title": "Alaska Airlines airport lounges: How to get access to this VIP space",
+      "summary": "Learn how to access Alaska Airlines lounges in 2026, including by paying for a membership and having the right credit card.",
+      "url": "https://thepointsguy.com/airline/alaska-airlines-lounge-access-guide/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/11/20241119_Alaska-Airlines-Lounge-San-Francisco_CHenderson_50.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-04-23T17:00:29Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "40a7ec3d794d995e",
+      "title": "Book Air France/KLM flight from US to or through Paris or Amsterdam & earn 10,000 bonus Flying Blue miles",
+      "summary": "Air France and KLM have launched an extremely generous new promotion, awarding 10,000 bonus Flying Blue miles when flying from the US to an\u2026",
+      "url": "https://frequentmiler.com/book-air-france-klm-flight-from-us-to-or-through-paris-or-amsterdam-earn-10000-bonus-flying-blue-miles/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/09/Air-France-2026-10k-bonus.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T15:45:24Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "6b2ca223de840b8d",
+      "title": "Chase Offers: The Parking Spot, Spend $50+ & Get $10 Back",
+      "summary": "Earn $10 cash back on a reservation at The Parking Spot when you spend $50 or more, including taxes and after all discounts.",
+      "url": "https://www.doctorofcredit.com/chase-offers-the-parking-spot-spend-50-get-10-back/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-23T15:00:49Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "9afba28a2de36263",
+      "title": "Big Alaska Atmos Rewards Summit Card Offer: 100K Points, 25K Award, 50% Off",
+      "summary": "Link: Learn about the best credit cards for Alaska Atmos Rewards",
+      "url": "https://onemileatatime.com/deals/alaska-atmos-rewards-summit-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/03/Hawaiian-Airlines-First-Class-787-10.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T14:11:29Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "c49db14ca75950ef",
+      "title": "Last chance: Earn up to 200,000 hotel points with this limited-time IHG Rewards card offer",
+      "summary": "If you have upcoming travel to any of IHG\u2019s brands, a IHG cobranded card can save you hundreds of dollars every year.",
+      "url": "https://thepointsguy.com/credit-cards/ihg-rewards-credit-card-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/11/IHG-Preferred_InterContinental-Phu-Quoc-Long-Beach-Resort_Waterfront_.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T14:00:26Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "b58bb223160977f9",
+      "title": "Chase Sapphire Reserve\u00ae vs Sapphire Preferred\u00ae",
+      "summary": "Chase\u2019s Sapphire Preferred\u00ae and Sapphire Reserve\u00ae cards are popular travel rewards cards that share many similarities.",
+      "url": "https://frequentmiler.com/chase-sapphire-reserve-vs-preferred/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/Sapphire-Preferred-vs-Sapphire-Reserve.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T13:46:26Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "9c3435a487b8f306",
+      "title": "Buy British Airways Club Avios With 40% Bonus (1.64 Cents Per Avios): Worth It?",
+      "summary": "Buying airline points strategically can make a lot of sense, especially for first and business class redemptions, where redeeming points re\u2026",
+      "url": "https://onemileatatime.com/deals/buy-british-airways-club-avios/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/02/British-Airways-777-First-Class-5.jpeg?width=1200&quality=75&height=910&aspect_ratio=120%3A91",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T10:10:14Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "d1d1062ed95d1949",
+      "title": "Guide to booking Preferred Hotels with points (Updated)",
+      "summary": "Many, but not all, Preferred Hotels can be booked with points.",
+      "url": "https://frequentmiler.com/book-preferred-hotels-with-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/02/img_4736.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-04-23T01:46:20Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "39d02ca5d7c16997",
+      "title": "Alaska & American Plan To Expand Partnership With Revenue Sharing Deal",
+      "summary": "It\u2019s a fascinating time for the airline industry.",
+      "url": "https://onemileatatime.com/news/alaska-american-expand-partnership-revenue-sharing-deal/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/04/Alaska-First-Class-737-66.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T01:42:22Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "11b230dad2c2c7fb",
+      "title": "Kroger: Earn 4x fuel points on 3rd party and fixed-value Visa / Mastercard gift cards",
+      "summary": "Kroger is again running a promotion that awards 4x fuel points on third-party gift cards, whether purchased online or in-store.",
+      "url": "https://frequentmiler.com/kroger-earn-4x-fuel-points-on-3rd-party-gift-cards-fixed-value-visa-mastercard-gift-cards/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2018/04/Kroger-Gift-Card-Rack.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-23T00:45:28Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "9c6b8ddea069732f",
+      "title": "Meijer Mperks: 7,500 Points On $100 Visa Giftcard (Valid Until 4/28)",
+      "summary": "Update 4/22/26: Deal is back until 4/28 Update 3/17/26: Deal is back until 3/24/26.",
+      "url": "https://www.doctorofcredit.com/meijer-mperks-10-off-150-visa-giftcards-7/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-23T00:45:00Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "2b9a30103ada2463",
+      "title": "Wyndham promo: Earn 15K bonus points on 5+ night stay at its WaterWalk & Hawthorn extended stay brands",
+      "summary": "Wyndham has a new promotion that\u2019s awarding 15,000 bonus points in return for a stay of five or more consecutive nights.",
+      "url": "https://frequentmiler.com/wyndham-promo-earn-15k-bonus-points-on-5-night-stay-at-its-waterwalk-hawthorn-extended-stay-brands/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Wyndham-Rewards-extended-stay-promotion.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-22T21:45:21Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0492ab4ac1c59621",
+      "title": "American Express Platinum: Valuable benefits and an offer as high as 175,000 bonus points",
+      "summary": "The American Express Platinum offers numerous statement credits, premium lounge access, elite hotel status and more.",
+      "url": "https://thepointsguy.com/credit-cards/amex-platinum-current-offer/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/05/Man-pulling-shopping-cart-and-using-smart-phone-and-credit-card_Milko.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-04-22T18:00:59Z",
+      "source": "The Points Guy"
+    },
+    {
       "id": "dd59513f81a4f222",
-      "title": "Citi Strata Elite Credits Are Easy To Use — Here's How To Max Them Out",
-      "summary": "The Strata Elite's $300 hotel and $300 dining credits are surprisingly easy to use — here's how to pocket full year-one value without stress.",
+      "title": "Citi Strata Elite Credits Are Easy To Use \u2014 Here's How To Max Them Out",
+      "summary": "The Strata Elite's $300 hotel and $300 dining credits are surprisingly easy to use \u2014 here's how to pocket full year-one value without stress.",
       "url": "https://viewfromthewing.com/citi-strata-elite-credits-are-easy-to-use-heres-how-to-max-them-out/",
       "thumbnailUrl": null,
       "category": "Tips",
@@ -23,7 +443,7 @@
     },
     {
       "id": "99d3aa4ec20e6d7f",
-      "title": "Citibank's Strata Elite Card Has A 100,000 Point Bonus — And Earns More American Miles Than AA's Cards",
+      "title": "Citibank's Strata Elite Card Has A 100,000 Point Bonus \u2014 And Earns More American Miles Than AA's Cards",
       "summary": "Citi Strata Elite bumped its welcome offer to 100K points and earns more AA miles per dollar than AA's own cards. $595 annual fee.",
       "url": "https://viewfromthewing.com/citibanks-strata-elite-card-has-a-100000-point-bonus-and-earns-more-american-miles-than-aas-cards/",
       "thumbnailUrl": null,
@@ -44,7 +464,7 @@
     {
       "id": "46bffdde770d9a82",
       "title": "From Included Breakfast To Award Nights: Why This Marriott Credit Card Is Worth Thousands To Me Every Year",
-      "summary": "All three Marriott Amex cards are at best-ever welcome bonuses — the Brilliant reaches 200K points after $6K spend, ending May 13.",
+      "summary": "All three Marriott Amex cards are at best-ever welcome bonuses \u2014 the Brilliant reaches 200K points after $6K spend, ending May 13.",
       "url": "https://thepointsguy.com/credit-cards/marriott-bonvoy-brilliant-amex-increased-offer/",
       "thumbnailUrl": null,
       "category": "Deals",
@@ -64,7 +484,7 @@
     {
       "id": "d4a9000603af6afc",
       "title": "Alaska & Bank Of America Expand Partnership: New Credit Cards & Perks",
-      "summary": "Alaska and Bank of America extended their Atmos Rewards co-brand deal — expect new card launches and bigger lounge investments ahead.",
+      "summary": "Alaska and Bank of America extended their Atmos Rewards co-brand deal \u2014 expect new card launches and bigger lounge investments ahead.",
       "url": "https://onemileatatime.com/news/alaska-bank-of-america-expand-partnership/",
       "thumbnailUrl": null,
       "category": "News",
@@ -74,281 +494,11 @@
     {
       "id": "8850e2bee6aefe04",
       "title": "25% Transfer Bonus From Citi to Leaders Hotels of the World Leaders Club",
-      "summary": "Citi ThankYou transfers to Leading Hotels of the World get a 25% boost through May 16 — effectively 4:1 instead of the normal 5:1.",
+      "summary": "Citi ThankYou transfers to Leading Hotels of the World get a 25% boost through May 16 \u2014 effectively 4:1 instead of the normal 5:1.",
       "url": "https://frequentmiler.com/25-transfer-bonus-from-citi-to-leaders-hotels-of-the-world-leaders-club/",
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-04-19T14:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "e76593672e475063",
-      "title": "(Reminder) Ouch: Citi Decreasing Transfer Ratio To Choice Privileges And Preferred Hotels iPrefer On 4/19/26",
-      "summary": "Citi devalued transfer ratios to Choice Privileges and Preferred Hotels iPrefer on April 19 — your ThankYou Points now go less far at both.",
-      "url": "https://frequentmiler.com/ouch-citi-decreasing-transfer-ratio-to-choice-and-preferred-on-4-19-26/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-19T12:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "daafc9d99d66d02f",
-      "title": "Transfer Citi Points To Leading Hotels Of The World With 25% Bonus: Worth It?",
-      "summary": "Citi transfers to LHW Leaders Club carry a 25% bonus through May 16 — yields ~2 cents per ThankYou point at the right luxury hotel.",
-      "url": "https://onemileatatime.com/deals/citi-lhw-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-19T10:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "a70142d8e78764d3",
-      "title": "Atmos Summit Card: Maximize Rewards For International Travelers",
-      "summary": "The Atmos Rewards Summit earns more points on overseas purchases than most airline cards — a strong pick if you spend heavily outside the US.",
-      "url": "https://thepointsguy.com/news/most-rewarding-airline-card-overseas/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-04-18T12:00:00Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "7d5158c6b014f138",
-      "title": "New Chase Sapphire Reserve Perk Is Live — $75,000 Spend Now Includes Hyatt Explorist Status",
-      "summary": "Chase Sapphire Reserve's promised Hyatt Explorist perk is now active — link your Hyatt account and $75K in annual spend earns you mid-tier status.",
-      "url": "https://viewfromthewing.com/new-chase-sapphire-reserve-perk-is-live-75000-spend-now-includes-hyatt-explorist-status/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-04-17T14:00:00Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "7fb232654043284c",
-      "title": "(Increased) Rakuten Offering Bonus Cashback/Rewards On Select Bank Of America Credit Cards",
-      "summary": "Rakuten bumped its BofA Travel Rewards signup bonus to $250/25K points — stack it on top of the card's own welcome offer for max value.",
-      "url": "https://frequentmiler.com/rakuten-offering-up-to-25k-points-250-cashback-on-select-bank-of-america-credit-cards/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-17T12:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "8ad3d1a419086835",
-      "title": "Chase Freedom Unlimited: 25K points / $250 on only $500 in spend (ending soon)",
-      "summary": "Chase Freedom Unlimited's best-ever offer: 25K points ($250) after just $500 spend — expires April 30 at 9am ET.",
-      "url": "https://frequentmiler.com/chase-freedom-unlimited-welcome-offer-25k-250-on-only-500-in-spend/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-17T10:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "c8ca0aa5cba94ff1",
-      "title": "[Ends Soon] Best-Ever 200,000-Point IHG Business Card Bonus",
-      "summary": "IHG Premier Business card is back to its all-time-high 200K-point offer — 140K after $4K spend, then 60K more — ending April 30.",
-      "url": "https://viewfromthewing.com/ends-soon-best-ever-200000-point-ihg-business-card-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T16:00:00Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "e1fbd93e11de55ca",
-      "title": "[Ends Soon] Hyatt Business Card Record 80,000 Points — The Fastest Way To Spend Toward Status",
-      "summary": "Hyatt Business card's record 80K-point bonus is also the fastest route to Globalist status — expires April 30, so act fast.",
-      "url": "https://viewfromthewing.com/ends-soon-hyatt-business-card-record-80000-points-the-fastest-way-to-spend-toward-status/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T14:00:00Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "1eb05d0982bc1fff",
-      "title": "Chase IHG Premier Business Card - 200,000 Points Offer",
-      "summary": "IHG Premier Business Card is at its best-ever 200,000-point offer (140K + 60K) through two spend tiers — ends April 30 at 9am ET.",
-      "url": "https://www.doctorofcredit.com/chase-ihg-premier-business-card-200000-offer-new-all-time-high/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T13:00:00Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "1f87acbb6fb2124d",
-      "title": "World Of Hyatt Business Card 80K Bonus Points Limited Time Offer",
-      "summary": "Hyatt Business card hits a record 80K-point offer after $10K spend — best ever on this card, ending April 30.",
-      "url": "https://onemileatatime.com/deals/hyatt-business-card-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "d7d103fa4630b757",
-      "title": "Double Companion Pass-Qualifying Points in Quarterly Categories",
-      "summary": "Southwest cardholders earn 2x Companion Pass-qualifying points at home improvement stores Q2 2026 — register your card to activate.",
-      "url": "https://awardwallet.com/news/southwest-rapid-rewards/chase-cardholder-elite-status-promotion/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T10:00:00Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "8c2c45d41e4345ba",
-      "title": "Chase World of Hyatt Business Card: Increased 80K Welcome Offer (Ending Soon)",
-      "summary": "World of Hyatt Business Card hits a record 80K-point bonus after $10,000 in 3 months — expires April 30 at 9am ET.",
-      "url": "https://frequentmiler.com/chase-world-of-hyatt-business-card-increased-80k-welcome-offer/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-16T09:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "5452dec1e8898689",
-      "title": "I Pay $2,600 In Fees For Four Credit Cards — And Still Come Out Ahead",
-      "summary": "Paying $2,600/yr in combined premium card fees can still net you ahead — if you actually max every credit and perk each card offers.",
-      "url": "https://viewfromthewing.com/i-pay-2600-in-fees-for-four-credit-cards-and-still-come-out-ahead/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-04-15T16:00:00Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "6df06619ad43f100",
-      "title": "Unexpected: Wells Fargo Adds Wyndham As Transfer Partner On 1:2 Basis",
-      "summary": "Wells Fargo quietly added Wyndham Rewards at a 1:2 transfer ratio — a surprisingly strong value play for stays at Caesars properties.",
-      "url": "https://frequentmiler.com/unexpected-wells-fargo-adds-wyndham-as-transfer-partner-on-12-basis/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-15T14:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "06f0a1a7475b6ce7",
-      "title": "JetBlue Premier Card Adds Companion Credits, Mosaic Boost, Award Rebate",
-      "summary": "JetBlue Premier card adds companion credits up to $2K/year, a 25-tile Mosaic status boost, and a 15% award rebate — no annual fee increase.",
-      "url": "https://onemileatatime.com/news/jetblue-premier-card-companion-credits-mosaic-boost-award-rebate/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-04-15T12:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "381b5898dc2d4b84",
-      "title": "Wells Fargo Rewards Adds Wyndham as a Transfer Partner",
-      "summary": "Wells Fargo just added Wyndham as a transfer partner at a 1:2 ratio — double what most other programs offer for the same hotel chain.",
-      "url": "https://thepointsguy.com/news/wells-fargo-adds-wyndham-transfer-partner/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-15T11:00:00Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "68f3b05fbf9adbb8",
-      "title": "Hidden, Targeted Spending Offers On Cobranded Barclays Cards: Get 5 Or 10 Extra Points Per Dollar",
-      "summary": "JetBlue, Hawaiian, and Frontier Barclays cardholders may have hidden Q2 bonuses worth +5–10 points per dollar — log in to claim yours.",
-      "url": "https://frequentmiler.com/hidden-targeted-spending-offers-on-cobranded-barclays-cards-get-5-or-10-extra-points-per-dollar/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-14T14:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0bb85fe15b90f4b5",
-      "title": "Good News: $95 Capital One Venture Business Card Replaces Spark Miles",
-      "summary": "Capital One is rebranding Spark Miles to Venture Business — same $95 fee and 2X on travel, just unified with the personal Venture lineup.",
-      "url": "https://onemileatatime.com/news/capital-one-venture-business-replaces-spark-miles/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-04-14T12:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "bdd5f714f2623e12",
-      "title": "Huge: United Restricts Polaris Lounge Access For Star Alliance Partner Airlines",
-      "summary": "United slashed Polaris Lounge access for Star Alliance — only select Lufthansa Group and ANA routes still qualify for entry.",
-      "url": "https://onemileatatime.com/news/united-restricts-polaris-lounge-access-star-alliance/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-14T10:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "f5570d587b8d898c",
-      "title": "Chase Ultimate Rewards To IHG One Rewards 70% Transfer Bonus",
-      "summary": "Chase Ultimate Rewards is offering a 70% transfer bonus to IHG One Rewards through April 30 — biggest boost available to IHG right now.",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/ihg-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-10T14:00:00Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "b3901ec35c83cb3d",
-      "title": "Citi Expands Premium Dining Experience For Strata Elite Card Holders",
-      "summary": "Citi's Supper Club dining series for Strata Elite cardholders is expanding to 5 more US cities in 2026, starting with Miami this April.",
-      "url": "https://thepointsguy.com/news/citi-strata-elite-supper-club-dining-experience-expands/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-04-10T12:00:00Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "38a9df4ef873e313",
-      "title": "Get Up To A 30% Bonus On Chase Transfers To Aeroplan",
-      "summary": "Chase Ultimate Rewards cardholders get a 20% transfer bonus to Air Canada Aeroplan through April 30 — Aeroplan cardholders can stack up to 30%.",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/aeroplan-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-10T10:00:00Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "536af2376233cad0",
-      "title": "Amex Cuts Lufthansa Lounge Access As Of October 2026",
-      "summary": "Amex Platinum is ending Lufthansa lounge access effective Oct. 1, 2026 — a popular perk for Lufthansa flyers is officially going away.",
-      "url": "https://onemileatatime.com/news/amex-cuts-lufthansa-lounge-access/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-04-10T08:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "e205f38ce23d0ca4",
-      "title": "American Makes Basic Economy Much Worse, Especially For AAdvantage Elites",
-      "summary": "Elite AA status no longer protects you from basic economy: complimentary seat assignments disappear for all tiers starting May 18.",
-      "url": "https://onemileatatime.com/news/american-basic-economy-much-worse-aadvantage-elites/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-04-09T10:00:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "d30790f5d9615542",
-      "title": "Great Value From the Best AAdvantage Business Card Offer — 75,000 Miles",
-      "summary": "Citi's AAdvantage Business card returns to its best-ever 75K-mile offer with the first year's $99 fee waived — a limited-time combination.",
-      "url": "https://viewfromthewing.com/great-value-from-the-best-aadvantage-business-card-offer-75000-miles/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-08T12:00:00Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "5a62a068d071137e",
-      "title": "Southwest Cardholder Promo: Earn 25% Bonus Points When Spending $3K+",
-      "summary": "Targeted Southwest cardholders get 25% bonus Rapid Rewards on $3K+ spend through June 30 — up to 20K extra points, Companion Pass eligible.",
-      "url": "https://frequentmiler.com/southwest-cardholder-promo-earn-25-bonus-points-when-spending-3k-max-20k-bonus-points-targeted/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-08T10:00:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "fa60e5cb642b3fec",
-      "title": "Chase Q2 Cobranded Card Spending Offers With Direct Registration Links",
-      "summary": "Chase Q2 targeted spending bonuses for Southwest, United, Marriott, and Disney cards are live — up to 12K bonus points through June 30.",
-      "url": "https://frequentmiler.com/chase-q2-cobranded-card-spending-offers-with-direct-registration-links/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-07T12:00:00Z",
       "source": "Frequent Miler"
     }
   ]
