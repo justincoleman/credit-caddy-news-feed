@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T00:20:59Z",
+  "updatedAt": "2026-04-25T00:39:22Z",
   "articles": [
     {
       "id": "b1fa79bc7f680da8",
@@ -219,6 +219,16 @@
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/04/JetBlue.jpg",
       "category": "Tips",
       "publishedAt": "2026-04-24T10:45:57Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "8ad3d1a419086835",
+      "title": "Chase Freedom Unlimited: 25K points / $250 on only $500 in spend (last chance)",
+      "summary": "Update 4/23: This increased welcome offer for the Chase Freedom Unlimited will be ending on 4/30/26 at 9 am Eastern.",
+      "url": "https://frequentmiler.com/chase-freedom-unlimited-welcome-offer-25k-250-on-only-500-in-spend/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/09/Chase-Freedom-Unlimited-at-Arches-National-Park.png",
+      "category": "Deals",
+      "publishedAt": "2026-04-24T00:50:00Z",
       "source": "Frequent Miler"
     },
     {
@@ -490,16 +500,6 @@
       "category": "News",
       "publishedAt": "2026-04-20T10:00:00Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "8850e2bee6aefe04",
-      "title": "25% Transfer Bonus From Citi to Leaders Hotels of the World Leaders Club",
-      "summary": "Citi ThankYou transfers to Leading Hotels of the World get a 25% boost through May 16 \u2014 effectively 4:1 instead of the normal 5:1.",
-      "url": "https://frequentmiler.com/25-transfer-bonus-from-citi-to-leaders-hotels-of-the-world-leaders-club/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-19T14:00:00Z",
-      "source": "Frequent Miler"
     }
   ]
 }
