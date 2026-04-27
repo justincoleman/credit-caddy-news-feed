@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-04-27T02:54:53Z",
+  "updatedAt": "2026-04-27T08:28:33Z",
   "articles": [
+    {
+      "id": "16e3d5bbecb24044",
+      "title": "Capital One $300 Checking Bonus",
+      "summary": "Capital One is offering a $300 bonus when you open a new checking account and complete the following requirements",
+      "url": "https://www.doctorofcredit.com/capital-one-300-checking-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-04-27T04:35:40Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "166230c17088a7d0",
       "title": "Capital One Offers: Lowe\u2019s, Spend $25 & Get $25 Back",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-04-23T15:45:24Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "6b2ca223de840b8d",
-      "title": "Chase Offers: The Parking Spot, Spend $50+ & Get $10 Back",
-      "summary": "Earn $10 cash back on a reservation at The Parking Spot when you spend $50 or more, including taxes and after all discounts.",
-      "url": "https://www.doctorofcredit.com/chase-offers-the-parking-spot-spend-50-get-10-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-04-23T15:00:49Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
