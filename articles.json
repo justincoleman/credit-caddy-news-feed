@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-05-02T07:46:34Z",
+  "updatedAt": "2026-05-02T13:15:31Z",
   "articles": [
+    {
+      "id": "c5bd7018a1291eb7",
+      "title": "Vacations by Marriott Promotion: Earn 25k Points on a 4+ Night Caribbean, Latin America, or Mexico Package",
+      "summary": "Another month, another new Vacations by Marriott promotion!",
+      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-vacations-promotion/?pubDate=2026-05-02",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-02T12:10:07Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "7b8619b1edd29ea2",
+      "title": "Seeing the bright spots through the fog of the Ides of May (Week in Review)",
+      "summary": "As the wise folks always say, beware the Ides of May.",
+      "url": "https://frequentmiler.com/seeing-the-bright-spots-through-the-fog-of-the-ides-of-may-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/Seeing-through-the-fog.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-05-02T11:16:32Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "aacd8b678e34b0a0",
       "title": "Chase Just Simplified Who Can Get a Sapphire Sign-Up Bonus \u2014 Here Are the New Rules",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-01T06:21:49Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "62bfac3f9722e1f0",
-      "title": "Transfer Chase Points To Marriott Bonvoy With 65% Bonus: Worth It?",
-      "summary": "Chase Ultimate Rewards has just launched its latest transfer bonus.",
-      "url": "https://onemileatatime.com/deals/chase-marriott-transfer-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/08/Bodrum-EDITION-Hotel-75.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-05-01T06:11:56Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "5d99bdb4a842ade7",
-      "title": "[Targeted] Chase Offers: AT&T Wireless, Spend $100 & Get $75 Back",
-      "summary": "Earn $75 cash back when you make a new, qualifying wireless payment of at least $100 with AT&T Wireless",
-      "url": "https://www.doctorofcredit.com/targeted-chase-offers-att-wireless-spend-100-get-75-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-01T05:35:36Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
