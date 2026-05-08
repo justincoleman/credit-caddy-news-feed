@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-08T03:18:45Z",
+  "updatedAt": "2026-05-08T07:44:23Z",
   "articles": [
+    {
+      "id": "484c14dd1917308b",
+      "title": "Southwest Points Value: AwardWallet Analysis Shows a 27% Drop Since Dynamic Pricing",
+      "summary": "Whether you've got a stash of Rapid Rewards in your Southwest Airlines account or you're eyeballing a five-digit welcome offer on a co-bran\u2026",
+      "url": "https://awardwallet.com/airlines/southwest-rapid-rewards/southwest-points-value/?pubDate=2026-05-07",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-07T23:51:54Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "1c1b79382c018d72",
       "title": "American Express Rewards Checking: $300 bonus for new customers",
@@ -30,6 +40,16 @@
       "category": "Tips",
       "publishedAt": "2026-05-07T22:43:25Z",
       "source": "One Mile at a Time"
+    },
+    {
+      "id": "75f7ff65875f552c",
+      "title": "Frontier Airlines Promotions: Earn up to 20,000 Bonus Miles and Big Savings on Discount Den Subscriptions",
+      "summary": "AwardWallet receives compensation from advertising partners for links on the blog.",
+      "url": "https://awardwallet.com/news/airlines/frontier-airline-miles-promotion/?pubDate=2026-05-07",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-07T22:10:02Z",
+      "source": "AwardWallet"
     },
     {
       "id": "c3e7dadf714b494f",
@@ -70,6 +90,16 @@
       "category": "Tips",
       "publishedAt": "2026-05-07T20:30:26Z",
       "source": "The Points Guy"
+    },
+    {
+      "id": "068e16d392f23a0a",
+      "title": "The Best Airline Credit Cards With Annual Fees Under $100",
+      "summary": "Airline credit cards can be a valuable tool in a traveler's pocket.",
+      "url": "https://awardwallet.com/credit-cards/airlines/top-airline-credit-cards/?pubDate=2026-05-07",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-07T20:10:02Z",
+      "source": "AwardWallet"
     },
     {
       "id": "48ee202c1fb8912e",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-06T20:00:27Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "537b5aaa89631d48",
-      "title": "Another Best Western promo: Earn 1K bonus points per night (Max 20K points, stack with other promo)",
-      "summary": "We posted yesterday about a Best Western promotion that\u2019s offering 5,000 bonus points for every two nights you stay.",
-      "url": "https://frequentmiler.com/another-best-western-promo-earn-1k-bonus-points-per-night-max-20k-points-stack-with-other-promo/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/Best-Western-promo-1K-bonus-points-per-night-20K-points.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-06T19:45:53Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "16b69934456f447d",
-      "title": "IHG One Rewards Traveler Credit Card review: Hotel perks for no annual fee",
-      "summary": "The no-annual-fee IHG Traveler card offers a decent return on IHG hotel stays.",
-      "url": "https://thepointsguy.com/credit-cards/ihg-rewards-club-traveler-credit-card-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/12/Man-handing-credit-card-to-hotel-receptionist-at-check-in_Anchiy.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-05-06T19:00:39Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "9e96be51ce30fb5c",
-      "title": "AmEx Offers: Paramount+, Spend $13.99+ and Get $12.99 Back (3x), $9 Moneymaker With Portal",
-      "summary": "Get a $11 statement credit by using your enrolled Card to make a single purchase of $11 or more online at paramountplus.com by 12/15/2023",
-      "url": "https://www.doctorofcredit.com/amex-offers-paramount-spend-11-and-get-11-statement-credit-3x/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-06T19:00:36Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
