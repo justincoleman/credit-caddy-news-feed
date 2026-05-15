@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-15T03:37:07Z",
+  "updatedAt": "2026-05-15T08:50:40Z",
   "articles": [
+    {
+      "id": "cdeca348012e4e6f",
+      "title": "Chase Launches Rare Transfer Bonus to Southwest Rapid Rewards \u2014 But Only for a Few Weeks",
+      "summary": "Chase Ultimate Rewards just launched one of the rarest transfer bonuses you\u2019ll see: a 30% bonus to Southwest Rapid Rewards.",
+      "url": "https://awardwallet.com/news/chase-ultimate-rewards/southwest-transfer-bonus/?pubDate=2026-05-15",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-05-15T08:10:02Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "91043f2efd8b4238",
       "title": "Marriott Business Access Launches New Fast-Track to Earn Gold Elite Through 2027",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-12T22:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "a6ac6bfa26f611f8",
-      "title": "Choice Hotels summer promo: Get 8K points every 2 stays (Can redeem for $50 gas gift card)",
-      "summary": "Choice has opened registration for its summer promotion and it\u2019s (seemingly mostly) the same promotion it\u2019s run for many summers in a row.",
-      "url": "https://frequentmiler.com/choice-hotels-summer-promo-get-8k-points-every-2-stays-can-redeem-for-50-gas-gift-card/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/Choice-Privileges-promotion-8K-points-50-gift-card.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-12T21:45:37Z",
-      "source": "Frequent Miler"
     }
   ]
 }
