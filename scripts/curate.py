@@ -108,29 +108,35 @@ def thumb_from_item(item):
 
 CARD_KEYWORDS = re.compile(
     r"\b(amex|american express|chase|citi|capital one|cap one|wells fargo|us bank|bilt|"
-    r"barclays|barclaycard|sapphire|reserve|preferred|platinum|gold card|hilton|marriott|"
+    r"barclays|barclaycard|mastercard|visa|priceless|sapphire|reserve|preferred|platinum|gold card|hilton|marriott|"
     r"hyatt|delta|united|southwest|jetblue|aspire|venture|freedom|ink|business gold|"
-    r"business platinum|edit|skymiles|aadvantage|skyclub|miles|points|cardmember|credit card|"
-    r"annual fee|signup bonus|sub|welcome offer|membership rewards|ultimate rewards|thankyou|"
+    r"business platinum|corporate card|edit|skymiles|aadvantage|skyclub|miles|points|cardmember|credit card|"
+    r"airport lounge|lounge access|annual fee|signup bonus|sub|welcome offer|membership rewards|ultimate rewards|thankyou|"
     r"capital one travel|portal|transfer partner|elevated offer|targeted)\b",
     re.I,
 )
 
 DEAL_KEYWORDS = re.compile(
     r"\b(\$\d+|\d+%|bonus|offer|deal|elevated|limited time|earn \d+|points back|cash back|"
-    r"targeted|special|promo|limited[- ]time|spend \$|stack)\b",
+    r"targeted|special|promo|promotion|limited[- ]time|spend \$|stack|transfer bonus|"
+    r"shopping portal bonus|buy .* points|buy .* miles|welcome bonus|signup bonus|sign[ -]?up bonus|"
+    r"retention offer)\b",
+    re.I,
+)
+HIGH_CONFIDENCE_DEAL_KEYWORDS = re.compile(
+    r"\b(targeted|amex offer|chase offer|capital one offer|citi offer|retention offer|"
+    r"transfer bonus|bonus .*transfer|transfers? .*bonus|shopping portal bonus|"
+    r"welcome bonus|signup bonus|sign[ -]?up bonus|deposit bonus|spend \$|spend .+ get|"
+    r"buy .* points|buy .* miles|limited[- ]time|promo|promotion|elevated offer|"
+    r"deal alert|for just [\d,]+ .*miles|score .*points|score .*miles|"
+    r"\d+% (?:back|off|transfer|bonus)|\$\d+ (?:back|bonus|statement credit))\b",
     re.I,
 )
 TIPS_KEYWORDS = re.compile(
     r"\b(guide|how to|should you|best way|ultimate|strategy|tips|complete|reviewed|review|"
     r"maximize|optimize|sweet spot|hidden|understand|explained|when to|where to|comparison|"
-    r"vs\.|compared)\b",
-    re.I,
-)
-CARD_UPDATE_KEYWORDS = re.compile(
-    r"\b(card refresh|new card|launches?|relaunch|introduces?|debuts?|"
-    r"benefits? (change|update|added|removed)|refreshed|revamp|relaunch|"
-    r"adds? .* benefit|adds? .* credit)\b",
+    r"vs\.|versus|compared|protections?|benefits?|keepers?|which one|what gets you more|"
+    r"analysis paralysis|worth it)\b",
     re.I,
 )
 NEWS_KEYWORDS = re.compile(
@@ -143,30 +149,85 @@ NEWS_KEYWORDS = re.compile(
 SKIP_KEYWORDS = re.compile(
     r"\b(trump|biden|congress|whitehouse|white house|deport|ice agent|iran|russia|ukraine|"
     r"en-suite|cabin design|aircraft seat|boeing 737|airbus a32\d|new route|launches route|"
-    r"inaugural flight|fleet expansion|airline ceo|ceo says)\b",
+    r"inaugural flight|fleet expansion|airline ceo|ceo says|metro station|business class plus|"
+    r"new .*suites?|tax fight)\b",
+    re.I,
+)
+HARD_SKIP_KEYWORDS = re.compile(
+    r"\b(tax fight|metro station|business class plus|new .*suites?)\b",
+    re.I,
+)
+
+CARD_UPDATE_CARD_TERMS = re.compile(
+    r"\b(card|credit card|mastercard|visa|amex|american express|sapphire|freedom|ink|"
+    r"aadvantage globe|strata|platinum|gold|venture|bilt)\b",
+    re.I,
+)
+CARD_UPDATE_ACTION_TERMS = re.compile(
+    r"\b(new|launches?|launched|introduces?|introduced|debuts?|refresh(?:ed)?|revamp(?:ed)?|"
+    r"relaunch(?:ed)?|adds?|removes?|changes?|updated?|benefits? (?:change|update|added|removed))\b",
+    re.I,
+)
+NON_CARD_PROMO_TERMS = re.compile(
+    r"\b(transfer bonus|shopping portal bonus|buy .* points|buy .* miles|fast-track|promotion|promo|"
+    r"targeted|welcome bonus|signup bonus|sign[ -]?up bonus|retention offer|lounges?|airport lounge|"
+    r"price matching|travel accounts?)\b",
     re.I,
 )
 
 
+def is_specific_card_update(title, summary):
+    text = f"{title} {summary}"
+    if NON_CARD_PROMO_TERMS.search(text):
+        return False
+    return bool(CARD_UPDATE_CARD_TERMS.search(text) and CARD_UPDATE_ACTION_TERMS.search(title))
+
+
 def categorize(title, summary):
     text = f"{title} {summary}"
+    lower = text.lower()
 
-    if SKIP_KEYWORDS.search(text) and not (DEAL_KEYWORDS.search(text) or "credit card" in text.lower() or "points" in text.lower()):
+    if HARD_SKIP_KEYWORDS.search(text) and not re.search(r"\b(credit card|cardholder|cardmember)\b", lower):
+        return None
+
+    if SKIP_KEYWORDS.search(text) and not (DEAL_KEYWORDS.search(text) or "credit card" in lower):
         return None
 
     if not CARD_KEYWORDS.search(text):
         return None
 
-    # Deals before Card Updates because lots of deals mention card names
-    if DEAL_KEYWORDS.search(text) and not CARD_UPDATE_KEYWORDS.search(title):
-        return "Deals"
-    if CARD_UPDATE_KEYWORDS.search(title):
+    if is_specific_card_update(title, summary):
         return "Card Updates"
-    if NEWS_KEYWORDS.search(title):
+
+    if HIGH_CONFIDENCE_DEAL_KEYWORDS.search(text):
+        return "Deals"
+
+    if NEWS_KEYWORDS.search(title) or re.search(r"\b(launches?|partnership|lounge|lounges|price matching)\b", title, re.I):
         return "News"
+
+    if TIPS_KEYWORDS.search(text):
+        if not HIGH_CONFIDENCE_DEAL_KEYWORDS.search(text):
+            return "Tips"
+
+    # User-actionable offers win over generic "worth it" or "review" language.
+    if DEAL_KEYWORDS.search(text):
+        return "Deals"
+
     if TIPS_KEYWORDS.search(text):
         return "Tips"
+
     return None
+
+
+def recategorize_existing(article):
+    category = categorize(article.get("title", ""), article.get("summary", ""))
+    if category is None:
+        return None, False
+
+    updated = dict(article)
+    changed = updated.get("category") != category
+    updated["category"] = category
+    return updated, changed
 
 
 # ----- main -----------------------------------------------------------------
@@ -176,8 +237,24 @@ def main():
     articles_path = os.environ.get("ARTICLES_PATH", "articles.json")
     with open(articles_path) as f:
         feed = json.load(f)
-    existing_urls = {a["url"] for a in feed["articles"]}
+    existing_articles = []
+    recategorized_existing = 0
+    dropped_existing = 0
+    for article in feed["articles"]:
+        cleaned, changed = recategorize_existing(article)
+        if cleaned is None:
+            dropped_existing += 1
+            continue
+        existing_articles.append(cleaned)
+        if changed:
+            recategorized_existing += 1
+
+    existing_urls = {a["url"] for a in existing_articles}
     print(f"Existing articles: {len(feed['articles'])}", file=sys.stderr)
+    print(
+        f"Existing audit: kept={len(existing_articles)}  recategorized={recategorized_existing}  dropped={dropped_existing}",
+        file=sys.stderr,
+    )
 
     candidates = []
     fetch_results = []
@@ -245,7 +322,7 @@ def main():
     print(f"\nNew candidates: {len(candidates)}", file=sys.stderr)
 
     # Merge: existing + new, sort desc, prune >30d, cap
-    combined = feed["articles"] + candidates
+    combined = existing_articles + candidates
     cutoff = NOW - PRUNE_AGE
     combined = [a for a in combined if parse_date(a["publishedAt"]) and parse_date(a["publishedAt"]) > cutoff]
     combined.sort(key=lambda a: a["publishedAt"], reverse=True)
