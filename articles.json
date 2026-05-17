@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-05-17T08:22:54Z",
+  "updatedAt": "2026-05-17T13:23:22Z",
   "articles": [
+    {
+      "id": "5118fc0cdc559fa2",
+      "title": "Pass: Transfer Citi ThankYou Points To Wyndham Rewards With 25% Bonus",
+      "summary": "The Citi ThankYou program has just launched a new transfer bonus.",
+      "url": "https://onemileatatime.com/deals/citi-wyndham-transfer-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/06/Wyndham-Grand-Clearwater-Beach.jpg?width=1200&quality=75&height=750&aspect_ratio=8%3A5",
+      "category": "Deals",
+      "publishedAt": "2026-05-17T12:28:23Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "68173a90c967b637",
+      "title": "Transfer Citi ThankYou\u00ae Points to Wyndham Rewards With a 25% Transfer Bonus",
+      "summary": "Now through June 13, 2026, you'll get a 25% transfer bonus when transferring Citi ThankYou\u00ae points to Wyndham Rewards.",
+      "url": "https://awardwallet.com/news/citi-thankyou-rewards/wyndham-transfer-bonus/?pubDate=2026-05-17",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-17T10:50:01Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "eec6c8d3280f3c11",
+      "title": "How To Earn Bilt Points With Rakuten For Online Shopping, And Is It Worth It?",
+      "summary": "Rakuten is my favorite online shopping portal, and it lets you earn bonus rewards for purchases you make online.",
+      "url": "https://onemileatatime.com/guides/bilt-points-rakuten/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/03/Japan-Airlines-First-Class-A350-81.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-05-17T10:25:19Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "3ce580e599ea326e",
       "title": "Last Chance Deals: Hyatt award chart changes, SAS & Turkish award sales, & more",
@@ -302,16 +332,6 @@
       "source": "The Points Guy"
     },
     {
-      "id": "00369cc083c52d62",
-      "title": "Wyndham Rewards Promotions: Member Month Deals, Special Insider Enrollment Offer, and More",
-      "summary": "There are plenty of Wyndham Rewards promotions available right now.",
-      "url": "https://awardwallet.com/news/wyndham-rewards/bonus-points-promotion/?pubDate=2026-05-15",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-15T18:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "f654ced3f14e6f00",
       "title": "United elite status vs. United cardholder perks: What gets you more?",
       "summary": "Trying to decide between United Airlines status and a United card?",
@@ -479,26 +499,6 @@
       "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/05/Andaz-Maui-Villas-5.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
       "category": "Deals",
       "publishedAt": "2026-05-15T10:31:15Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "08f67846be1317af",
-      "title": "Chase Gives 30% More Southwest Points \u2014 Mostly Replaces What Rapid Rewards Took Away",
-      "summary": "Chase is offering a 30% bonus on transfers to Southwest Rapid Rewards, which sounds like value \u2014 until you remember how much Southwest has\u2026",
-      "url": "https://viewfromthewing.com/chase-gives-30-more-southwest-points-mostly-replaces-what-rapid-rewards-took-away/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/southwest-infinite-legroom-exit-row.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-15T10:30:39Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "bf612308a141d0e6",
-      "title": "Chase Offering 30% Southwest Rapid Rewards Transfer Bonus: Worth It?",
-      "summary": "Chase Ultimate Rewardshas just launched a new transfer bonus to Southwest Rapid Rewards, which is only the second time in over five years t\u2026",
-      "url": "https://onemileatatime.com/deals/chase-southwest-transfer-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/02/Southwest-Airlines-New-Cabins-4.jpg?width=1200&quality=75&height=800&aspect_ratio=3%3A2",
-      "category": "Deals",
-      "publishedAt": "2026-05-15T10:06:57Z",
       "source": "One Mile at a Time"
     }
   ]
