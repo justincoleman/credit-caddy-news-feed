@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-05-19T15:26:22Z",
+  "updatedAt": "2026-05-19T19:53:19Z",
   "articles": [
+    {
+      "id": "f738f5429159df60",
+      "title": "JetBlue trims 12 routes, ends Manchester service to focus on Fort Lauderdale",
+      "summary": "JetBlue is doubling down on Fort Lauderdale, but those moves have required the airline to trim routes in other cities.",
+      "url": "https://thepointsguy.com/news/jetblue-route-cuts-ends-manchester-service-fort-lauderdale-focus/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/jetblue-fll.jpg",
+      "category": "News",
+      "publishedAt": "2026-05-19T17:15:39Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "fc4aa171eeec3f8c",
+      "title": "AmEx Offers: Amazon, Spend $40 & Get 1,000 Membership Rewards Points (3x)",
+      "summary": "Check your AmEx Offers to get a bonus 1,000/1,200 Membership Rewards points after spending $40/$150 on Amazon.",
+      "url": "https://www.doctorofcredit.com/amex-offers-amazon-spend-40-get-1000-membership-rewards-points-3x/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-05-19T16:51:10Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "f93f7a225469d93b",
+      "title": "Mastercard Opens New Airport Dining Lounges With Free \u00c0 La Carte Meals",
+      "summary": "Mastercard opened up two lounges with complimentary a la carte dining experiences.",
+      "url": "https://awardwallet.com/travel/mastercard-taste-by-priceless/?pubDate=2026-05-19",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-05-19T16:00:25Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d57c4ee0d08aab5b",
+      "title": "Get a 50% bonus when buying Choice points (buy points for 0.69 cpp)",
+      "summary": "Choice Privileges has launched its latest points sale.",
+      "url": "https://frequentmiler.com/choice-privileges-points-sale/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/02/Choice-buy-points-35-bonus-scaled.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-05-19T15:45:34Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "6951e04dc8602836",
       "title": "[Targeted] AmEx Offer: Chewy.com, Spend $75+ & Receive $15 Statement Credit",
@@ -302,16 +342,6 @@
       "source": "The Points Guy"
     },
     {
-      "id": "c51732d35c60f6a0",
-      "title": "Hilton Puts Diamond Status Signs On Breakfast Tables \u2014 VIP Recognition Or Coupon Shaming?",
-      "summary": "Hilton wants Diamond breakfast guests to feel recognized, but some properties are doing it with table signs that publicly mark who is getti\u2026",
-      "url": "https://viewfromthewing.com/hilton-puts-diamond-status-signs-on-breakfast-tables-vip-recognition-or-coupon-shaming/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/hilton-honors-diamond-breakfast-sign.jpeg",
-      "category": "Tips",
-      "publishedAt": "2026-05-18T15:58:26Z",
-      "source": "View from the Wing"
-    },
-    {
       "id": "040d102e415f05a8",
       "title": "25% transfer bonus to Wyndham Rewards from Citi ThankYou Rewards (1,000:1,250)",
       "summary": "Through 11:59 p.m.",
@@ -432,16 +462,6 @@
       "source": "One Mile at a Time"
     },
     {
-      "id": "c60f3be0f7efe954",
-      "title": "How I Stacked Credit Card Perks to Save $10,000+ on Six Nights in the Maldives",
-      "summary": "Planning a stay in the Maldives can cost thousands per night \u2014 but Hilton points and free night certificates can change the equation.",
-      "url": "https://awardwallet.com/credit-cards/hilton-honors/maldives-trip-credit-card-strategy/?pubDate=2026-05-17",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-05-17T23:49:36Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "0fdc12b0548ef370",
       "title": "Citi ThankYou Points 25% Transfer Bonus To Wyndham (1:1.25)",
       "summary": "Citi are offering a 25% transfer bonus when you transfer your Citi ThankYou points to Wyndham through 11:59 PM ET June 13, 2026",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-17T21:16:26Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "97064fd6e92e4ab5",
-      "title": "How To Earn JetBlue Mosaic Status \u2014 and the Perks of Doing So",
-      "summary": "JetBlue's TrueBlue program has four elite status tiers, conveniently all called \"Mosaic\" plus a number.",
-      "url": "https://awardwallet.com/airlines/jetblue-trueblue/jetblue-mosaic-status/?pubDate=2026-05-17",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-05-17T21:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "0a66847949de8990",
-      "title": "Marriott PointSavers: How To Find Marriott\u2019s Hidden Award Discounts",
-      "summary": "PointSavers awards allow Marriott Bonvoy members to save points on standard or premium room redemptions at top destinations worldwide.",
-      "url": "https://awardwallet.com/hotels/marriott-bonvoy/marriott-pointsavers/?pubDate=2026-05-17",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-05-17T18:09:39Z",
-      "source": "AwardWallet"
     }
   ]
 }
