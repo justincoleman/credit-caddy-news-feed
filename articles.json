@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-05-20T20:19:27Z",
+  "updatedAt": "2026-05-21T03:52:48Z",
   "articles": [
+    {
+      "id": "1a8d3e476be60ef1",
+      "title": "How Bad Is Hyatt\u2019s New Award Chart? We Compared Before and After Rates",
+      "summary": "Hyatt's new award charts are out, so we analyzed how several properties are affected by the changes.",
+      "url": "https://awardwallet.com/news/world-of-hyatt/new-award-chart-first-impressions/?pubDate=2026-05-20",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-05-20T23:49:07Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "49fb1aed58a6a7f8",
+      "title": "Fanatics to join Amex Membership Rewards as a transfer partner \u2014 and launch a new credit card",
+      "summary": "Amex and Fanatics are teaming up on a new partnership that includes a credit card, fan experiences and a future Membership Rewards transfer\u2026",
+      "url": "https://thepointsguy.com/news/american-express-fanatics-partnership-credit-card/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2018/04/IMG-BaseballFans.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-05-20T22:45:25Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "22d8a273487eee9b",
+      "title": "Emirates\u2019 Latest Devaluation Increases Award Prices by 15% \u2014 But There\u2019s a Silver Lining",
+      "summary": "Emirates has just announced two major changes to booking award tickets with Skywards miles.",
+      "url": "https://awardwallet.com/news/airlines/emirates-skywards-2026-devaluation/?pubDate=2026-05-20",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-05-20T22:00:08Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "c0cafc80bc7d9aeb",
+      "title": "Capital One Offers: Earn 25X at CVS in-store (targeted)",
+      "summary": "Capital One Offers\u2014the shopping portal/card-linked program for Capital One cardholders\u2014sometimes has some very generous rates available.",
+      "url": "https://frequentmiler.com/capital-one-offers-earn-25x-at-cvs-in-store-targeted/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/Capital-One-Offers-CVS-25X.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-05-20T21:45:51Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "74702c487263e2d9",
+      "title": "Earn up to 175k Bonus Points With These New Hilton Credit Card Offers",
+      "summary": "New Hilton credit card offers are out, and they're enough to snag multiple free hotel nights worldwide.",
+      "url": "https://awardwallet.com/credit-cards/hilton-honors/hilton-credit-card-offers/?pubDate=2026-05-20",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-05-20T21:08:59Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d42d950a43ce59d7",
+      "title": "American Express & Fanatics Announce Partnership \u2013 New Credit Card, FanCash Transfer Partner & More",
+      "summary": "American Express has announced a new partnership with Fanatics.",
+      "url": "https://www.doctorofcredit.com/american-express-fanatics-announce-partnership-new-credit-card-fancash-transfer-partner-more/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-05-20T21:04:01Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "8798a9d72745d739",
+      "title": "New Hilton American Express card offers: Earn up to 175,000 bonus points",
+      "summary": "A look at the current welcome offers on the Hilton Honors Amex cards, which allow new cardmembers to earn bonus points along with an array\u2026",
+      "url": "https://thepointsguy.com/credit-cards/hilton-honors-amex-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2021/07/20191202_Conrad-Bora-Bora_SHull-128.jpeg",
+      "category": "Card Updates",
+      "publishedAt": "2026-05-20T20:50:37Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "7025e227e2974fc6",
       "title": "Marriott Bonvoy Bevy Card Review: Gold Elite Status Plus Lots of Points on Spending and Stays",
@@ -20,6 +90,16 @@
       "category": "Deals",
       "publishedAt": "2026-05-20T20:00:58Z",
       "source": "Doctor of Credit"
+    },
+    {
+      "id": "5b2e25fc01a4726b",
+      "title": "10 credit cards that offer Priority Pass airport lounge access",
+      "summary": "Airport lounges can take some of the stress out of flying.",
+      "url": "https://thepointsguy.com/credit-cards/best-credit-cards-priority-pass-lounge-access/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/08/Priority-Pass_Facebook_The-Club-SFO.jpg",
+      "category": "News",
+      "publishedAt": "2026-05-20T20:00:12Z",
+      "source": "The Points Guy"
     },
     {
       "id": "d668e5dfff491526",
@@ -67,7 +147,7 @@
       "summary": "It\u2019s been a few hours since Hyatt\u2019s award chart changes went live, so it\u2019s now possible to start getting a gauge on quite how bad\u2014or not\u2014th\u2026",
       "url": "https://frequentmiler.com/first-impressions-of-hyatt-award-chart-changes-a-tremor-rather-than-a-seismic-shift/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/Hyatt-award-chart-changes-good-bad.jpg",
-      "category": "Card Updates",
+      "category": "News",
       "publishedAt": "2026-05-20T17:45:17Z",
       "source": "Frequent Miler"
     },
@@ -240,16 +320,6 @@
       "category": "Tips",
       "publishedAt": "2026-05-19T21:00:38Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "57e1d9adf3101732",
-      "title": "All the Ways To Earn Hilton Honors Points via Credit Cards",
-      "summary": "Travelers have dozens of ways to earn Hilton Honors points.",
-      "url": "https://awardwallet.com/credit-cards/hilton-honors/earn-points-you-can-transfer-to-hilton/?pubDate=2026-05-19",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-19T20:10:07Z",
-      "source": "AwardWallet"
     },
     {
       "id": "25ef94d2c84de7f4",
@@ -430,76 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-18T23:45:24Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "51308e3552259cb6",
-      "title": "Get ChatGPT Free For A Year \u2014 Stack Amex\u2019s New Business Credit With 50% Off Code",
-      "summary": "Amex Business Platinum and Business Gold just added a $300 ChatGPT credit, and the real play is stacking it with a 50% off ChatGPT Business\u2026",
-      "url": "https://viewfromthewing.com/get-chatgpt-free-for-a-year-stack-amexs-new-business-credit-with-50-off-code/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/free-chatgpt.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-05-18T22:43:44Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "7c4c46fc02018a6c",
-      "title": "Flash Sale: Buy Choice Privileges Points With up to a 50% Bonus (0.69\u00a2 Each)",
-      "summary": "Choice Privileges is running a promotion to buy points through May 24, 2026.",
-      "url": "https://awardwallet.com/hotels/choice-privileges/buy-choice-points/?pubDate=2026-05-18",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-18T22:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "438d6609cee9baea",
-      "title": "$400 back with TD Business Solutions Visa",
-      "summary": "The TD Bank Business Solutions Visa is out with an elevated offer of $400 back after $3,000 in purchases in the first 90 days.",
-      "url": "https://frequentmiler.com/400-back-with-td-business-solutions-visa/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/05/TD-Business-Solutions-400-back-scaled.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-18T21:45:16Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "039714856e45a24b",
-      "title": "Transfer Citi ThankYou\u00ae Points to Preferred Hotels and Resorts I Prefer With a 30% Transfer Bonus",
-      "summary": "Citi just launched its first-ever transfer bonus from Citi ThankYou Points to I Prefer Hotel Rewards.",
-      "url": "https://awardwallet.com/news/citi-thankyou-rewards/preferred-hotels-transfer-bonus/?pubDate=2026-05-18",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-05-18T20:00:11Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "1080f2821346a1b8",
-      "title": "Atmos Rewards Summit vs. Citi / AAdvantage Globe: Which airline card should you get?",
-      "summary": "Let's compare the key differences \u2014 and similarities \u2014 between the Atmos Rewards Summit and the Citi / AAdvantage Globe to decide which com\u2026",
-      "url": "https://thepointsguy.com/credit-cards/atmos-summit-vs-citi-globe-showdown/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/08/GettyImages-580503985.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-05-18T20:00:07Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "d1bd22aa45fea428",
-      "title": "Emirates to change reward redemption rates on May 21, 2026",
-      "summary": "A couple of days ago, Emirates Skywards put a notice on its mileage calculator noting that changes would be coming to reward redemption rat\u2026",
-      "url": "https://frequentmiler.com/emirates-to-change-reward-redemption-rates-on-may-21-2025/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/09/Emirates-first-class-raise-glass-wine.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-05-18T19:45:45Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "bd91c2c72c628e45",
-      "title": "Credit card transfer bonuses (May): 55% bonus to Marriott, 30% to Southwest, 25% to Aeroplan and more",
-      "summary": "Here's a look at all the current transfer bonuses involving major credit cards and airline and hotel loyalty programs.",
-      "url": "https://thepointsguy.com/loyalty-programs/current-transfer-bonuses/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/Person-handing-credit-card-over-to-pay-for-bill-at-restaurant_Oscar-Wong.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-18T19:00:47Z",
-      "source": "The Points Guy"
     }
   ]
 }
