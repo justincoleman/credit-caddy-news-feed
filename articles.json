@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-28T03:44:26Z",
+  "updatedAt": "2026-05-28T10:04:51Z",
   "articles": [
+    {
+      "id": "f19e5f97bd2f5f97",
+      "title": "Is The Chase Sapphire Reserve Worth The Annual Fee? My Personal Math",
+      "summary": "The Chase Sapphire Reserve Card (application) has a $795 annual fee, and after the card\u2019s 2025 refresh, the question of whether it\u2019s still\u2026",
+      "url": "https://onemileatatime.com/guides/chase-sapphire-reserve-worth-it/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/03/Alila-Jabal-Akhdar-126.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-05-28T08:38:36Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "57ecc86812c4cf3d",
       "title": "World of Hyatt Complete Guide (2026)",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-05-26T18:11:42Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "755dba27bc368b4c",
-      "title": "Deal of the day: Fly to Alaska from 12,500 Atmos Rewards points this summer",
-      "summary": "You can save on flights to Alaska with this Alaska Airlines Atmos Rewards deal.",
-      "url": "https://thepointsguy.com/deals/deal-of-the-day/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/GettyImages-1498252195.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-05-26T18:05:38Z",
-      "source": "The Points Guy"
     }
   ]
 }
