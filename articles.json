@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-06T03:37:06Z",
+  "updatedAt": "2026-06-06T08:35:15Z",
   "articles": [
+    {
+      "id": "a8a99d39fe49fca4",
+      "title": "Chase Offers: 15% Back At Lowe\u2019s ($50 Maximum Purchase)",
+      "summary": "Some people are seeing a nice offer among their Chase Offers",
+      "url": "https://www.doctorofcredit.com/chase-offers-15-back-at-lowes-50-maximum-purchase/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-06T04:21:52Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "376d2cd023549e4b",
       "title": "[Targeted] U.S. Bank: Spend $250 & Get $25 Back",
@@ -77,7 +87,7 @@
       "summary": "One of my favorite Chase Offers is back, offering either 5% or 10% back at Kroger\u2019s various brands.",
       "url": "https://frequentmiler.com/get-up-to-10-back-at-kroger-brands-with-new-chase-offer/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/Kroger-Chase-Offer-Image.png",
-      "category": "Card Updates",
+      "category": "Deals",
       "publishedAt": "2026-06-05T21:46:26Z",
       "source": "Frequent Miler"
     },
@@ -490,16 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-06-04T13:16:43Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "d4d67bf5988e9541",
-      "title": "I tested Seats.aero\u2019s new AI redemption tool to see if it can maximize the value of your points and miles",
-      "summary": "I put Seats.aero's new AI Assistant to the test to see if AI can help get the best value from points and miles and serve as a one-stop shop\u2026",
-      "url": "https://thepointsguy.com/news/seats-aero-ai-redemption-tool/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/20260528_Redeeming-Points-and-Miles-With-AI_BSmithson-2-1.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-06-04T13:00:39Z",
-      "source": "The Points Guy"
     }
   ]
 }
