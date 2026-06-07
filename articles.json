@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-07T13:55:08Z",
+  "updatedAt": "2026-06-07T19:24:16Z",
   "articles": [
+    {
+      "id": "ab5a36812e2cd66d",
+      "title": "[CO] Fitzsimmons Credit Union $100 Referral Checking Bonus",
+      "summary": "Update 6/6/26: Deal is back, this time it\u2019s a referral offer.",
+      "url": "https://www.doctorofcredit.com/wy-co-fitzsimmons-credit-union-100-checking-bonus-direct-deposit-not-required/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-07T18:15:44Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "6a4b6b895c9b7c24",
+      "title": "The United Gateway\u2120 Card Review: Earn MileagePlus Miles Without Paying an Annual Fee",
+      "summary": "The United Gateway\u2120 Card allows travelers to collect MileagePlus miles without paying an annual fee.",
+      "url": "https://awardwallet.com/credit-cards/united-mileageplus/united-gateway-card/?pubDate=2026-06-07",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-06-07T18:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "4775831dcd618640",
+      "title": "[9% Back On Amazon][Expired] [Targeted, CA only] Patelco Credit Union $300 Checking Bonus",
+      "summary": "Patelco Credit Union is offering a $400 bonus.",
+      "url": "https://www.doctorofcredit.com/ca-only-patelco-credit-union-300-checking-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-07T15:00:31Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "bdcebbb65d97b97b",
+      "title": "New to points and miles? Don\u2019t sleep on bonus challenges",
+      "summary": "Here's how a Hyatt bonus points challenge led to one TPG staff member seeing Niagara Falls for the first time.",
+      "url": "https://thepointsguy.com/hotel/advantages-of-bonus-challenges/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/20260528_Hyatt-Niagara-Falls_ABlack-4.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-07T15:00:05Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "b474eab583c96394",
       "title": "Capital One Shopping/Offers: Earn up to 40% or 35X miles at Klook",
@@ -39,16 +79,6 @@
       "thumbnailUrl": null,
       "category": "Tips",
       "publishedAt": "2026-06-07T10:50:29Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "b346f0473be6c217",
-      "title": "Staples.com: $200 Virtual Visa Giftcard For $200 (Limit 4)",
-      "summary": "Update 6/7/26: Available again.",
-      "url": "https://www.doctorofcredit.com/staples-com-200-fee-free-virtual-visa-giftcard-limit-5/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-07T10:25:34Z",
       "source": "Doctor of Credit"
     },
     {
@@ -470,36 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-06-05T13:45:28Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "16153f39ee66a582",
-      "title": "American Express Delta Cards Add $120 Rideshare Credit (Personal & Business)",
-      "summary": "American Express just added a new second bag free credit on the Delta cards, but at the same time they also introduced a new $120 rideshare\u2026",
-      "url": "https://www.doctorofcredit.com/american-express-delta-cards-add-120-rideshare-credit-personal-business/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-06-05T13:00:01Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "2004c555c2b10e07",
-      "title": "American Upgrades Lounge Food With A La Carte Dishes, Cheese-Monger Carts",
-      "summary": "American is trying to become more competitive with Delta and United, given the massive profitability gap between the airlines.",
-      "url": "https://onemileatatime.com/news/american-upgrades-lounge-food/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/06/Flagship-Lounge-Menu-Order-1.jpg?width=800&quality=75&height=530&aspect_ratio=80%3A53",
-      "category": "News",
-      "publishedAt": "2026-06-05T12:41:59Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "7414740027d17ef1",
-      "title": "Chase Offers/BofA: AT&T Fiber, Spend $55, Earn $50",
-      "summary": "Update 5/24/21: Deal is back, this time it's for $100 cashback when you make two payments of $50+ each.",
-      "url": "https://www.doctorofcredit.com/chase-offers-bofa-att-fiber-make-two-payments-of-40-earn-80-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-05T12:00:46Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
