@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-06-08T04:08:14Z",
+  "updatedAt": "2026-06-08T10:58:31Z",
   "articles": [
+    {
+      "id": "28c93aa1e6109864",
+      "title": "Easy Promo: Earn 1,000 Bonus Qatar Airways Avios On Your Next Hilton Stay",
+      "summary": "While not the highest value promotion in the world, here\u2019s an easy opportunity to earn some extra rewards on your next Hilton stay\u2026",
+      "url": "https://onemileatatime.com/deals/qatar-airways-avios-hilton-stay/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/04/Hilton-Frankfurt-Airport-15.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-06-08T07:07:43Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "f7d5cdb3122eaa0f",
       "title": "Hotel review: Hilton Woking, England",
@@ -17,7 +27,7 @@
       "summary": "Paying the IRS is never fun.",
       "url": "https://awardwallet.com/credit-cards/pay-taxes-with-credit-card/?pubDate=2026-06-07",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-06-07T23:51:52Z",
       "source": "AwardWallet"
     },
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-06-05T16:00:13Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "17b7de3ecee596a6",
-      "title": "Current Amex Offers",
-      "summary": "This post is designed to show current Amex Offers.",
-      "url": "https://frequentmiler.com/current-amex-offers/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Amex-Offers-Tablet.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-05T15:45:23Z",
-      "source": "Frequent Miler"
     }
   ]
 }
