@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-06-07T19:24:16Z",
+  "updatedAt": "2026-06-08T04:08:14Z",
   "articles": [
+    {
+      "id": "f7d5cdb3122eaa0f",
+      "title": "Hotel review: Hilton Woking, England",
+      "summary": "After flying back to home to the UK after our trip to Crete, my wife and I stayed in the southeast of England for a few more days.",
+      "url": "https://frequentmiler.com/hotel-review-hilton-woking-england/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Hilton-Woking-England-breakfast-View-from-OXBO-restaurant.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-06-08T01:45:18Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "59f6be10873aa9f7",
+      "title": "Making Estimated Tax Payments? Use These Credit Cards To Earn Points, Miles, or Cash Back",
+      "summary": "Paying the IRS is never fun.",
+      "url": "https://awardwallet.com/credit-cards/pay-taxes-with-credit-card/?pubDate=2026-06-07",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-06-07T23:51:52Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "e5dd5ec3eb7f8b7c",
+      "title": "How to Save up to $100 on Hotel Stays or $200 on Flights Through Capital One Travel Offers",
+      "summary": "If you hold a Capital One or Discover by Capital One credit card, you can book travel through the Capital One Travel portal.",
+      "url": "https://awardwallet.com/news/capital-one-rewards/capital-one-travel-offers/?pubDate=2026-06-07",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-06-07T21:00:25Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "b0de61833d4c4c19",
+      "title": "Office Depot/OfficeMax: Buy $300+ Mastercard Gift Cards, Save $15",
+      "summary": "Office Depot and OfficeMax stores have returned with their profitable gift card deal on Mastercard gift cards.",
+      "url": "https://frequentmiler.com/office-depot-officemax-buy-300-mastercard-gift-cards-save-15/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/03/Mastercard-gift-card.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-07T19:45:11Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "ab5a36812e2cd66d",
       "title": "[CO] Fitzsimmons Credit Union $100 Referral Checking Bonus",
@@ -459,46 +499,6 @@
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Amex-Offers-Tablet.jpg",
       "category": "Deals",
       "publishedAt": "2026-06-05T15:45:23Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0f14c3b67c334902",
-      "title": "[Targeted] PayPal: 20% Cashback In Points On Digital Gaming, Up To $45 In Points",
-      "summary": "PayPal is offering 20% cashback in points on digital gaming purchases, up to 4,500 points (worth $45)",
-      "url": "https://www.doctorofcredit.com/targeted-paypal-20-cashback-in-points-on-digital-gaming-up-to-45-in-points/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-05T15:00:09Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "b1e5876c9c7ac527",
-      "title": "Have the Chase Sapphire Preferred? You're likely eligible for the Sapphire Reserve. Here's how",
-      "summary": "If you currently have the Chase Sapphire Preferred, you're still eligible for the Chase Sapphire Reserve's high welcome bonus and luxury pe\u2026",
-      "url": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-eligibility-sapphire-reserve/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/01/Chase-Sapphire-Reserve_CHASE-14.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-05T14:00:08Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "c018f7b77567beb6",
-      "title": "What To Do When Transferable Points Don\u2019t Transfer As Expected: My Tips",
-      "summary": "I always recommend doing what you can to earn transferable points currencies for your credit card spending, as this gives you the most flex\u2026",
-      "url": "https://onemileatatime.com/insights/when-transferable-points-dont-transfer/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Etihad-A380-First-Class-Apartment-19.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-06-05T13:48:22Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "12430b352ba2410f",
-      "title": "Chase Sapphire Reserve\u00ae: New 150K Welcome Offer (Ending soon)",
-      "summary": "Update 6/5: Although there\u2019s no confirmed end date, we\u2019ve been informed that this best-ever offer for the Chase Sapphire Reserve\u00ae will be e\u2026",
-      "url": "https://frequentmiler.com/chase-sapphire-reserve-new-150k-welcome-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/New-Sapphire-Reserve.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-06-05T13:45:28Z",
       "source": "Frequent Miler"
     }
   ]
