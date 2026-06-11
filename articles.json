@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-06-10T20:31:58Z",
+  "updatedAt": "2026-06-11T04:05:17Z",
   "articles": [
+    {
+      "id": "b63cd65c0f555a54",
+      "title": "My take on the refreshed Sapphire Preferred Card",
+      "summary": "Chase has announced big changes to the Sapphire Preferred\u00ae Card, starting June 15th.",
+      "url": "https://frequentmiler.com/my-take-on-the-refreshed-sapphire-preferred-card/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Sapphire-Reserve-Refresh-Chalkboard.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-06-11T01:45:53Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "4da416fa2b2b523b",
+      "title": "Amex Refer a Friend Program: Earn Bonus Points or Cash Back on Card Referrals",
+      "summary": "American Express allows Card Members to refer their cards to others in exchange for bonus points, miles, or cash back.",
+      "url": "https://awardwallet.com/credit-cards/amex-refer-a-friend/?pubDate=2026-06-11",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-06-11T00:00:05Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "0d3f39fe3a4d32a1",
+      "title": "Qatar business class open from US \u2013 Doha starting in August 2026",
+      "summary": "Qatar Airways will be restarting service from Philadelphia to Doha this August, which has caused a decent bit of business class availabilit\u2026",
+      "url": "https://frequentmiler.com/qatar-business-class-open-from-us-doha-starting-in-august-2026/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/03/Qatar-Airways-featured-image-with-people.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-10T23:45:52Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "197426dea74b171d",
+      "title": "Buy Southwest Rapid Rewards Points With up to a 45% Discount Through July 22",
+      "summary": "Southwest just launched a promotion to buy Rapid Rewards points with an up-to-45% discount.",
+      "url": "https://awardwallet.com/airlines/southwest-rapid-rewards/buy-southwest-points/?pubDate=2026-06-10",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-10T22:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "481c5e6b77cacef8",
+      "title": "How I saved over $8,000 on a family trip to Paris with the Chase Sapphire Reserve",
+      "summary": "See how Chase Sapphire Reserve's 150K-point offer could help cover flights, hotels and more on a family trip to Paris during peak season.",
+      "url": "https://thepointsguy.com/credit-cards/family-trip-to-paris-with-chase-sapphire-reserve/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/06/IMG_2171.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-10T22:00:46Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "0f7b94e4d6d61674",
+      "title": "Buy Hilton Points For 0.5 Cents Each",
+      "summary": "Hilton has returned with a new sale offering members an up to 100% bonus when purchasing Hilton Honors points.",
+      "url": "https://frequentmiler.com/buy-hilton-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2019/09/Conrad-Bora-Bora-beach-boat.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-10T21:45:33Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "2783221558b750c4",
+      "title": "Marriott Homes & Villas Promotions: New Offers for Double Points, Triple Points, and 10k Bonus Points on Stays",
+      "summary": "If you're considering a trip, now is a great time to book a stay through Marriott Homes & Villas.",
+      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-homes-and-villas-promotions/?pubDate=2026-06-10",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-10T21:10:02Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "8114c835ff6636df",
       "title": "Subscribe to Accor+ Explorer for 2,000 Bonus Points \u2014 and Score Perks at Select Accor Hotels",
@@ -10,6 +80,16 @@
       "category": "Deals",
       "publishedAt": "2026-06-10T20:10:02Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "a685a2fcfcde64d8",
+      "title": "Points Path works beyond Google Flights: Here's where else you can use it",
+      "summary": "Points Path works beyond Google Flights with opt-in features for Chase Travel Points Boost and hotel price comparisons.",
+      "url": "https://thepointsguy.com/news/points-path-chase-points-boost-hotel-comparison/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/06/GettyImages-2155062003.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-06-10T20:00:39Z",
+      "source": "The Points Guy"
     },
     {
       "id": "931f910f6b8a7319",
@@ -77,7 +157,7 @@
       "summary": "It's not very often you can mention national parks, glamping, and bonus points in the same sentence.",
       "url": "https://awardwallet.com/news/world-of-hyatt/under-canvas-promotions/?pubDate=2026-06-10",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-06-10T18:10:02Z",
       "source": "AwardWallet"
     },
@@ -302,16 +382,6 @@
       "source": "The Points Guy"
     },
     {
-      "id": "9058134dc5c975b7",
-      "title": "Southwest Airlines Flight Attendants Are Furious That Mechanics Will Soon Be Able To Travel In Jumpseats On Full Flights",
-      "summary": "Southwest is restoring cabin jumpseat access for mechanics and other employees after a union challenge, reversing a flight-attendant-only p\u2026",
-      "url": "https://viewfromthewing.com/southwest-airlines-flight-attendants-are-furious-that-mechanics-will-soon-be-able-to-travel-in-jumpseats-on-full-flights/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/southwest-flight-attendants-in-jumpseats.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-06-10T10:49:19Z",
-      "source": "View from the Wing"
-    },
-    {
       "id": "9e5e77830a7f4792",
       "title": "Buy Hilton Honors Points With 100% Bonus, 0.5 Cents Each: Worth It?",
       "summary": "Hilton Honors has just launched its newest bonus on purchased points, which is in line with the best offers we see from the program.",
@@ -430,76 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-06-09T21:00:18Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "b1a19bb0fc55fcdd",
-      "title": "Capital One VentureOne Card Review: A Surprisingly Well-Rounded No-Annual-Fee Card",
-      "summary": "Despite charging no annual fee, the Capital One VentureOne Rewards Credit Card offers solid earnings, travel and shopping protections, elit\u2026",
-      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/venture-one-card/?pubDate=2026-06-09",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-06-09T20:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "f6d6620f15d2aeea",
-      "title": "(Extended) Buy IHG Points for as low as 0.5 cents each",
-      "summary": "Update 6/9/26: IHG has extended this points sale through June 12, 2026 (it was originally scheduled to end on June 6).",
-      "url": "https://frequentmiler.com/buy-ihg-points/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/07/IHG-100-points-bonus.png",
-      "category": "Deals",
-      "publishedAt": "2026-06-09T19:45:48Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "e89b4d3180f883a8",
-      "title": "The best time to apply for these popular Capital One credit cards based on offer history",
-      "summary": "Want to know if a card's current offer is its best?",
-      "url": "https://thepointsguy.com/credit-cards/capital-one-best-welcome-offers/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/12/Couple-using-table-outside-with-credit-card_RgStudio.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-09T19:00:23Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "6d70b3b43926e084",
-      "title": "Capital One Venture Business 100,000 Points Signup Bonus After $10,000 Spend",
-      "summary": "Capital One Venture Business (previously Spark Miles) signup bonus offer is 100,000 points after spending $10,000.",
-      "url": "https://www.doctorofcredit.com/capital-one-venture-business-100000-points-signup-bonus-after-10000-spend/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-09T18:46:26Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "833da5fa0fd255a3",
-      "title": "Southwest\u2019s New Singapore Airlines Partnership Sounds Like A Big Deal, But Won\u2019t Do Much For Travelers",
-      "summary": "Southwest\u2019s new Singapore Airlines partnership is only an interline deal, adding through-ticketing and baggage handling but no codeshare, m\u2026",
-      "url": "https://viewfromthewing.com/southwests-new-singapore-airlines-partnership-sounds-like-a-big-deal-but-wont-do-much-for-travelers/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/singapore-airlines-and-southwest-airlines.jpg",
-      "category": "News",
-      "publishedAt": "2026-06-09T18:34:31Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "7a4ac37c25bcc6c3",
-      "title": "Marriott, Virgin Atlantic, and Many More: Save up to $500 or Earn 50k Bonus Points Via Amex Offers",
-      "summary": "Amex is currently offering a bounty of travel-related Amex Offers!",
-      "url": "https://awardwallet.com/news/amex-membership-rewards/amex-offers/?pubDate=2026-06-09",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-09T18:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "1a9b66307a9d08d5",
-      "title": "The Best Travel Rewards Credit Card Strategy Is Two Cards, Not One",
-      "summary": "The best travel rewards setup usually pairs one card for bonus categories with another for everyday spending, instead of chasing a single p\u2026",
-      "url": "https://viewfromthewing.com/the-best-travel-rewards-credit-card-strategy-is-two-cards-not-one/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-06-09T18:04:53Z",
-      "source": "View from the Wing"
     }
   ]
 }
