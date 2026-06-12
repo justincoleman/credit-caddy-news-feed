@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:06:34Z",
+  "updatedAt": "2026-06-12T10:15:13Z",
   "articles": [
     {
       "id": "acd7be4c56d50b1a",
@@ -10,6 +10,16 @@
       "category": "Tips",
       "publishedAt": "2026-06-11T23:49:46Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "09824c904e4ce574",
+      "title": "[LAST CHANCE] Chase Sapphire Reserve 150,000 Point Bonus",
+      "summary": "Chase Sapphire Reserve\u2019s 150,000-point initial bonus ends June 15, with strong travel and dining earning, Sapphire Lounge access, and credi\u2026",
+      "url": "https://viewfromthewing.com/chase-sapphire-reserve-150000/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/chase-sapphire-reserve-unboxing.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-11T23:04:50Z",
+      "source": "View from the Wing"
     },
     {
       "id": "d07db5fa3b67c541",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-06-10T15:00:14Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "e8e30536d542ec7f",
-      "title": "Choice Privileges Experiences: Bid on Canadian Football League tickets which include $250 merch cards",
-      "summary": "Choice Privileges Experiences has a couple of new auctions you can bid on for Canadian Football League games.",
-      "url": "https://frequentmiler.com/choice-privileges-experiences-bid-on-canadian-football-league-tickets-which-include-250-merch-cards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Choice-Privileges-CFL-auction.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-10T14:45:47Z",
-      "source": "Frequent Miler"
     }
   ]
 }
