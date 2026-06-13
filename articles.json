@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-13T09:18:07Z",
+  "updatedAt": "2026-06-13T14:02:13Z",
   "articles": [
+    {
+      "id": "bfe773b961aff552",
+      "title": "Hotel Points Are Not Created Equally: Which Currency Is the Most Valuable to Redeem?",
+      "summary": "Not all hotel points are created equal.",
+      "url": "https://awardwallet.com/hotels/which-hotel-points-are-most-valuable/?pubDate=2026-06-13",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-13T12:00:50Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "f02273ec3f92a583",
+      "title": "A devaluation or a refresh (take your pick), a low-cost high-reward wallet, waking up on Wyndham and more [Week in Review]",
+      "summary": "I caught myself sleeping on Wyndham.",
+      "url": "https://frequentmiler.com/a-devaluation-or-a-refresh-take-your-pick-a-low-cost-high-reward-wallet-waking-up-on-wyndham-and-more-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/06/Wyndham-guy-over-Caesars-palace.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-06-13T11:59:44Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "8d9702e474487232",
       "title": "Rakuten: Signup For SoFi Invest & Get $150/15,000 MR Points",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-06-11T16:40:03Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "51a42d4891d72139",
-      "title": "[Targeted] PayPal Rewards: Use Pay Later & Get 5% Back (Up To $10)",
-      "summary": "PayPal Rewards is offering 15% back in rewards when you use Pay later for the first time.",
-      "url": "https://www.doctorofcredit.com/targeted-paypal-rewards-use-pay-later-get-5-back-up-to-10/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-11T16:00:48Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "f4df8122b1b170d2",
-      "title": "How to transfer Avios between British Airways, Qatar, Iberia, Aer Lingus, Finnair and Loganair",
-      "summary": "British Airways, Qatar, Aer Lingus, Iberia, Finnair, regional Scottish airline Loganair, and Vueling (a low-cost carrier) all share a commo\u2026",
-      "url": "https://frequentmiler.com/how-to-transfer-avios-between-programs/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2018/09/Avios.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-06-11T15:45:30Z",
-      "source": "Frequent Miler"
     }
   ]
 }
