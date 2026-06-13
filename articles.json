@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-13T14:02:13Z",
+  "updatedAt": "2026-06-13T19:27:15Z",
   "articles": [
+    {
+      "id": "4fdaddf1ab6f3ff7",
+      "title": "The United\u2120 Explorer Card Review: Lots of Perks and a $0 Annual Fee for the First Year",
+      "summary": "If United is your airline of choice, carrying a co-branded credit card will give you a bunch of perks often associated with elite status.",
+      "url": "https://awardwallet.com/credit-cards/united-mileageplus/united-explorer-card/?pubDate=2026-06-13",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-06-13T18:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d1c55d7bb2c9bfeb",
+      "title": "20 Points and Miles Deals Ending Soon: Transfer Bonuses, a 150K Card Bonus, Flight Attendant Training Experience, and More",
+      "summary": "At least 20 promotions are ending or changing in the next two weeks.",
+      "url": "https://awardwallet.com/news/loyalty-program-promotions/?pubDate=2026-06-13",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-13T15:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "0223d10f25897139",
+      "title": "Amex Travel App: How to plan and book trips \u2014 and when to use it",
+      "summary": "Learn how to use the Amex Travel App to book flights, hotels, rental cars and more.",
+      "url": "https://thepointsguy.com/credit-cards/amex-travel-app/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/20250815_Amex-Business-Platinum-Sponcon-Newsletter_GettyImages-2161377274_Thomas-Barwick.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-06-13T14:00:59Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "bfe773b961aff552",
       "title": "Hotel Points Are Not Created Equally: Which Currency Is the Most Valuable to Redeem?",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-06-11T18:05:06Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "0ab415ba59735fad",
-      "title": "Delta promo: Earn 20% bonus MQDs when booking Extra seats (targeted?)",
-      "summary": "Delta is targeting some SkyMiles members with an opportunity to earn 20% bonus Medallion Qualification Dollars (MQDs) when booking Extra se\u2026",
-      "url": "https://frequentmiler.com/delta-promo-earn-20-bonus-mqds-when-booking-extra-seats-targeted/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Delta-20-bonus-Medallion-Qualification-Dollars-MQDs.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-11T17:45:36Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "c290c1c4ea9e4bde",
-      "title": "Schwab Investor Card from American Express $300 Sign Up Bonus",
-      "summary": "Schwab Investor Card from American Express is offering a sign up bonus of $300 after $1,000 in spend within the first three months of Card\u2026",
-      "url": "https://www.doctorofcredit.com/schwab-investor-card-from-american-express-300-sign-up-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-11T17:00:41Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "a8f862afec48d619",
-      "title": "Sign up for Rakuten and Earn $50 or 5,000 Amex or Bilt Points After Spending $50 \u2014 and Score Deals Throughout Travel Week",
-      "summary": "Rakuten is one of the oldest \u2014 and remains one of the best \u2014 shopping portals on the internet for earning bonus rewards.",
-      "url": "https://awardwallet.com/shopping/rakuten-rewards/?pubDate=2026-06-11",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-11T16:40:03Z",
-      "source": "AwardWallet"
     }
   ]
 }
