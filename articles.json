@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-06-22T04:22:25Z",
+  "updatedAt": "2026-06-22T11:57:26Z",
   "articles": [
+    {
+      "id": "1cb45ea9f6102c2c",
+      "title": "Review: Brunfels Hotel Mainz, Hyatt Unbound Collection (Charming, Mostly)",
+      "summary": "For the last hotel stay ofmy two-part birthday trip to the Golden Triangle, my dad and I spent a few nights at the 127-key Brunfels Mainz,\u2026",
+      "url": "https://onemileatatime.com/reviews/brunfels-hotel-mainz-hyatt-unbound-collection/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/06/Brunfels-Mainz-Frankfurt-Hyatt-Unbound-Collection-21-1.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-06-22T09:15:21Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "9c7eeff720735fa2",
+      "title": "Buy IHG One Rewards Points With 100% Bonus, 0.5 Cents Each: Worth It?",
+      "summary": "Strategically buying points can be a good value, especially for luxury hotel stays.",
+      "url": "https://onemileatatime.com/deals/buy-ihg-one-rewards-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/10/Kimpton-Pool-Beach.jpeg?width=1200&quality=75&height=678&aspect_ratio=200%3A113",
+      "category": "Deals",
+      "publishedAt": "2026-06-22T08:18:55Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "2cab38a9cacce978",
+      "title": "Today Only: Up To 4x Bonus Airline Miles On Apple Purchases",
+      "summary": "Online shopping portals can be a great way to pick up additional miles and points for purchases youd make anyway.",
+      "url": "https://onemileatatime.com/deals/bonus-miles-apple/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/iphone-camera.jpg?width=680&quality=75&height=466&aspect_ratio=340%3A233",
+      "category": "Deals",
+      "publishedAt": "2026-06-22T04:36:41Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "b7a3d021de365e13",
       "title": "(Update) Chase Sapphire & Freedom Cards Get 10x With Paze Checkout through 2026 (United, Shoprite, Dunkin, Etc.)",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-06-19T16:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "1f775516050d1435",
-      "title": "Deal alert: Points and miles travel deals for June 2026",
-      "summary": "Save, maximize and earn points and miles on various travel purchases this June.",
-      "url": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/Guanajuato_\u00a9-MARCO-BOTTIGELLI.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-19T16:00:10Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "bb8c995e87810087",
-      "title": "Earn 2.5x American Airlines per dollar at GiftCards.com",
-      "summary": "The American Airlines AAdvantage shopping portal is currently offering a higher payout of 2.5 miles and loyalty points per dollar spent at\u2026",
-      "url": "https://frequentmiler.com/earn-2-5x-american-airlines-per-dollar-at-giftcards-com/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/11/Giftcards.com-AA.png",
-      "category": "Deals",
-      "publishedAt": "2026-06-19T15:45:29Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "5b301e34dd236cc9",
-      "title": "Book immediately: Wide open Delta One business-class availability to Europe this summer for 115,000 SkyMiles plus $5.60",
-      "summary": "Score wide-open Delta One award space to Europe this summer for 115,000 SkyMiles plus $5.60, with seats available from June through August\u2026",
-      "url": "https://thepointsguy.com/deals/delta-one-europe-this-summer/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/20250304_Delta-One-LAX-to-Brisbane-Australia_CHenderson-52.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-19T15:30:17Z",
-      "source": "The Points Guy"
     }
   ]
 }
