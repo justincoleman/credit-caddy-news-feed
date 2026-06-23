@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-06-23T14:51:00Z",
+  "updatedAt": "2026-06-23T20:07:05Z",
   "articles": [
+    {
+      "id": "5cd79da55eadf826",
+      "title": "Capital One Launches Partnership With Inspirato: Venture X Cardholders Get 20% Off and a Free Stay for a Limited Time",
+      "summary": "For a limited time, [CC_AW_FullName slug=VentureX] cardholders can enjoy 20% off an Inspirato Club subscription initiation fee and a compli\u2026",
+      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/inspirato-partnership/?pubDate=2026-06-23",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-23T20:00:58Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "4c959f98825cfacd",
+      "title": "U.S. Bank Adds Spend Tracker For Signup Bonus (Business Cards)",
+      "summary": "U.S.",
+      "url": "https://www.doctorofcredit.com/u-s-bank-adds-spend-tracker-for-signup-bonus-business-cards/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-23T19:59:56Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "1adf108541340a7f",
+      "title": "Get a 30% bonus transferring Amex Membership Rewards to Virgin Atlantic",
+      "summary": "American Express launched a couple of new transfer bonuses today.",
+      "url": "https://frequentmiler.com/30-percent-transfer-bonus-american-express-membership-rewards-virgin-atlantic/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/07/Virgin-Atlantic-Airplane.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T18:45:30Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "a230c131420b5bdb",
+      "title": "Chase Sapphire Card Bonus Categories Explained: Preferred Vs. Reserve",
+      "summary": "Chase is known for its popular cards earning Ultimate Rewards points, including the Chase Sapphire Preferred Card (learn more), Chase Sapph\u2026",
+      "url": "https://onemileatatime.com/guides/chase-sapphire-bonus-categories/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/07/Lufthansa-Business-Class-Coronavirus-1.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-06-23T18:05:35Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "d6eed40480b29f04",
+      "title": "Southwest Card\u2019s 90,000 Point Bonus Gets You Most Of The Way To Companion Pass",
+      "summary": "Southwest\u2019s new 90,000-point Priority Card offer is valuable on its own, but the bigger play is Companion Pass.",
+      "url": "https://viewfromthewing.com/southwest-cards-90000-point-bonus-gets-you-most-of-the-way-to-companion-pass/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/southwest-austin-airport-gate-22.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T18:04:44Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "e9eb903704a1f894",
+      "title": "Sonesta Amex Offer: Spend $300+, get $60 back",
+      "summary": "Once or twice a year, we tend to see a Sonesta Amex Offer giving $60 back when spending $300 or more.",
+      "url": "https://frequentmiler.com/sonesta-amex-offer-spend-300-get-60-back-us-us-territories-only/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/04/The-Alexis-Royal-Sonesta-Hotel-Seattle-Formerly-the-Kimpton-Hotel-Alexis-Seattle.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T17:45:16Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "448f5f1cc93eed4a",
+      "title": "(Summit 100K ending 6/30) Alaska Atmos credit cards: earn 80K-100K bonus points + a 50% off discount code",
+      "summary": "Update 6/23/26: The Alaska Airlines website is currently listing the 100K bonus points + 25K Companion Award + 50% flight discount welcome\u2026",
+      "url": "https://frequentmiler.com/increased-welcome-offers-on-all-three-alaska-atmos-credit-cards-earn-85k-100k-bonus-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/03/Alaska-Airlines-Atmos-Summit-100K-welcome-offer.png",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T16:45:00Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "f6d6620f15d2aeea",
+      "title": "Buy IHG Points for as low as 0.5 cents each",
+      "summary": "IHG has returned with another sale, offering a 100% bonus when buying points.",
+      "url": "https://frequentmiler.com/buy-ihg-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/07/IHG-100-points-bonus.png",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T15:45:20Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "949bb0c12411f4d2",
+      "title": "Offer ends soon: Earn 90,000 valuable American Airlines AAdvantage miles with this Citi / AAdvantage Globe bonus",
+      "summary": "Citi's AAdvantage credit card lineup comes with solid welcome bonus offers for more miles to use on American Airlines flights.",
+      "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/PHX-Planes-10.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T15:30:35Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "adec0c1f6764ae8e",
+      "title": "[Targeted iOS Only] Polymarket: Deposit $25, Get $50 Bonus For Existing Users",
+      "summary": "Polymarket is offering a $50 bonus when you deposit $25+ for the World Cup for existing users.",
+      "url": "https://www.doctorofcredit.com/targeted-ios-only-polymarket-deposit-25-get-50-bonus-for-existing-users/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-06-23T15:00:26Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "0e6ee7a70cd82811",
+      "title": "8 Chase Sapphire Preferred benefits you might not know about in 2026",
+      "summary": "In addition to spending bonuses and primary rental insurance, check out these Chase Sapphire Preferred benefits that might be flying under\u2026",
+      "url": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-lesser-known-benefits-2026/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/young-business-woman-working-on-laptop-at-cafe_ilona-titova.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-06-23T15:00:02Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "c50bb120913ca48f",
+      "title": "Hyatt promo: Earn 2K bonus points every 2 nights from 2nd stay",
+      "summary": "World of Hyatt has launched a new global promotion that\u2019s simultaneously nice to have but also meh.",
+      "url": "https://frequentmiler.com/hyatt-promo-earn-2k-bonus-points-every-2-nights-from-2nd-stay/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/World-of-Hyatt-promotion-2000-bonus-points-every-2-nights-from-second-stay.png",
+      "category": "Deals",
+      "publishedAt": "2026-06-23T14:45:17Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "e36d2e17850a01ad",
       "title": "Flight Attendants Get Less Funeral Leave Than Pilots \u2014 The Difference Isn\u2019t About Grief",
@@ -20,6 +140,16 @@
       "category": "Card Updates",
       "publishedAt": "2026-06-23T14:00:59Z",
       "source": "Doctor of Credit"
+    },
+    {
+      "id": "74c879ba7d3eb69d",
+      "title": "How to quickly earn the Southwest Companion Pass",
+      "summary": "Find out how to quickly earn the Southwest Companion Pass through credit cards and other strategies.",
+      "url": "https://thepointsguy.com/loyalty-programs/earn-southwest-companion-pass-new-year/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/12/Hawaiian-Airlines-Boeing-717-Maui-Kona-Zach-Griff-36.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-06-23T14:00:43Z",
+      "source": "The Points Guy"
     },
     {
       "id": "600d58fcdcfd3e0c",
@@ -77,7 +207,7 @@
       "summary": "Everyone loves earning World of Hyatt bonus points.",
       "url": "https://awardwallet.com/news/world-of-hyatt/hyatt-promotions/?pubDate=2026-06-23",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-06-23T12:10:02Z",
       "source": "AwardWallet"
     },
@@ -370,136 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-06-22T00:11:59Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "d6f2b36b0c565f55",
-      "title": "Comparing Citibank Cashback Credit Cards: Which One Should You Get?",
-      "summary": "Compare Citi's cash-back credit cards to find the best fit for your spending habits.",
-      "url": "https://awardwallet.com/blog/comparing-citibank-cashback-credit-cards-which-one-should-you-get/?pubDate=2026-06-21",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-06-21T23:49:12Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "4f44a5b775b54154",
-      "title": "Chase Offers: 15% Off Optimum Subscription For New Customers",
-      "summary": "Chase offer: Earn 15% cash back on your new Optimum subscription when you spend $60 or more.",
-      "url": "https://www.doctorofcredit.com/chase-offers-15-off-optimum-subscription-for-new-customers/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-21T23:10:37Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "a2f1ef83431080c2",
-      "title": "Staples: 100% Back In Points Scotch Purchases, Up To $40",
-      "summary": "Staples and Staples.com is offering 100% back in point on Scotch products, up to $40.",
-      "url": "https://www.doctorofcredit.com/staples-100-back-in-points-scotch-purchases-up-to-40/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-21T21:17:04Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "fa8c4f1ce1c986d4",
-      "title": "Chase Sapphire Preferred Vs. Reserve: Which Is Better?",
-      "summary": "The Chase Sapphire Preferred Card and Chase Sapphire Reserve Card are both compelling travel rewards credit cards.",
-      "url": "https://onemileatatime.com/guides/chase-sapphire-preferred-vs-sapphire-reserve/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/11/Las-Alcobas-Napa-Valley-10.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-06-21T19:59:24Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "6d5e48f935a31987",
-      "title": "(Update) ShopBack Shopping Portal $15+ In Signup Bonuses & More; Earn Cashback On Amazon & More",
-      "summary": "Shopback shopping portal with $15 signup bonus, 1.5% back on Amazon, and often increased cashback rates and Quest deals",
-      "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-21T19:00:39Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "98c9c03b9c9a5a31",
-      "title": "Capital One Shopping: Get 40% Back On Viator (Tours, Transfers, Activities)",
-      "summary": "Capital One Shopping portal is offering 45%-50% back on Viator bookings.",
-      "url": "https://www.doctorofcredit.com/capital-one-shopping-get-45-50-back-on-viator-tours-transfers-activities/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-21T18:15:35Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "ece865bc84c8f342",
-      "title": "Amex Marriott Bonvoy Brilliant Card Review: Excellent Perks for a Premium Annual Fee",
-      "summary": "The Marriott Bonvoy Brilliant\u00ae American Express\u00ae Card gives you top-tier status, a Free Night Certificate, plus an array of other premium b\u2026",
-      "url": "https://awardwallet.com/credit-cards/marriott-bonvoy/amex-bonvoy-brilliant/?pubDate=2026-06-21",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-06-21T18:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "a13c7ef08627a9b4",
-      "title": "Chase Sapphire Preferred statement credits: What they are and how to use them",
-      "summary": "Learn how to maximize the Chase Sapphire Preferred\u2019s hotel credit, DoorDash perks, Apple TV benefit and Global Entry credit.",
-      "url": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-credits/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/Man-using-credit-card-with-smart-phone-computer-notebook_-MixMedia.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-06-21T16:00:10Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "4df0c7070eef0412",
-      "title": "How Capital One Shopping Works \u2014 And When It Beats the Competition",
-      "summary": "Capital One Shopping offers both a website and an extension to allow users to earn cash back.",
-      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/capital-one-shopping/?pubDate=2026-06-21",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-06-21T15:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "e7f3a8e6ede82212",
-      "title": "6 ways to maximize the new Royal Caribbean Visa cards",
-      "summary": "Whether you just signed up for a new Royal Caribbean credit card or are considering adding one to your wallet, here are six ways to get the\u2026",
-      "url": "https://thepointsguy.com/credit-cards/ways-to-maximize-new-royal-caribbean-cards/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/02/20250210_Royal-Caribbean-Voyager-of-the-Seas_KTolley_142.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-06-21T15:00:14Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "17f36a2bbbafc33c",
-      "title": "Capital One Shopping/Offers: Earn 40%/30X at Viator for activities",
-      "summary": "The boosted retailer of the day on Capital One Shopping and Capital One Offers is Viator.",
-      "url": "https://frequentmiler.com/capital-one-shopping-offers-earn-40-30x-at-viator-for-activities/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Capital-One-Shopping-Offers-Viator-40-30X.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-06-21T13:45:57Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "f5d9122f7d30dfc8",
-      "title": "Sit up front: The ultimate guide to getting upgraded on Delta flights",
-      "summary": "Everything you need to know about complimentary, mileage and certificate upgrades when flying Delta Air Lines.",
-      "url": "https://thepointsguy.com/airline/ultimate-guide-upgrades-on-delta/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/20250304_Delta-One-LAX-to-Brisbane-Australia_CHenderson-57.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-06-21T13:00:55Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "ec38f97c0559c57c",
-      "title": "How To Match Your Status to Marriott \u2014 and Other Shortcuts to Bonvoy Elite Status",
-      "summary": "Want to reach Marriott Bonvoy elite status quickly and easily without earning all of the required nights?",
-      "url": "https://awardwallet.com/hotels/marriott-bonvoy/marriott-status-match/?pubDate=2026-06-21",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-06-21T12:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
