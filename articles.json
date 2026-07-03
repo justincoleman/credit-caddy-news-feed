@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-03T09:19:20Z",
+  "updatedAt": "2026-07-03T14:06:54Z",
   "articles": [
+    {
+      "id": "c494a85de1bce292",
+      "title": "[Targeted] Amazon: Get Up To 50% Off When Using $3 American Express Reward Dollars (Up To $80 In Discounts)",
+      "summary": "Amazon is offering 30% off, up to $30 discount, when you use at least $.01 Reward Dollars at checkout",
+      "url": "https://www.doctorofcredit.com/targeted-amazon-get-30-off-when-using-01-reward-dollars-up-to-30-in-discounts/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-03T14:00:25Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "9b6e70b0f7dcee92",
+      "title": "[Targeted] Chase United Upgrade Offers (15,000 Miles Or $150)",
+      "summary": "Chase is offering a number of upgrade offers on United cards, some of the offers include",
+      "url": "https://www.doctorofcredit.com/targeted-chase-united-upgrade-offers-15000-miles-or-150/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-03T13:00:27Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "1415ebbcc5d46687",
+      "title": "JetBlue\u2019s First Class Gets A Name And Earn 5-11 Times As Many Miles From AA Vacations",
+      "summary": "News and notes from around the interweb: Has Sean Duffy\u2019s controversial roadtrip miniseries been memory holed?",
+      "url": "https://viewfromthewing.com/jetblues-first-class-gets-a-name-and-earn-5-11-times-as-many-miles-from-aa-vacations/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/american-airlines-first-class.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-07-03T12:04:06Z",
+      "source": "View from the Wing"
+    },
     {
       "id": "68f2958eeff32b78",
       "title": "Which hotel credit card is the most rewarding for spending?",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-01T21:45:43Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "72fd698b67389332",
-      "title": "American Express Transfer Bonus: 20% To Hilton Honors (1:2.4)",
-      "summary": "You can currently receive a 20% transfer bonus when you transfer American Express Membership Rewards points to Hilton Honors points.",
-      "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-20-to-hilton-honors-12-4-2/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-01T21:45:09Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "04bb167aa708b6a8",
-      "title": "[Targeted] Chase Cardholders: Get 50% Off DoorDash Orders, Up To $15 Discount",
-      "summary": "Chase cardholders get free DoorDash DashPass membership.",
-      "url": "https://www.doctorofcredit.com/chase-cardholders-get-50-off-doordash-orders-up-to-15-discount/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-01T21:36:49Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "74338f1f1ed42b03",
-      "title": "My biggest assumption about the Chase Sapphire Preferred was wrong",
-      "summary": "The Chase Sapphire Preferred can sometimes offer better Chase Travel pricing than the Sapphire Reserve.",
-      "url": "https://thepointsguy.com/credit-cards/chase-sapphire-preferred-vs-sapphire-reserve-chase-travel/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/11/The-Ritz-Carlton-Oahu-Turtle-Bay_Facebook.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-07-01T21:00:46Z",
-      "source": "The Points Guy"
     }
   ]
 }
