@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-06T03:38:55Z",
+  "updatedAt": "2026-07-06T10:24:16Z",
   "articles": [
+    {
+      "id": "71a8f73c4e541abd",
+      "title": "St. Barts\u2019 Exhilarating Airport (SBH): How To Get There, And Why It\u2019s So Fun",
+      "summary": "Ford and I recently took a quick weekend trip to St.",
+      "url": "https://onemileatatime.com/insights/st-barts-airport/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/St-Barths-Airport-8.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-07-06T05:50:37Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "6da4588baaee20f8",
+      "title": "World Of Hyatt Adds Early Award Night Access For Elites & Credit Card Members",
+      "summary": "We recently saw World of Hyatt make massive changes to its award pricing.",
+      "url": "https://onemileatatime.com/news/world-of-hyatt-early-award-night-access/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/03/Park-Hyatt-Niseko-83.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Card Updates",
+      "publishedAt": "2026-07-06T04:11:22Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "0edc2e3bcc5a062f",
       "title": "Top Credit Card Offers for July 2026 \u2014 16 Offers Worth Over $1,500!",
@@ -480,26 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-07-03T14:56:00Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "d1aa6cfda4dd5feb",
-      "title": "[Targeted \u2013 Platinum & Centurion] Amex Travel \u2013 Spend $2,000+ On Delta Flights & Get $250 Back",
-      "summary": "American Express is offering some Platinum & Centurion cardholders a $250 statement credit when you spend a minimum of $2,000 in one or mor\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-platinum-centurion-amex-travel-spend-2000-on-delta-flights-get-250-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-03T14:30:51Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "b21f51fcf0211416",
-      "title": "All Aboard: Buy Amtrak Guest Rewards Points With Up to a 50% Bonus (2.51\u00a2 Each)",
-      "summary": "Amtrak is offering its loyalty members a chance to buy Guest Rewards points with up to a 50% bonus.",
-      "url": "https://awardwallet.com/travel/buy-amtrak-points/?pubDate=2026-07-03",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-03T14:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
