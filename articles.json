@@ -1,13 +1,93 @@
 {
-  "updatedAt": "2026-07-15T08:11:41Z",
+  "updatedAt": "2026-07-15T13:44:59Z",
   "articles": [
+    {
+      "id": "6aecc8ce2b17c420",
+      "title": "Chase Launches New 100% Transfer Bonus to IHG One Rewards \u2014 But Is It Worth It?",
+      "summary": "Now through July 30, you can transfer Chase Ultimate Rewards to IHG One Rewards and receive 100% bonus points.",
+      "url": "https://awardwallet.com/news/chase-ultimate-rewards/ihg-transfer-bonus/?pubDate=2026-07-15",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-15T13:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "91918099a33f6e37",
+      "title": "Rove adds Qantas as transfer partner, launches with 50% transfer bonus",
+      "summary": "Hot on the heels of adding Frontier as a transfer partner, Rove has added yet another airline to its burgeoning list of transfer partners\u2014Q\u2026",
+      "url": "https://frequentmiler.com/rove-adds-qantas-as-transfer-partner-launches-with-50-transfer-bonus/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Rove-Qantas-Frequent-Flyer-transfer-partner-bonus.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-07-15T12:45:38Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "c38d872d288dc8dd",
+      "title": "Earn 25K American Airlines miles when joining AAdvantage Business (clawbacks happening)",
+      "summary": "Update 7/10/26: Unfortunately, we\u2019ve now received numerous reader reports that AA is clawing back the 25,000 bonus miles it awarded under t\u2026",
+      "url": "https://frequentmiler.com/earn-25k-american-airlines-miles-when-joining-aadvantage-business-with-promo-code-joina7/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/American-Airlines-AAdvantage-Business-25K-bonus-miles-promo-code-JOINA7.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-07-15T12:33:35Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "39fcf76a77e5f530",
+      "title": "United Launches a New up to 100% Bonus or 50% Discount on Buying Miles",
+      "summary": "If you're short the United MileagePlus miles necessary to book your next trip, there's a new sale on United miles that can help you restock\u2026",
+      "url": "https://awardwallet.com/airlines/united-mileageplus/buy-united-miles/?pubDate=2026-07-15",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-15T12:01:46Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "025d19f57d0a0957",
+      "title": "Review: Hotel Schwarzschmied (Marriott Design Hotels), South Tyrol (Solid)",
+      "summary": "We recently took a family trip to South Tyrol, the beautiful autonomous region in the Dolomites, in northern Italy.",
+      "url": "https://onemileatatime.com/reviews/hotel-schwarzschmied-south-tyrol/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/South-Tyrol-6.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-07-15T10:58:17Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "97870d5284c49893",
+      "title": "Rove Transfer Bonuses: Get 25% More Frontier Airlines Miles, 50% More Qantas Frequent Flyer Points",
+      "summary": "Rove is currently running two limited-time transfer bonuses: a 25% bonus to Frontier Airlines miles and a 50% bonus to Qantas Frequent Flye\u2026",
+      "url": "https://awardwallet.com/news/rove-miles/rove-transfer-bonus/?pubDate=2026-07-15",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-15T10:15:33Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "e292c5dc4263c374",
+      "title": "Rove Miles Adds Qantas Transfers With A 50% Bonus\u2014Book Award Seats American Can\u2019t",
+      "summary": "Rove Miles now transfers 1:1 to Qantas Frequent Flyer, with a 50% launch bonus through August 14 and live Qantas award searches on Rove\u2019s w\u2026",
+      "url": "https://viewfromthewing.com/rove-miles-adds-qantas-transfers-with-a-50-bonus-book-award-seats-american-cant/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/07/qantas-a380-dallas.webp",
+      "category": "Deals",
+      "publishedAt": "2026-07-15T10:00:14Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "b71f89f29e34feb5",
+      "title": "Save Up To $100 On Hyatt Hotel Stays With Amex Offers (Targeted)",
+      "summary": "The Amex Offers program frequently has promotions for hotel stays, which can save you money or earn you bonus points for stays youd make an\u2026",
+      "url": "https://onemileatatime.com/deals/hyatt-amex-offers/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/01/Grand-Hyatt-Deer-Valley-25-1.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-07-15T09:05:16Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "bfb181bfb74a90cb",
       "title": "United MileagePlus Selling Miles At A Discount: Is It Worth It, Though?",
       "summary": "Strategically buying miles & points can represent a great deal, especially for luxury travel.",
       "url": "https://onemileatatime.com/deals/buy-united-mileageplus-miles/",
       "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/United-Polaris-Business-Class-777-5.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
+      "category": "Tips",
       "publishedAt": "2026-07-15T07:30:59Z",
       "source": "One Mile at a Time"
     },
@@ -352,16 +432,6 @@
       "source": "One Mile at a Time"
     },
     {
-      "id": "49d9671a0018e408",
-      "title": "Citi Strata Elite Cardholders: Get Access to Upcoming Private Dining Events With The Supper Club",
-      "summary": "Citi offers access to events from The Supper Club, a membership group that curates top-notch dining experiences.",
-      "url": "https://awardwallet.com/credit-cards/citi-thankyou-rewards/strata-elite-card-the-supper-club-partnership/?pubDate=2026-07-14",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-07-14T12:10:06Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "ed829dbd68229f76",
       "title": "Hyatt\u2019s Globalist Breakfast Benefit Explained: Best In The Business?",
       "summary": "There are pros and cons to each major hotel loyalty program, especially when it comes to elite perks.",
@@ -430,76 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-13T23:04:13Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "5f105fc4889f47fc",
-      "title": "Southwest Priority Boarding: How To Board Early Under the New Assigned-Seating System",
-      "summary": "Southwest Airlines moved from open seating to assigned seats and revamped the boarding process.",
-      "url": "https://awardwallet.com/airlines/southwest-rapid-rewards/southwest-upgraded-boarding/?pubDate=2026-07-13",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-07-13T22:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "71d0d847c579c985",
-      "title": "Up to 35% / 25X back at TripAdvisor via Capital One Shopping",
-      "summary": "Today\u2019s Capital One Shopping and Capital One Offers deal of the day is TripAdvisor.",
-      "url": "https://frequentmiler.com/up-to-35-25x-back-at-tripadvisor-via-capital-one-shopping/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Capital-One-Shopping-TripAdvisor-35-back.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-07-13T21:45:15Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "9517470e75f5e231",
-      "title": "Delta\u2019s Starbucks Crowned Best Airline Coffee, Amex Centurion Named Best Lounge: New Survey Gets Both Wrong",
-      "summary": "A new Point.me survey names Delta\u2019s Starbucks the best airline coffee and Amex Centurion the best lounge network.",
-      "url": "https://viewfromthewing.com/deltas-starbucks-crowned-best-airline-coffee-amex-centurion-named-best-lounge-new-survey-gets-both-wrong/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/10/starbucks-in-the-airport.jpg",
-      "category": "News",
-      "publishedAt": "2026-07-13T21:04:48Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "c35cf2d4719038fc",
-      "title": "[Update] Citi To Remove JetBlue As a 1:0.7 Partner On Citi ThankYou Mastercard",
-      "summary": "Citi has announced that cardholders that don't receive a 1:1 transfer rate to JetBlue will no longer see it as an option at all starting Se\u2026",
-      "url": "https://www.doctorofcredit.com/citi-to-remove-jetblue-as-a-10-7-partner-on-no-annual-fee-cards/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-07-13T20:21:52Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "87930887846a7a3b",
-      "title": "Wells Fargo Premier Autograph card might be available without a Premier account",
-      "summary": "We have previously covered the Wells Fargo Premier Autograph Visa Infinite Card, which is essentially a very slightly better version of the\u2026",
-      "url": "https://frequentmiler.com/wells-fargo-premier-autograph-card-might-be-available-without-a-premier-account/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Wells-Fargo-Premier-Autograph-Visa-Infinite.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-07-13T19:45:40Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "5603e4a0e0aec21a",
-      "title": "Huge Amex Business Gold Card As High As 200K Points Welcome Offer",
-      "summary": "The American Express Business Gold Card is one of the most rewarding business cards if you\u2019re looking to earn Amex Membership Rewards point\u2026",
-      "url": "https://onemileatatime.com/deals/amex-business-gold-card-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/Lufthansa-Allegris-Business-Class-43.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-07-13T19:05:21Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "5d99bdb4a842ade7",
-      "title": "[Targeted] Chase/Wells Fargo Offers: AT&T Wireless, Spend $100 & Get $75 Back",
-      "summary": "Earn $75 cash back when you make a new, qualifying wireless payment of at least $100 with AT&T Wireless",
-      "url": "https://www.doctorofcredit.com/targeted-chase-offers-att-wireless-spend-100-get-75-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-13T18:45:36Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
