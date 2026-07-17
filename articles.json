@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-17T08:10:41Z",
+  "updatedAt": "2026-07-17T13:39:23Z",
   "articles": [
+    {
+      "id": "45ea37906f60c935",
+      "title": "What Is a Credit Card Reconsideration Call and When Should You Consider Doing It?",
+      "summary": "Sometimes, even with a stellar credit score, a bank doesn't approve you for a new card.",
+      "url": "https://awardwallet.com/credit-cards/reconsideration-call/?pubDate=2026-07-17",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-07-17T12:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d6b7bfc99530e72f",
+      "title": "The new 'airport lounge' that'll be free to enter \u2014 but you won't find any Diet Coke inside",
+      "summary": "There's a Pepsi-themed lounge opening later this year at one of America's fastest-growing East Coast airport.",
+      "url": "https://thepointsguy.com/news/pepsi-lounge-raleigh-durham-airport/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/07/pepsi-lounge-rdu.jpg",
+      "category": "News",
+      "publishedAt": "2026-07-17T12:00:33Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "f96d2f15e6dde6b1",
       "title": "Delta Unadvertised Award Sale: Australia Roundtrip From 25,000 Miles",
@@ -262,16 +282,6 @@
       "source": "The Points Guy"
     },
     {
-      "id": "f147fc346d1475c3",
-      "title": "Recap: Delta Basic Business & First, Stripe Offers To Buy PayPal & More",
-      "summary": "Delta announces Delta Basic Business & First Class.",
-      "url": "https://www.doctorofcredit.com/recap-delta-basic-business-first-stripe-offers-to-buy-paypal-more/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-16T13:00:09Z",
-      "source": "Doctor of Credit"
-    },
-    {
       "id": "463c0b6fbf4072de",
       "title": "Hawaii's most exclusive airport lounge is back, with 'surprise and delight' access for some flyers",
       "summary": "Hawaiian Airlines has a hidden invitation-only lounge at Honolulu airport.",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-15T19:00:45Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "d426b63e046d3497",
-      "title": "Today Only: Earn up to 23X on StubHub purchases at Rakuten (stack with Chase credits and Paze)",
-      "summary": "If you\u2019re a Chase Sapphire Reserve\u00ae cardholder and haven\u2019t used your second half $150 StubHub credits, now\u2019s a good time: the shopping port\u2026",
-      "url": "https://frequentmiler.com/today-only-earn-12x-back-on-stubhub-at-rakuten-stack-with-chase-credits/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-134001.png",
-      "category": "Deals",
-      "publishedAt": "2026-07-15T18:45:18Z",
-      "source": "Frequent Miler"
     }
   ]
 }
