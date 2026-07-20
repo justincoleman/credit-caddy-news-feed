@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-20T03:17:10Z",
+  "updatedAt": "2026-07-20T09:15:04Z",
   "articles": [
+    {
+      "id": "2cab38a9cacce978",
+      "title": "Today Only: Up To 4x Bonus Airline Miles On Apple Purchases",
+      "summary": "Online shopping portals can be a great way to pick up additional miles and points for purchases youd make anyway.",
+      "url": "https://onemileatatime.com/deals/bonus-miles-apple/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/iphone-camera.jpg?width=680&quality=75&height=466&aspect_ratio=340%3A233",
+      "category": "Deals",
+      "publishedAt": "2026-07-20T05:54:23Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "4902be269a4ac9d2",
+      "title": "[IN, MI] 1st Source Bank $250  Checking Bonus",
+      "summary": "1st Source Bank is offering a $300 Mastercard gift card.",
+      "url": "https://www.doctorofcredit.com/in-mi-1st-source-bank-300-mastercard-checking-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-20T03:51:05Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "2d86981836df8e76",
       "title": "When do Hyatt certs expire? Perhaps a day earlier than you think.",
@@ -37,7 +57,7 @@
       "summary": "Capital One offers a huge range of cards to suit every wallet, budget, and goal \u2014 from no-annual-fee cashback cards to one of the best prem\u2026",
       "url": "https://awardwallet.com/credit-cards/best-capital-one-credit-cards/?pubDate=2026-07-19",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-07-19T21:00:04Z",
       "source": "AwardWallet"
     },
@@ -480,26 +500,6 @@
       "category": "News",
       "publishedAt": "2026-07-16T23:52:01Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "f76c72ec8b34f7f2",
-      "title": "Delta Sale: As low as 25k SkyMiles round-trip to Australia, 34K to New Zealand, or 42K to Asia",
-      "summary": "Thrifty Traveler Premium has discovered that Delta is running another unadvertised flash sale to Australia and New Zealand.",
-      "url": "https://frequentmiler.com/delta-sale-as-low-as-25k-skymiles-round-trip-to-australia-34k-to-new-zealand-or-42k-to-asia/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/02/Sydney-Opera-House-Australia.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-07-16T23:45:14Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "c9b2869b348d1bb2",
-      "title": "$900 bonus with a new Chase checking and savings account",
-      "summary": "Chase\u2019s excellent bonus for opening a new checking and savings account has been extended.",
-      "url": "https://frequentmiler.com/900-bonus-with-a-new-chase-checking-and-savings-account-september-25/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/01/Chase-Checking-Bonus.png",
-      "category": "Deals",
-      "publishedAt": "2026-07-16T22:56:33Z",
-      "source": "Frequent Miler"
     }
   ]
 }
