@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-23T02:49:06Z",
+  "updatedAt": "2026-07-23T08:31:31Z",
   "articles": [
+    {
+      "id": "21e414690425c04f",
+      "title": "American Express Removes Green Card From Website",
+      "summary": "American Express has removed the American Express Green card from its website and the current link leads to a error page.",
+      "url": "https://www.doctorofcredit.com/american-express-removes-green-card-from-website/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-07-23T06:57:37Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "87896e18a1c1601c",
       "title": "Bank of America Air France/KLM FlyingBlue Card 100,000 Signup Bonus + 100 XP",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-07-21T12:05:48Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "f1027dcc408a4ce5",
-      "title": "Barclays & Samsung Announce Samsung Galaxy Card \u2013 $200 Bonus + 3% Back On All Samsung Wallet Purchases (Uncapped)",
-      "summary": "Samsung has announced the the Samsung Galaxy card.",
-      "url": "https://www.doctorofcredit.com/barclays-samsung-announce-samsung-galaxy-card-200-bonus-3-back-on-all-samsung-wallet-purchases-uncapped/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-21T12:00:23Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
