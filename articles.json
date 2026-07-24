@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-24T08:28:08Z",
+  "updatedAt": "2026-07-24T13:46:51Z",
   "articles": [
+    {
+      "id": "d8c08e2b2f5ce5ec",
+      "title": "Award ticket change and cancellation fees",
+      "summary": "Award ticket change and cancellation fees vary wildly from one airline frequent flyer program to another.",
+      "url": "https://frequentmiler.com/award-ticket-change-and-cancellation-fees-by-transfer-partner/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Hong-Kong-Airport-kids.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-07-24T11:40:25Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "28b60a6109aa668b",
       "title": "Southwest Rapid Rewards Selling Points At A Discount: When Is It Worth It?",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-22T18:25:42Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "82dfc4d548dca702",
-      "title": "Lufthansa Lounge Day Passes: Where You Can Buy Access and What It Costs",
-      "summary": "You can purchase Lufthansa Business Lounge access at multiple destinations in the U.S.",
-      "url": "https://awardwallet.com/news/airlines/buy-lufthansa-lounge-access/?pubDate=2026-07-22",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-07-22T18:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
