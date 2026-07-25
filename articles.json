@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-25T02:43:02Z",
+  "updatedAt": "2026-07-25T08:07:10Z",
   "articles": [
+    {
+      "id": "ccc269086103cc0a",
+      "title": "[YMMV] Bank of America Business Cards $750 Signup Bonus (Unlimited CR, Customized CR, Travel Rewards)",
+      "summary": "Bank of America is offering an increased signup bonus of $750 after spending $5,000 within 90 days on the following business credit cards",
+      "url": "https://www.doctorofcredit.com/ymmv-bank-of-america-business-cards-750-signup-bonus-unlimited-cr-customized-cr-travel-rewards/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-25T01:15:44Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "47d8998e23e970b4",
       "title": "Best Credit Cards for Electric Vehicle (EV) Charging Purchases: Earn Up to 5X Points or 6% Cash Back",
@@ -130,6 +140,16 @@
       "category": "Deals",
       "publishedAt": "2026-07-24T18:10:02Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "9faa4e5a303a0d76",
+      "title": "Giant/Martin\u2019s: 2x Fuel Points on Mastercard Gift Cards (7/24-7/30)",
+      "summary": "Giant/Stopandshop/Martin\u2019s have an offer for October 8th through 14th: Get 3x fuel points on the purchase Mastercard gift cards.",
+      "url": "https://www.doctorofcredit.com/giant-stopshop-martins-3x-fuel-points-on-mastercard-gift-cards-10-8-10-14/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-07-24T18:00:02Z",
+      "source": "Doctor of Credit"
     },
     {
       "id": "3d420dc5254efe23",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-23T18:00:00Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "d1d1062ed95d1949",
-      "title": "Guide to booking Preferred Hotels with points (Updated Map & Table)",
-      "summary": "Many, but not all, Preferred Hotels can be booked with points.",
-      "url": "https://frequentmiler.com/book-preferred-hotels-with-points/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/02/img_4736.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-07-23T17:45:14Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "a5f8560e0393ad6e",
-      "title": "Southwest Airlines lounges? CEO drops biggest hint yet that they're coming",
-      "summary": "Southwest Airlines appears to be on the cusp of adding airport lounges after its CEO on Thursday acknowledged \"work underway\" for its first\u2026",
-      "url": "https://thepointsguy.com/news/southwest-airlines-airport-lounge-plans/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/06/image00062.jpeg",
-      "category": "News",
-      "publishedAt": "2026-07-23T16:50:26Z",
-      "source": "The Points Guy"
     }
   ]
 }
