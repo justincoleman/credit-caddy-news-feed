@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-27T03:16:22Z",
+  "updatedAt": "2026-07-27T09:53:00Z",
   "articles": [
+    {
+      "id": "9286dc5715408cc8",
+      "title": "Wild: United CEO Scott Kirby Approached Delta About A Merger, But Was Rejected",
+      "summary": "A few months ago we learned how United CEO Scott Kirby had reportedly approached American CEO Robert Isom about the concept of a merger.",
+      "url": "https://onemileatatime.com/news/united-ceo-scott-kirby-approached-delta-merger-rejected/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/04/United-Boeing-787-Chicago.jpg?width=1200&quality=75&height=893&aspect_ratio=1200%3A893",
+      "category": "News",
+      "publishedAt": "2026-07-27T09:00:09Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "5c68b18fd91edf7c",
       "title": "Hotel review: Glasgow Marriott, Scotland",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-24T14:45:29Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "e29d7d249ba3cc3c",
-      "title": "Elevated Marriott Bonvoy offers ending soon: Get up to $1,500 in value",
-      "summary": "Check out the current welcome offers across Marriott Bonvoy credit cards from Chase and American Express, including limited-time elevated b\u2026",
-      "url": "https://thepointsguy.com/credit-cards/marriott-bonvoy-current-offers/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/20250310_JW-Marriott-Orlando-Grande-Lakes_ARotondo-lazy-river.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-07-24T14:30:17Z",
-      "source": "The Points Guy"
     }
   ]
 }
