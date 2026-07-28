@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-28T02:35:25Z",
+  "updatedAt": "2026-07-28T08:34:32Z",
   "articles": [
+    {
+      "id": "cc3c25e9dacfd334",
+      "title": "Alaska & Philippine Airlines Expand Partnership: Points Redemptions Live!",
+      "summary": "In May 2025, Alaska Airlines added a new airline partner, in the form of Philippine Airlines.",
+      "url": "https://onemileatatime.com/news/alaska-philippine-airlines-partnership/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/02/Philippine-Airlines-A350-Business-Class-3-1.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "News",
+      "publishedAt": "2026-07-28T04:27:26Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "7fb27a514e679ac8",
       "title": "Best Credit Card Big Spend Bonuses: Elite status, flights, free nights and more",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-25T12:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "8e5fa39f58844d96",
-      "title": "Earn Up To 12% Back On Hotel Stays Without Giving Up Direct Booking Benefits",
-      "summary": "Hotel chains often pay rebates through shopping portals even when you still book direct, keep elite benefits, and earn hotel points.",
-      "url": "https://viewfromthewing.com/earn-up-to-12-back-on-hotel-stays-without-giving-up-direct-booking-benefits/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2023/11/20231128_161249.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-07-25T11:34:45Z",
-      "source": "View from the Wing"
     }
   ]
 }
