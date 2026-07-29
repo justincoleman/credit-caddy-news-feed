@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-29T02:42:18Z",
+  "updatedAt": "2026-07-29T08:41:23Z",
   "articles": [
+    {
+      "id": "82b5611052629f6e",
+      "title": "Guide To Chase Sapphire Lounges: Access, Locations, Amenities, And More",
+      "summary": "Nowadays Chase operates a network of airport lounges, known as Chase Sapphire Lounges by The Club.",
+      "url": "https://onemileatatime.com/guides/chase-sapphire-lounges/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Chase-Sapphire-Lounge-Hong-Kong-35.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "News",
+      "publishedAt": "2026-07-29T06:42:32Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "60226e9a7cd22d43",
+      "title": "Transfer Credit Card Points To Cathay Pacific With 10% Bonus: Worth It?",
+      "summary": "Cathay Pacific has just introduced a new 10% transfer bonus for those in the United States, valid when moving credit card or hotel points.",
+      "url": "https://onemileatatime.com/deals/cathay-pacific-asia-miles-transfer-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/Cathay-Pacific-Aria-Suite-Business-Class-777-5.jpeg?width=1200&quality=75&height=911&aspect_ratio=1200%3A911",
+      "category": "Deals",
+      "publishedAt": "2026-07-29T06:41:04Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "e20be9721c8628cd",
       "title": "Save Up to 50% on Amazon or Get Up to $25 in Gift Cards by Redeeming Rewards",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-07-27T13:00:04Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "44cb423b1f114ec6",
-      "title": "Buy Hilton Honors Points With up to a 90% Bonus (0.56\u00a2 Each)",
-      "summary": "Hilton Honors is offering a 90% bonus on purchased points \u2014 dropping the rate of buying Hilton points to 0.56\u00a2 per point.",
-      "url": "https://awardwallet.com/hotels/hilton-honors/buy-hilton-points/?pubDate=2026-07-27",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-07-27T11:10:01Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "9286dc5715408cc8",
-      "title": "Wild: United CEO Scott Kirby Approached Delta About A Merger, But Was Rejected",
-      "summary": "A few months ago we learned how United CEO Scott Kirby had reportedly approached American CEO Robert Isom about the concept of a merger.",
-      "url": "https://onemileatatime.com/news/united-ceo-scott-kirby-approached-delta-merger-rejected/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/04/United-Boeing-787-Chicago.jpg?width=1200&quality=75&height=893&aspect_ratio=1200%3A893",
-      "category": "News",
-      "publishedAt": "2026-07-27T09:00:09Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
