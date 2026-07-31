@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T02:53:09Z",
+  "updatedAt": "2026-07-31T08:50:27Z",
   "articles": [
     {
       "id": "07b6d0ebaebbe377",
@@ -262,16 +262,6 @@
       "source": "Frequent Miler"
     },
     {
-      "id": "3776eeeeabc665e8",
-      "title": "Macy\u2019s Adds Paze Checkout Option",
-      "summary": "Macy\u2019s has added Paze as a checkout option.",
-      "url": "https://www.doctorofcredit.com/macys-adds-paze-checkout-option/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-07-30T12:42:08Z",
-      "source": "Doctor of Credit"
-    },
-    {
       "id": "0cb886d2dd37591d",
       "title": "Last Chance: Get 300k Lufthansa Miles, Hilton Diamond Status Match, and More via ASmallWorld",
       "summary": "Did you know that you can pay a single membership fee to get elite status in a handful of programs, get 300k valuable airline miles, and en\u2026",
@@ -500,6 +490,16 @@
       "category": "Deals",
       "publishedAt": "2026-07-29T13:45:37Z",
       "source": "Frequent Miler"
+    },
+    {
+      "id": "27e5229436d0e354",
+      "title": "Chase Sapphire Preferred 75K Bonus Points Offer: Apply Now",
+      "summary": "The Chase Sapphire Preferred Card has recently undergone a major refresh, and the changes are a mixed bag, with some people better off, and\u2026",
+      "url": "https://onemileatatime.com/deals/chase-sapphire-preferred-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/03/Alila-Ventana-Big-Sur-Suite.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-07-29T12:42:04Z",
+      "source": "One Mile at a Time"
     }
   ]
 }
