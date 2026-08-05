@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-05T02:34:35Z",
+  "updatedAt": "2026-08-05T08:36:25Z",
   "articles": [
+    {
+      "id": "3decf9cf0bc478bd",
+      "title": "[EXPIRED] Wells Fargo Premier $2,500 Bank or Investing Bonus (Requires $250k In Cash/Assets)",
+      "summary": "Get $2,500 if you open a Wells Fargo Premier relationship checking account or upgrade to that account.",
+      "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-05T05:00:37Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "df1e5aba52c95723",
+      "title": "Changes When Redeeming Amtrak Points For Giftcards",
+      "summary": "Amtrak sent out an email that they will no longer allow redeeming high volume of Amtrak gift card limit how many gift cards can be redeemed\u2026",
+      "url": "https://www.doctorofcredit.com/amtrak-gift-card-changes/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-08-05T01:47:06Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "1dbabd8db4819cde",
       "title": "Marriott Renews Partnership With Chase & American Express (Refreshed Cards)",
@@ -47,7 +67,7 @@
       "summary": "MGM Rewards just relaunched its status match offer, giving elite members from competing casino programs a chance to upgrade to MGM Gold or\u2026",
       "url": "https://awardwallet.com/hotels/mgm-status-match/?pubDate=2026-08-04",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-08-04T23:10:08Z",
       "source": "AwardWallet"
     },
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-08-03T18:45:56Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "ba9285943db42574",
-      "title": "Act fast: Earn the Southwest Companion Pass by booking just 1 round-trip flight",
-      "summary": "Southwest's 2026 Companion Pass promotion lets you earn this valuable perk for a fraction of the usual cost.",
-      "url": "https://thepointsguy.com/deals/earn-southwest-companion-pass-promotion/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/08/Planes-PIT-15.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-03T18:45:53Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "55386cac09ffbdcf",
-      "title": "Capital One\u2019s LaGuardia Lounge Won \u201cMost Instagrammable\u201d \u2014 But Which Bank Airport Lounges Are Actually Best?",
-      "summary": "Capital One\u2019s LaGuardia Landing won \u201cMost Instagrammable\u201d airport location, but its better award was for food and beverage \u2014 and the bigger\u2026",
-      "url": "https://viewfromthewing.com/capital-ones-laguardia-lounge-won-most-instagrammable-but-which-bank-airport-lounges-are-actually-best/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/02/20260210_122710.jpg",
-      "category": "News",
-      "publishedAt": "2026-08-03T18:04:20Z",
-      "source": "View from the Wing"
     }
   ]
 }
