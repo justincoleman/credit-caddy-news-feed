@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-07T07:16:17Z",
+  "updatedAt": "2026-08-07T13:04:24Z",
   "articles": [
+    {
+      "id": "008775d1a79c2d12",
+      "title": "Club Wyndham Smoky Mountains: Bottom Line Review",
+      "summary": "Earlier this week, my family spent 4 nights at the Club Wyndham Smoky Mountains.",
+      "url": "https://frequentmiler.com/club-wyndham-smoky-mountains-bottom-line-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Club-Wyndham-Smoky-Mountains-featured-image.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-07T10:45:11Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0d0d810ce1c78738",
+      "title": "Marriott Bonvoy Bevy Card 125K Bonus Points + $150 Statement Credit Offer",
+      "summary": "Marriott Bonvoy has a suite of co-branded credit cards, issued by both American Express and Chase.",
+      "url": "https://onemileatatime.com/deals/marriott-bonvoy-bevy-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/07/Ritz-Carlton-Perth-15.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-08-07T08:58:21Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "613b643fbe24acf6",
       "title": "AmEx Offers (Platinum): Hertz, Spend $350 & Get $75 Statement Credit",
@@ -50,6 +70,16 @@
       "category": "Deals",
       "publishedAt": "2026-08-06T22:48:07Z",
       "source": "One Mile at a Time"
+    },
+    {
+      "id": "f975cd65d887840e",
+      "title": "Wyndham Rewards Promotions: Win 1 Million Points, Earn up to 30K Bonus Points, up to 25% off Paid Stays, and More",
+      "summary": "Wyndham Rewards has no shortage of promotions running right now.",
+      "url": "https://awardwallet.com/news/wyndham-rewards/bonus-points-promotion/?pubDate=2026-08-06",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-06T22:00:14Z",
+      "source": "AwardWallet"
     },
     {
       "id": "dda53cd76fb04f49",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-08-05T14:45:36Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "aad03432b90a8495",
-      "title": "Select cardholders can now earn 3 Avios per dollar spent on rent through Bilt",
-      "summary": "Eligible U.S.",
-      "url": "https://thepointsguy.com/news/qatar-cardholders-earn-avios-rent-bilt/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/20250926_Bilt-SponCon_Person-using-laptop-at-kitchen-table-with-dog-sitting-next-to-them_AleksandarNakic.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-05T14:00:51Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "698780994a501135",
-      "title": "Get $75 back on $325+ spend with Hertz Citi Offer",
-      "summary": "A Hertz Citi Offer has returned on targeted cards that\u2019s giving a $75 statement credit when spending $325 or more in a single transaction.",
-      "url": "https://frequentmiler.com/get-75-back-on-325-spend-with-hertz-citi-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/09/Untitled-design-2022-09-17T114643.254.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-05T13:45:05Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "01adfa158cea93d1",
-      "title": "Get a 150% Bonus on Frontier Airlines Miles Purchases Through August 28 (1.08\u00a2 Each)",
-      "summary": "Frontier Airlines just launched another deal on buying miles.",
-      "url": "https://awardwallet.com/airlines/buy-frontier-miles/?pubDate=2026-08-05",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-05T13:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
