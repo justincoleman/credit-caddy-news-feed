@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-07T00:01:47Z",
+  "updatedAt": "2026-08-07T07:16:17Z",
   "articles": [
+    {
+      "id": "613b643fbe24acf6",
+      "title": "AmEx Offers (Platinum): Hertz, Spend $350 & Get $75 Statement Credit",
+      "summary": "AmEx Offers: Earn $100 after spending $500 at Hertz by 10/31/2025.",
+      "url": "https://www.doctorofcredit.com/amex-offers-hertz-spend-500-get-100-statement-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-07T00:50:45Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "840d0f8de809446e",
       "title": "Paying Tuition With Credit Cards: When It\u2019s Worth It and Which Cards Are the Most Rewarding",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-08-05T13:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "14b911ae629941a0",
-      "title": "[Targeted] AmEx Offers: Accor Luxury Hotels, Spend $500+ & Receive $100 Statement Credit",
-      "summary": "Get a one-time $10 statement credit by using your enrolled eligible Card to spend a minimum of $500 USD in one or more purchases on room ra\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offers-accor-luxury-hotels-spend-500-receive-100-statement-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-05T13:00:22Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
