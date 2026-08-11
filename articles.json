@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-08-10T18:57:38Z",
+  "updatedAt": "2026-08-11T01:47:35Z",
   "articles": [
+    {
+      "id": "f1df45a9ee23d9cd",
+      "title": "How Many Miles Do You Need for a Free Flight?",
+      "summary": "If you've built up a stash of airline miles, the next step is understanding how award pricing works.",
+      "url": "https://awardwallet.com/airlines/how-many-airline-miles-for-a-free-flight/?pubDate=2026-08-10",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-08-10T23:50:15Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "de6a1634485b44e3",
+      "title": "Up to 40% off Southwest base fares on select routes / dates. No code required.",
+      "summary": "Southwest Airlines is offering a sale of up to 40% off base fares on select routes and dates.",
+      "url": "https://frequentmiler.com/up-to-40-off-southwest-base-fares-on-select-routes-dates-no-code-required/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Southwest-sale-40-off-base-fares.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-10T23:45:22Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "477d0173a2fda2fe",
+      "title": "(Extended) Earn up to 30k bonus points on stays at Hyatt Place & Hyatt Select",
+      "summary": "Update: This Hyatt Place/Hyatt Select promo has been extended and is now running all the way through September 30th.",
+      "url": "https://frequentmiler.com/earn-up-to-30k-bonus-points-on-stays-at-hyatt-place-hyatt-select/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Hyatt-Place-House-Select-Promo-e1783609897664.png",
+      "category": "Deals",
+      "publishedAt": "2026-08-10T22:45:53Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "cd6f6d8911dbdb00",
+      "title": "Fast-Track to Alaska Airlines Platinum Status in 2026: Special Offer for Corporate Travelers",
+      "summary": "Alaska Airlines regularly offers an elite status challenge for targeted Atmos Rewards members who work for pre-selected companies.",
+      "url": "https://awardwallet.com/news/alaska-atmos-rewards/alaska-corporate-status-challenge/?pubDate=2026-08-10",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-10T22:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "f7d3a66bd3f910e3",
+      "title": "(Update) How to save money on dining with inKind (increased referral offer)",
+      "summary": "Update 8/10/26: The bonus for referring friends has been increased to $50 through 8/31/26.",
+      "url": "https://frequentmiler.com/inkind/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/01/inkind.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-08-10T21:45:55Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "2404c47e59f81b23",
+      "title": "Southwest: Up To 40% Off Base Fares",
+      "summary": "Southwest is offering up to 40% off base fares no promo code required.",
+      "url": "https://www.doctorofcredit.com/southwest-up-to-40-off-base-fares-2/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-10T20:48:27Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "754ffa820b14d7bd",
+      "title": "All Current Marriott Promotions: Earn up to 50k Bonus Points per Stay, Extra Points at Multiple Brands, and More",
+      "summary": "More often than not, Marriott Bonvoy has a variety of promotions that can make your next stay more rewarding.",
+      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-promotions/?pubDate=2026-08-10",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-08-10T20:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "703f0767b64b1c1e",
+      "title": "Ritz-Carlton Credit Card review: Should you book a spot in your wallet for this card?",
+      "summary": "There's still a way to get the Ritz Carlton card, but is it worth the effort?",
+      "url": "https://thepointsguy.com/credit-cards/reviews/ritz-carlton-rewards-card-review/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/10/siari-ritz-carlton-reserve-pool-1.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-10T19:30:57Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "a419e439f9ad4f98",
       "title": "Chase Ink Business Preferred\u00ae Credit Card Review: A Small Business Points-Earning Powerhouse",
@@ -47,7 +127,7 @@
       "summary": "JetBlue just launched a new buy miles sale featuring up to a 30% discount now through August 18, 2026.",
       "url": "https://awardwallet.com/airlines/jetblue-trueblue/buy-jetblue-points/?pubDate=2026-08-10",
       "thumbnailUrl": null,
-      "category": "Deals",
+      "category": "News",
       "publishedAt": "2026-08-10T16:10:02Z",
       "source": "AwardWallet"
     },
@@ -180,16 +260,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-09T18:04:38Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "ff6dad07aaf638ad",
-      "title": "25 Points and Miles Deals Ending Soon: Shopping Bonuses, Award Discounts, and Transfer Bonuses",
-      "summary": "At least 25 promotions are ending or changing in the next two weeks.",
-      "url": "https://awardwallet.com/news/loyalty-program-promotions/?pubDate=2026-08-09",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-09T15:10:02Z",
-      "source": "AwardWallet"
     },
     {
       "id": "23f34165cc92a7e0",
@@ -430,76 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-08-07T18:04:37Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "9cbb9852727d6601",
-      "title": "Marriott Bonvoy Bevy American Express credit card review: High earning potential despite lackluster perks",
-      "summary": "If you're a Marriott loyalist, you may consider the Marriott Bonvoy Bevy Amex.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/marriott-bonvoy-bevy-american-express-card-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/20250910_JW-Marriott-Anaheim_SHull-28.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-07T18:00:48Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "13bf235ce92b3a64",
-      "title": "Lufthansa Miles & More Credit Card: 70k welcome offer",
-      "summary": "Barclays has increased the welcome offer on the Lufthansa Miles & More credit card to 70,000 bonus miles after spending $4,000 within 90 da\u2026",
-      "url": "https://frequentmiler.com/lufthansa-miles-more-credit-card-70k-welcome-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Lufthansa-70K.png",
-      "category": "Deals",
-      "publishedAt": "2026-08-07T17:57:04Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "1f775516050d1435",
-      "title": "Deal alert: Points and miles travel deals for August 2026",
-      "summary": "Save, maximize and earn points and miles on various travel purchases this August",
-      "url": "https://thepointsguy.com/deals/points-and-miles-travel-deals/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/ooking-over-Florence-from-San-Miniato.jpeg",
-      "category": "Deals",
-      "publishedAt": "2026-08-07T17:00:10Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "d889f24ed948470d",
-      "title": "Get up to $100 back on every eligible card through Paze (Macy\u2019s back again)",
-      "summary": "Update 8/7: In a saga akin to an on-and-off-again celebrity couple, Paze is once again an option for checkout on macys.com.",
-      "url": "https://frequentmiler.com/get-up-to-100-back-on-every-visa-card-through-paze-10-back-on-10-up-to-100-back-per-card-stack-with-extra-points/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/06/Paze-10-back-on-10-scaled.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-07T16:50:55Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "6ec0655db6f79013",
-      "title": "World of Hyatt Promotions: Up to 50K Bonus Points or 5 Free Night Awards on Eligible Stays",
-      "summary": "Everyone loves earning World of Hyatt bonus points.",
-      "url": "https://awardwallet.com/news/world-of-hyatt/hyatt-promotions/?pubDate=2026-08-07",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-07T16:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "21307dc33cd37fbc",
-      "title": "Caesars Chase Offer: 10% back, up to $50 (stack with Amex Offer)",
-      "summary": "There is a new Chase Offer for Caesars properties in Las Vegas, Reno, and Lake Tahoe, which can save 10% on up to $500 of total spend (or a\u2026",
-      "url": "https://frequentmiler.com/caesars-chase-offer-10-back-up-to-50-stack-with-amex-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2019/05/Caesars-Palace.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-07T16:05:58Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0f3da0aa27a1bd53",
-      "title": "How I turn my Amex Platinum hotel statement credit into even more value",
-      "summary": "I\u2019ve used my Amex Platinum hotel statement credit for five stays in two years.",
-      "url": "https://thepointsguy.com/credit-cards/amex-platinum-hotel-credit-strategy/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/Boeira-Hotel-Porto-6.jpeg",
-      "category": "Tips",
-      "publishedAt": "2026-08-07T16:00:51Z",
-      "source": "The Points Guy"
     }
   ]
 }
