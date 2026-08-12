@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-08-12T01:59:54Z",
+  "updatedAt": "2026-08-12T07:25:14Z",
   "articles": [
+    {
+      "id": "fa4b2f7c6db95697",
+      "title": "Chase Adds 20% Aeroplan Transfer Bonus \u2014 Air Canada Cardholders Can Stack To Redeem At 1.625 Cents Per Point",
+      "summary": "Chase is offering a 20% transfer bonus to Air Canada Aeroplan, and Aeroplan credit cardholders can stack that with their standard 10% trans\u2026",
+      "url": "https://viewfromthewing.com/chase-adds-20-aeroplan-transfer-bonus-air-canada-cardholders-can-stack-to-redeem-at-1-625-cents-per-point/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/03/20250315_211343.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-12T04:00:36Z",
+      "source": "View from the Wing"
+    },
     {
       "id": "8eb0360078193c54",
       "title": "Ending Soon: Earn up to 75,000 Bonus Points With These World of Hyatt Credit Card Offers",
       "summary": "Now is a fantastic time to apply for a co-branded Hyatt credit card.",
       "url": "https://awardwallet.com/credit-cards/world-of-hyatt/hyatt-credit-card-offers/?pubDate=2026-08-11",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-08-11T23:52:02Z",
       "source": "AwardWallet"
     },
@@ -37,7 +47,7 @@
       "summary": "Be still my beating heart: US Bank has finally launched its long-promised transfer partner program.",
       "url": "https://frequentmiler.com/wow-us-bank-launches-transfer-partners-accor-flying-blue-qanas-and-ethiopian-partner-for-now/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/chrome_XfqczNP6Os-scaled.png",
-      "category": "Card Updates",
+      "category": "News",
       "publishedAt": "2026-08-11T21:21:26Z",
       "source": "Frequent Miler"
     },
@@ -97,7 +107,7 @@
       "summary": "Marriott Bonvoy has a portfolio of co-branded credit cards, issued by both American Express and Chase.",
       "url": "https://onemileatatime.com/deals/marriott-bonvoy-boundless-card-bonus/",
       "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/12/Villa-Rothschild-Marriott-Autograph-Collection-72.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-08-11T19:46:41Z",
       "source": "One Mile at a Time"
     },
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-09T18:04:38Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "23f34165cc92a7e0",
-      "title": "Don\u2019t cancel: How to downgrade a Chase credit card",
-      "summary": "The ultimate guide to requesting a product change or downgrading a card with Chase so you don't have to cancel your credit card.",
-      "url": "https://thepointsguy.com/credit-cards/downgrade-chase-credit-card/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/09/credit-card-shopping-online.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-09T15:00:18Z",
-      "source": "The Points Guy"
     }
   ]
 }
