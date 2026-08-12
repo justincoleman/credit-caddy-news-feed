@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-08-12T13:15:26Z",
+  "updatedAt": "2026-08-12T19:02:10Z",
   "articles": [
+    {
+      "id": "e4e343a8fdce062e",
+      "title": "Rakuten: Earn 17X at Groupon (today only)",
+      "summary": "Rakuten has boosted the earning rate on Groupon purchases for today only, increasing it to 17% cashback or up to 17X points.",
+      "url": "https://frequentmiler.com/rakuten-earn-17x-at-groupon-today-only/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Rakuten-Groupon.png",
+      "category": "Deals",
+      "publishedAt": "2026-08-12T18:01:28Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "b82af6b7f7b54fa7",
+      "title": "Trick To Add AmEx Offers To Multiple Cards Is DEAD",
+      "summary": "The tricks people used to save AmEx Offer deals on multiple cards no longer work.",
+      "url": "https://www.doctorofcredit.com/trick-to-add-amex-offers-to-multiple-cards-is-dead/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-08-12T17:16:49Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "bc9a3fb49e8aeae3",
+      "title": "American Express Fine Hotels + Resorts\u00ae and The Hotel Collection adds more than 350 properties",
+      "summary": "American Express has announced another expansion of the properties that are included in Fine Hotels + Resorts\u00ae (FHR) and The Hotel Collecti\u2026",
+      "url": "https://frequentmiler.com/american-express-expands-fine-hotels-resorts-and-the-hotel-collection/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/roki-collection-queenstown-fine-hotels-resorts-queenstown-new-zealand.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-08-12T16:45:24Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "5a2c744b7ca19761",
+      "title": "Delta Refused To Pay Pilots On Short Military Leave \u2014 Now A Class Action Could Cost Over $100 Million",
+      "summary": "Delta pilots who serve in the National Guard and military reserves have won class certification in a lawsuit claiming the airline illegally\u2026",
+      "url": "https://viewfromthewing.com/delta-refused-to-pay-pilots-on-short-military-leave-now-a-class-action-could-cost-over-100-million/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/american-airlines-pilot-boeing-787-8.jpg",
+      "category": "News",
+      "publishedAt": "2026-08-12T15:58:08Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "eaa4da85fef411ce",
+      "title": "Targeted IHG promo: Earn double elite night credits (limit 10 bonus elite nights)",
+      "summary": "IHG One Rewards is targeting some members with a promotion offering double elite night credits through the end of September, with a limit o\u2026",
+      "url": "https://frequentmiler.com/targeted-ihg-promo-earn-double-elite-night-credits-limit-10-bonus-elite-nights/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/IHG-One-Rewards-promo-Up-to-10-bonus-elite-night-credits.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-12T15:46:01Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "8ceb80b30df45725",
+      "title": "'I'm lovin' it': MyMcDonald's Rewards is an easy way to save on a fast-food favorite",
+      "summary": "Discover how MyMcDonald\u2019s Rewards works, including how to earn and redeem points, and available member perks and reward options.",
+      "url": "https://thepointsguy.com/loyalty-programs/mymcdonalds-rewards/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/20260810_McDonalds-Rewards_CHenderson-2.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-12T15:00:22Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "ed2273bd007e590a",
+      "title": "Get 20% bonus when transferring Chase Ultimate Rewards to Air Canada Aeroplan (stack with 10% cardholder bonus)",
+      "summary": "Chase has launched a 20% bonus when transferring Ultimate Rewards points to Air Canada Aeroplan, with this bonus stacking with the 10% bonu\u2026",
+      "url": "https://frequentmiler.com/get-20-bonus-when-transferring-chase-ultimate-rewards-to-air-canada-aeroplan-stack-with-10-cardholder-bonus/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Air-Canada-Aeroplan-airplane-scaled.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-12T13:46:00Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "62621274db648a16",
       "title": "20% Transfer Bonus From Chase Ultimate Rewards to Aeroplan (Stack to Get a 30% Bonus)",
@@ -10,6 +80,16 @@
       "category": "Deals",
       "publishedAt": "2026-08-12T13:00:07Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "d44f66519808100b",
+      "title": "American Express adds more than 350 hotels to Fine Hotels + Resorts and The Hotel Collection",
+      "summary": "Amex has added more than 350 hotels to Fine Hotels + Resorts and The Hotel Collection, giving eligible cardholders more properties to book",
+      "url": "https://thepointsguy.com/news/amex-fine-hotels-resorts-hotel-collection-new-properties/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/4-Casa-Lucia-Melia-Collection-The-Hotel-Collection-Buenos-Aires-Argentina.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-08-12T13:00:06Z",
+      "source": "The Points Guy"
     },
     {
       "id": "459ac346a4192a50",
@@ -172,16 +252,6 @@
       "source": "Doctor of Credit"
     },
     {
-      "id": "5533f3f0a762cf28",
-      "title": "Capital One Shutdowns Can Cause Discover Shutdowns (YMMV)",
-      "summary": "As the Discover-Capital One merger continues, we continue to see residual ways that the merger is affecting accounts.",
-      "url": "https://www.doctorofcredit.com/capital-one-shutdowns-can-cause-discover-shutdowns-ymmv/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-11T17:33:34Z",
-      "source": "Doctor of Credit"
-    },
-    {
       "id": "630f55c9705dcdb6",
       "title": "Capital One Shopping: Up To 55% Back On Klook",
       "summary": "Capital One Shopping/Offers: 40% back on Klook bookings for Tours & Experiences.",
@@ -270,16 +340,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-11T13:00:15Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "92b8dd8392ee60bd",
-      "title": "Save on Lyft, Hertz, Turo and More Through Current Citi Merchant Offers",
-      "summary": "Like Amex Offers and Chase Offers, Citi Merchant Offers can provide great rebates on travel purchases.",
-      "url": "https://awardwallet.com/credit-cards/current-citi-merchant-offers/?pubDate=2026-08-11",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-11T12:10:02Z",
-      "source": "AwardWallet"
     },
     {
       "id": "8c159f374b1ccdda",
@@ -440,66 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-08-10T15:59:29Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "38f1a3833e6cdd24",
-      "title": "Atmos Ascent vs. Atmos Summit: Which is better for Alaska and Hawaiian flyers?",
-      "summary": "Compare the perks of the Atmos Ascent and Atmos Summit.",
-      "url": "https://thepointsguy.com/credit-cards/atmos-ascent-vs-atmos-summit/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/08/alaska-hawaiian-planes.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-10T15:00:41Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "76dda6e3501b724a",
-      "title": "Get a Costco Shop card + Wyndham points when joining Costco",
-      "summary": "Wyndham Rewards is offering the chance to get both a Costco Shop card and bonus Wyndham points when you sign up for Costco membership by Se\u2026",
-      "url": "https://frequentmiler.com/get-a-costco-shop-card-wyndham-points-when-joining-costco/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Costco-Wyndham-sign-up-bonus.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-10T14:05:15Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "7faf92fca9dfd34f",
-      "title": "How I earned 24,500 points from $180 in hotel stays",
-      "summary": "I earned 24,500 points from two hotel stays costing $180.",
-      "url": "https://thepointsguy.com/loyalty-programs/maximize-promotions/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/20260806_Days-Inn-by-Wyndham-Phuket_KGenter-3.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-10T14:00:19Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "a240151f7e7d2056",
-      "title": "Citi Gift Card Sale: Save 10% When You Redeem ThankYou Points for Select Gift Cards Through August 31",
-      "summary": "Citi is offering a 10% discount on select gift cards when you redeem ThankYou\u00ae Points for a limited time.",
-      "url": "https://awardwallet.com/news/citi-thankyou-rewards/redeem-for-gift-cards/?pubDate=2026-08-10",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-10T14:00:01Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "692de9055585e5a5",
-      "title": "What Does Hyatt Discoverist Status Get You, And How Do You Earn It?",
-      "summary": "While World of Hyatt is my all-around favorite hotel loyalty program, I consider it to truly get valuable with top-tier Globalist status.",
-      "url": "https://onemileatatime.com/guides/world-of-hyatt-discoverist/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/07/Hyatt-Regency-Orlando-Airport-15.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-08-10T12:30:50Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "b3346e8641507b0b",
-      "title": "Dollywood, Anakeesta, and more: Quick reviews of our family fun in and around Pigeon Forge, TN",
-      "summary": "Last week, my family enjoyed a quick trip to Pigeon Forge, TN.",
-      "url": "https://frequentmiler.com/dollywood-anakeesta-and-more-quick-reviews-of-our-family-fun-in-and-around-pigeon-forge-tn/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/PXL_20260802_152415355-scaled.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-10T11:11:05Z",
-      "source": "Frequent Miler"
     }
   ]
 }
