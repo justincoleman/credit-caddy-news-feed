@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-17T06:56:04Z",
+  "updatedAt": "2026-08-17T12:44:08Z",
   "articles": [
+    {
+      "id": "e615b3580ab7fac7",
+      "title": "Do Hotel Points Expire? Policies By Hotel Group, Plus How To Extend Points",
+      "summary": "For those of us into collecting points, one thing to always be on the lookout for is points expiration policies.",
+      "url": "https://onemileatatime.com/guides/hotel-points-expire/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/04/St-Regis-Venice-39.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "News",
+      "publishedAt": "2026-08-17T11:22:10Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "a7d4d8b07d4247fd",
+      "title": "Secret Delta VIP Select Service: What This $500+ Airport Package Gets You",
+      "summary": "Most people don\u2019t know this (since the airline doesn\u2019t publicize it in any way), but Delta has a VIP service that any passenger can book.",
+      "url": "https://onemileatatime.com/guides/delta-vip-select/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/09/Delta-Porsche.jpeg?width=1200&quality=75&height=675&aspect_ratio=16%3A9",
+      "category": "Deals",
+      "publishedAt": "2026-08-17T08:54:21Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "ce45f19c8d5dd23a",
       "title": "Hyatt Globalist Status: How To Earn It and What Perks You\u2019ll Get",
@@ -480,26 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-13T23:51:36Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "6e55bd606728cc91",
-      "title": "[LAST CHANCE] Chase Raised World Of Hyatt Credit Card Offer With A Rare 15,000-Point Boost",
-      "summary": "Chase has increased the World of Hyatt Credit Card offer by 15,000 points, bringing it to a headline 75,000 points.",
-      "url": "https://viewfromthewing.com/chase-raises-world-of-hyatt-credit-card-offer-with-a-rare-15000-point-boost/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/08/20250805_161700.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-13T23:04:35Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "7afc064737807572",
-      "title": "Marriott Bonvoy Citi Offer: Get 10% back on $300",
-      "summary": "For the first time that I can remember, there\u2019s a new, targeted Citi Merchant Offer out for Marriott Bonvoy.",
-      "url": "https://frequentmiler.com/marriott-bonvoy-citi-offer-get-10-back-on-300/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Citi-Offer-Marriott.png",
-      "category": "Deals",
-      "publishedAt": "2026-08-13T22:45:38Z",
-      "source": "Frequent Miler"
     }
   ]
 }
