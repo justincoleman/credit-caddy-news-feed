@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-20T01:15:50Z",
+  "updatedAt": "2026-08-20T06:46:03Z",
   "articles": [
+    {
+      "id": "6d60807d08630ae6",
+      "title": "United\u2019s amazing cardholder award availability",
+      "summary": "In April, United announced major changes to its loyalty program to incentivize customers to get a United credit or debit card.",
+      "url": "https://frequentmiler.com/uniteds-amazing-cardholder-award-availability/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/United-Polaris-Cardmember-Pricing.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-20T02:23:11Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "029b2e5fb9f17f56",
       "title": "Wyndham promo: Earn 2X points at Caesars Rewards properties + 5K bonus points on 3+ night stays",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-18T09:02:28Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "0531a08d58020f9d",
-      "title": "Citi ThankYou Rewards Complete Guide (2026)",
-      "summary": "Citi ThankYou Rewards competes directly with three other bank-issued transferable points programs: Chase Ultimate Rewards, Amex Membership\u2026",
-      "url": "https://frequentmiler.com/citi-thankyou-rewards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/08/Citi-ThankYou-Rewards-Featured-Image-1.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-18T01:45:54Z",
-      "source": "Frequent Miler"
     }
   ]
 }
