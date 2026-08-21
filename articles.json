@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-08-20T18:39:15Z",
+  "updatedAt": "2026-08-21T01:19:24Z",
   "articles": [
+    {
+      "id": "5096bba83a9c89af",
+      "title": "Etihad Guest Adds Award Redemptions for Condor and Bangkok Airways Flights \u2014 But Is It Good Value?",
+      "summary": "Bangkok Airways and Condor are now bookable using Etihad Guest miles.",
+      "url": "https://awardwallet.com/news/airlines/etihad-guest-condor-bangkok-airways/?pubDate=2026-08-20",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-20T23:49:39Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "94a6d3831492fd13",
+      "title": "Earn up to 2,750 United MileagePlus Miles per Avis or Budget Car Rental",
+      "summary": "Looking for new ways to earn extra United MileagePlus miles?",
+      "url": "https://awardwallet.com/news/united-mileageplus/united-car-rental/?pubDate=2026-08-20",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-20T22:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "e833c3d208ee54fa",
+      "title": "Sun Country Credit Card 35,000 Point Bonus",
+      "summary": "Sun Country is offering 35,000 points after $1,500 in spend within 90 days of account opening on the Sun Country Visa Signature\u00ae card",
+      "url": "https://www.doctorofcredit.com/sun-country-credit-card-35000-point-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-20T21:13:39Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "9aac1d475078d6a1",
+      "title": "Giftcards.com: Visa $100 eGiftcard (No Fee or $10 Bonus Giftcard)",
+      "summary": "Giftcards.com currently has two deals on $100 Visa eGiftcards",
+      "url": "https://www.doctorofcredit.com/giftcards-com-visa-100-egiftcard-no-fee-or-10-bonus-giftcard/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-20T21:04:56Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d085341a3a4ac126",
+      "title": "Delta SkyMiles\u00ae Gold American Express Card Review: Lots of Perks for a Modest Annual Fee",
+      "summary": "With a reasonable annual fee, a free checked bags when flying Delta, 15% discount on Delta awards, and priority boarding, travelers have a\u2026",
+      "url": "https://awardwallet.com/credit-cards/delta-skymiles/delta-gold-card/?pubDate=2026-08-20",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-08-20T20:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "848932e026acd74a",
+      "title": "Cancun has a new adults-only, all-inclusive resort \u2014 and you can book it with points",
+      "summary": "You can simplify your vacation and maximize your points at this all-inclusive beach resort.",
+      "url": "https://thepointsguy.com/hotel/hyatt-vivid-cancun-now-open/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/DJI_0475-copy.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-20T20:00:07Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "f002a3c6455f324b",
+      "title": "Leading Hotels of the World points sale: Get up to 100% bonus",
+      "summary": "Leading Hotels of the World is running another points sale, this time giving a bonus of up to 100%.",
+      "url": "https://frequentmiler.com/leading-hotels-of-the-world-points-sale/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/03/The-Vines-Resort-Spa-in-Mendoza-Argentina-image-courtesy-of-Leading-Hotels-of-the-World.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-20T19:46:44Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "98ce6af78f2167fd",
+      "title": "Live in or near Chicago? United wants to give you elite status",
+      "summary": "United MileagePlus has a standard elite status match promotion that runs through the end of 2026, but it just released a better version if\u2026",
+      "url": "https://frequentmiler.com/united-mileage-plus-status-match-promo-chicago/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/United-Chicago-Status-Match-Challenge.png",
+      "category": "Deals",
+      "publishedAt": "2026-08-20T18:45:31Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "4ee0a13a0f15912f",
+      "title": "Rakuten: Get $100 For Chase INK Cash/Unlimited or $25 For Freedom Unlimited.",
+      "summary": "Update 8/20/26: INK Cash and INK Unlimited both have the $100 bonus now.",
+      "url": "https://www.doctorofcredit.com/rakuten-get-50-5000-when-signing-up-for-chase-sapphire-preferred-freedom-unlimited-ink-unlimited/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-20T18:45:01Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "44465de346213325",
       "title": "Earn Double Avios and Tier-Qualifying Points on Finnair Flights",
@@ -10,6 +100,16 @@
       "category": "Deals",
       "publishedAt": "2026-08-20T18:10:02Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "20e73e1e7efc69fe",
+      "title": "Wells Fargo $400 Checking Bonus \u2013 Available Online",
+      "summary": "Wells Fargo is offering a $400 bonus when you open a new Everyday Checking account and complete the following requirements",
+      "url": "https://www.doctorofcredit.com/wells-fargo-325-checking-bonus-available-online/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-08-20T18:00:25Z",
+      "source": "Doctor of Credit"
     },
     {
       "id": "a1bd2c3b4d0c4c05",
@@ -400,106 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-19T12:15:49Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "695f1d7c4743a0a8",
-      "title": "These are America's best airport lounge networks of 2026, according to JD Power study",
-      "summary": "Airport lounges are an increasingly essential part of Americans' travel plans, but not all lounges are equal, according to a new JD Power s\u2026",
-      "url": "https://thepointsguy.com/news/best-airport-lounges-2026-jd-power/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/12/Delta-One-Lounge-BOS-Boston-10.jpg",
-      "category": "News",
-      "publishedAt": "2026-08-19T11:00:14Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "7ec64da77ad701d6",
-      "title": "Flying Blue to increase Standard award prices and introduce Light and Flex award fares",
-      "summary": "Starting September 8th, Flying Blue\u2019s lowest-priced awards on Air France and KLM-operated flights will be booked as \u201cLight\u201d fares, with res\u2026",
-      "url": "https://frequentmiler.com/flying-blue-light-standard-flex-awards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Flying-Blue-Light-Standard-Flex.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-08-19T11:00:08Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "28e9fcb56bfc2981",
-      "title": "Air France-KLM\u2019s Flying Blue Keeps Its Cheapest Awards, Strips Benefits Unless You Spend More Miles",
-      "summary": "Air France KLM Flying Blue is adding Light, Standard and Flex fare families to award redemption September 8.",
-      "url": "https://viewfromthewing.com/air-france-klms-flying-blue-keeps-its-cheapest-awards-strips-benefits-unless-you-spend-more-miles/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2024/01/20240101_174825.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-19T07:30:40Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "d09dab718a03abee",
-      "title": "Point.me Levels Up Explore Tool: Easily Discover Where Your Points Can Take You",
-      "summary": "If you've got a stash of points and miles but aren't quite sure where to go, Point.me \u2014 the award search tool \u2014 has a solution.",
-      "url": "https://awardwallet.com/travel/point-me-explore-tool/?pubDate=2026-08-18",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-08-18T23:51:35Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "0ae66ae799065cad",
-      "title": "Wyndham timeshare promo: Book 3 night stay for as few as 1,875 points per night",
-      "summary": "Wyndham Vacation Resorts is running a new promotion that\u2019s giving the opportunity to book a three night stay for 7,500, 15,000, or 30,000 p\u2026",
-      "url": "https://frequentmiler.com/wyndham-timeshare-promo-book-3-night-stay-for-as-few-as-1875-points-per-night/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Wyndham-Vacation-Resorts-timeshare-promotion.png",
-      "category": "Deals",
-      "publishedAt": "2026-08-18T23:45:49Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "557dd2442c3b61a7",
-      "title": "When Does It Make Sense To Pay a Credit Card Surcharge?",
-      "summary": "Should you pay a credit card surcharge?",
-      "url": "https://awardwallet.com/credit-cards/should-you-pay-credit-card-surcharge/?pubDate=2026-08-18",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-08-18T22:00:31Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "3b182448bf537f37",
-      "title": "Earn 1,000 bonus Delta SkyMiles on next Starbucks purchase (targeted?)",
-      "summary": "Delta and Starbucks have had a partnership for several years now, giving an opportunity to earn bonus SkyMiles with qualifying activity.",
-      "url": "https://frequentmiler.com/earn-1000-bonus-delta-skymiles-on-next-starbucks-purchase-targeted/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Delta-Starbucks-partnership.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-18T21:45:17Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "8876fc8ca902a937",
-      "title": "Citi Offers: JetBlue, Spend $400+ & Get $50 Back",
-      "summary": "Citi Offers has an offer for $50 back when you spend $250+ on JetBlue",
-      "url": "https://www.doctorofcredit.com/citi-offers-jetblue-spend-250-get-50-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-18T20:45:54Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "cc894d4898d40e53",
-      "title": "IHG Launches Points & Cash Discount \u2014 Here\u2019s How to Utilize It to Buy IHG Points for Cheap",
-      "summary": "IHG just launched a new Points & Cash promotion.",
-      "url": "https://awardwallet.com/news/ihg-one-rewards/points-cash-promotion/?pubDate=2026-08-18",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-18T20:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "885a7bc3e5a58934",
-      "title": "A guide to lounge access with the Amex Platinum and Business Platinum",
-      "summary": "The Platinum Card from American Express and the Business Platinum open the doors to airport lounges worldwide.",
-      "url": "https://thepointsguy.com/credit-cards/american-express-platinum-lounge-access/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/American-Express-Amex-Centurion-Lounge-Seattle-75.jpg",
-      "category": "News",
-      "publishedAt": "2026-08-18T20:00:44Z",
-      "source": "The Points Guy"
     }
   ]
 }
