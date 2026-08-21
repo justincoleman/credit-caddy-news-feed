@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-21T06:47:51Z",
+  "updatedAt": "2026-08-21T12:48:32Z",
   "articles": [
+    {
+      "id": "7d21120b9b3a573e",
+      "title": "Marriott Homes & Villas Promotions: Earn Up to 10,000 Bonus Points per Stay",
+      "summary": "Marriott Homes & Villas just launched a new promotion offering 2,000 bonus points per night, up to 10,000 bonus points per stay.",
+      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-homes-and-villas-promotions/?pubDate=2026-08-21",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-21T10:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "39b41ec9fbee36f0",
+      "title": "Save At Peninsula Hotels With Amex Offers (Targeted)",
+      "summary": "The Amex Offers programfrequently has promotions for hotel stays, which can save you money or earn you bonus points for stays youd make any\u2026",
+      "url": "https://onemileatatime.com/deals/peninsula-amex-offers/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/08/Peninsula-London-Room.jpg?width=1200&quality=75&height=882&aspect_ratio=200%3A147",
+      "category": "Deals",
+      "publishedAt": "2026-08-21T09:35:05Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "634d671aa1013a3e",
       "title": "What\u2019s the best all-around travel credit card?",
@@ -480,26 +500,6 @@
       "category": "News",
       "publishedAt": "2026-08-19T14:00:14Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "01f4b47061bb6420",
-      "title": "Earn 5K bonus I Prefer points when renting from Sixt",
-      "summary": "It looks like Preferred Hotels and Sixt have had a partnership for at least 2.5 years, but I only just came across it and so wanted to high\u2026",
-      "url": "https://frequentmiler.com/earn-5k-bonus-i-prefer-points-when-renting-from-sixt/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Sixt-Preferred-Hotels-I-Prefer-5000-bonus-points.png",
-      "category": "Deals",
-      "publishedAt": "2026-08-19T13:45:26Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "5053d5333f028cb8",
-      "title": "Regent Seven Seas & GHA Discovery Partnership: Surprisingly Lucrative",
-      "summary": "Regent Seven Seas is a cruise line owned by Norwegian, and it\u2019s regarded as one of the better luxury cruise lines in the market.",
-      "url": "https://onemileatatime.com/news/regent-seven-seas-gha-discovery-partnership/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/08/Regent-Seven-Seas-Ship.jpg?width=800&quality=75&height=571&aspect_ratio=800%3A571",
-      "category": "News",
-      "publishedAt": "2026-08-19T13:26:21Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
