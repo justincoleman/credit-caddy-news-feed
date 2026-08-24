@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-24T01:19:05Z",
+  "updatedAt": "2026-08-24T06:58:40Z",
   "articles": [
+    {
+      "id": "b8bc78dab1fe09c7",
+      "title": "Hotel review: Alua Calvia, Mallorca (Hyatt all-inclusive)",
+      "summary": "My wife and I recently spent a week in Mallorca, one of Spain\u2019s Balearic Islands in the Mediterranean.",
+      "url": "https://frequentmiler.com/hotel-review-alua-calvia-mallorca-hyatt-all-inclusive/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/Alua-Calvia-Mallorca-Hyatt-All-Inclusive-hotel-review.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-24T01:45:02Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "c1854a12379331f7",
       "title": "American Express Announces U.S. Open Benefits 2026 (Two Lounges & $10 Off $100+)",
@@ -40,6 +50,16 @@
       "category": "Tips",
       "publishedAt": "2026-08-23T21:10:02Z",
       "source": "AwardWallet"
+    },
+    {
+      "id": "30868b8bce09a59b",
+      "title": "Your guide to the Chase Ink Business credit cards",
+      "summary": "Are you considering a business credit card?",
+      "url": "https://thepointsguy.com/credit-cards/chase-ink-card-showdown/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/11/Business-partners-looking-at-computer-in-office_FG-Trade.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-23T18:00:50Z",
+      "source": "The Points Guy"
     },
     {
       "id": "6651aa0d73120983",
@@ -162,6 +182,26 @@
       "source": "One Mile at a Time"
     },
     {
+      "id": "1200f4da5374e96d",
+      "title": "Chase credit cards: Best time to apply based on offer history",
+      "summary": "Credit card welcome bonus offers can change quickly and over time.",
+      "url": "https://thepointsguy.com/credit-cards/chase-best-welcome-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/Person-walking-arund-city-holding-smart-phone-and-credit-card-while_RgStudio.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-22T18:00:06Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "397624b34efb36a1",
+      "title": "Bank of America Unlimited Cash Rewards credit card review: An easy starter card for cash back",
+      "summary": "If you're looking for a simple cash-back credit card, the Bank of America Unlimited Cash Rewards may be just the right fit for you.",
+      "url": "https://thepointsguy.com/credit-cards/reviews/bank-of-america-unlimited-cash-rewards-review/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2019/08/small-business-owner-cashback-business-cards.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-08-22T16:00:28Z",
+      "source": "The Points Guy"
+    },
+    {
       "id": "4649750f1e025337",
       "title": "53 Points and Miles Deals Ending Soon: Transfer Bonuses, Award Discounts, and Bonus Points",
       "summary": "At least 53 promotions are ending or changing in the next two weeks.",
@@ -202,6 +242,16 @@
       "source": "Frequent Miler"
     },
     {
+      "id": "e29d7d249ba3cc3c",
+      "title": "Up to $1,600 in value: Marriott Bonvoy credit card welcome offers ranked",
+      "summary": "Check out the current welcome offers across Marriott Bonvoy credit cards from Chase and American Express, including limited-time elevated b\u2026",
+      "url": "https://thepointsguy.com/credit-cards/marriott-bonvoy-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/20250310_JW-Marriott-Orlando-Grande-Lakes_ARotondo-lazy-river.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-21T22:00:17Z",
+      "source": "The Points Guy"
+    },
+    {
       "id": "de33b0781058f511",
       "title": "Thrifty Traveler Premium promo: Save 30% on first year\u2019s cost (extended)",
       "summary": "National Cheap Flight Day takes place on August 23 each year.",
@@ -220,6 +270,16 @@
       "category": "Tips",
       "publishedAt": "2026-08-21T21:01:09Z",
       "source": "Doctor of Credit"
+    },
+    {
+      "id": "5491ea1ab671b902",
+      "title": "Why I love the Amex Business Platinum\u2019s 35% Pay with Points bonus",
+      "summary": "The Amex Business Platinum\u2019s 35% Pay with Points bonus can make eligible flights a better deal.",
+      "url": "https://thepointsguy.com/credit-cards/favorite-perk-amex-business-platinums-pay-with-points/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/09/20240911_LATAM-767-Business-Class_LATAM-767-business-class-side-seat-window-overhead_ERosen_56.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-08-21T20:00:10Z",
+      "source": "The Points Guy"
     },
     {
       "id": "17b7de3ecee596a6",
@@ -440,66 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-08-20T21:04:56Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "d085341a3a4ac126",
-      "title": "Delta SkyMiles\u00ae Gold American Express Card Review: Lots of Perks for a Modest Annual Fee",
-      "summary": "With a reasonable annual fee, a free checked bags when flying Delta, 15% discount on Delta awards, and priority boarding, travelers have a\u2026",
-      "url": "https://awardwallet.com/credit-cards/delta-skymiles/delta-gold-card/?pubDate=2026-08-20",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-08-20T20:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "848932e026acd74a",
-      "title": "Cancun has a new adults-only, all-inclusive resort \u2014 and you can book it with points",
-      "summary": "You can simplify your vacation and maximize your points at this all-inclusive beach resort.",
-      "url": "https://thepointsguy.com/hotel/hyatt-vivid-cancun-now-open/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/DJI_0475-copy.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-08-20T20:00:07Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "f002a3c6455f324b",
-      "title": "Leading Hotels of the World points sale: Get up to 100% bonus",
-      "summary": "Leading Hotels of the World is running another points sale, this time giving a bonus of up to 100%.",
-      "url": "https://frequentmiler.com/leading-hotels-of-the-world-points-sale/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/03/The-Vines-Resort-Spa-in-Mendoza-Argentina-image-courtesy-of-Leading-Hotels-of-the-World.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-20T19:46:44Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "98ce6af78f2167fd",
-      "title": "Live in or near Chicago? United wants to give you elite status",
-      "summary": "United MileagePlus has a standard elite status match promotion that runs through the end of 2026, but it just released a better version if\u2026",
-      "url": "https://frequentmiler.com/united-mileage-plus-status-match-promo-chicago/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/United-Chicago-Status-Match-Challenge.png",
-      "category": "Deals",
-      "publishedAt": "2026-08-20T18:45:31Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "4ee0a13a0f15912f",
-      "title": "Rakuten: Get $100 For Chase INK Cash/Unlimited or $25 For Freedom Unlimited.",
-      "summary": "Update 8/20/26: INK Cash and INK Unlimited both have the $100 bonus now.",
-      "url": "https://www.doctorofcredit.com/rakuten-get-50-5000-when-signing-up-for-chase-sapphire-preferred-freedom-unlimited-ink-unlimited/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-20T18:45:01Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "44465de346213325",
-      "title": "Earn Double Avios and Tier-Qualifying Points on Finnair Flights",
-      "summary": "For a limited time, you can book travel through Finnair to earn double Avios and tier points.",
-      "url": "https://awardwallet.com/news/airlines/finnair-bonus-avios-promotion/?pubDate=2026-08-20",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-08-20T18:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
