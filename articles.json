@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-30T20:40:30Z",
+  "updatedAt": "2026-08-31T04:11:29Z",
   "articles": [
+    {
+      "id": "150f9c2cd4e94898",
+      "title": "Staples: 100% Back In Points On Sharpie Products, Up To $40",
+      "summary": "Staples is offering 100% back in Staples rewards on Sharpie products, up to $40.",
+      "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-sharpie-products-up-to-40/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-08-31T00:05:40Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "903f7019d718fd6c",
+      "title": "Award Availability Explained: How To Find and Book Flights With Miles",
+      "summary": "Have you ever felt like you can\u2019t use miles for any of the trips you want to take?",
+      "url": "https://awardwallet.com/airlines/what-flights-can-i-book-with-miles/?pubDate=2026-08-30",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-08-30T21:10:03Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "1780b185457ed1f8",
       "title": "Atmos Rewards Summit Card Partner Award Booking Fee Waiver Benefit",
@@ -352,16 +372,6 @@
       "source": "Doctor of Credit"
     },
     {
-      "id": "90549f4374405e5e",
-      "title": "[Washington State] Delta 12status: Free Delta Miles based on Seahawks Performance & More",
-      "summary": "Delta members who live in Washington state will be able to enroll in 12status again this year and earn miles based on Seahawks 2021 perform\u2026",
-      "url": "https://www.doctorofcredit.com/washington-state-delta-12status-free-delta-miles-based-on-seahawks-performance-more/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-08-28T19:00:13Z",
-      "source": "Doctor of Credit"
-    },
-    {
       "id": "c7c4ff2b96b91670",
       "title": "AmEx Offers: Allegiant Air, Spend $200/$250 & Get $50 Back",
       "summary": "Check your AmEx Offers for $50 off $200/$250 Allegiant Air flight bookings in the US.",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-08-28T14:07:30Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "17b7de3ecee596a6",
-      "title": "Current Amex Offers",
-      "summary": "This post is designed to show current Amex Offers.",
-      "url": "https://frequentmiler.com/current-amex-offers/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Amex-Offers-Tablet.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-08-28T13:46:30Z",
-      "source": "Frequent Miler"
     }
   ]
 }
