@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-03T03:21:21Z",
+  "updatedAt": "2026-09-03T10:48:19Z",
   "articles": [
+    {
+      "id": "28b60a6109aa668b",
+      "title": "Southwest Is Selling Rapid Rewards Points At A Discount: Should You Buy?",
+      "summary": "Southwest is discounting purchased Rapid Rewards points by up to 50%, bringing the cost to 1.5 cents each.",
+      "url": "https://onemileatatime.com/deals/buy-southwest-rapid-rewards-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/10/Southwest-Airlines-Plane-Deicing.jpg?width=1200&quality=75&height=733&aspect_ratio=1200%3A733",
+      "category": "Tips",
+      "publishedAt": "2026-09-03T10:12:12Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "063abf12d24b5a65",
       "title": "Credit card cell phone insurance compared",
@@ -27,7 +37,7 @@
       "summary": "Capital One is giving business owners the chance to earn a one-time $2,000 cash bonus and a $500 Capital One Business Travel credit on its\u2026",
       "url": "https://awardwallet.com/credit-cards/cash-back/spark-cash-plus-offer/?pubDate=2026-09-02",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-02T23:51:36Z",
       "source": "AwardWallet"
     },
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-01T17:45:57Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "054d8216dede7269",
-      "title": "[Targeted] AmEx Offer: Airbnb, Spend $250 & Receive $30",
-      "summary": "AmEx Offers: Spend $250 or more at Airbnb with your enrolled AmEx card and get $50/5,000 back.",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offer-airbnb-spend-250-receive-50-5000/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-01T17:15:53Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
