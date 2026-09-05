@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-05T10:04:33Z",
+  "updatedAt": "2026-09-05T14:44:00Z",
   "articles": [
+    {
+      "id": "a66bd38920e824ef",
+      "title": "United Threatens To Fire Flight Attendants Who Pick Up Trips They Know They Can\u2019t Work\u2014Then Collect The Pay",
+      "summary": "United says some crew members use advance knowledge of delays to pick up trips that will be removed with pay protection.",
+      "url": "https://viewfromthewing.com/united-threatens-to-fire-flight-attendants-who-pick-up-trips-they-know-they-cant-work-then-collect-the-pay/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2020/11/united-flight-attendant.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T14:04:09Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "d70de4965b72189f",
+      "title": "Is the Citi / AAdvantage Executive World Legend Mastercard worth it?",
+      "summary": "We analyze travel perks on the Citi / AAdvantage Legend card when paying the hefty $695 annual fee.",
+      "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-world-elite-mastercard-worth-annual-fee/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/AMERICAN-AIRLINES-EXTERIOR-ON-TARMAC_AA.jpeg",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T13:00:23Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "ef1a3e50b34ea4a9",
+      "title": "United Airlines Threatens To Fire Flight Attendants Who Try To Profit Off Delays",
+      "summary": "United has warned its flight attendants that intentionally bidding on trips during rolling delays to trigger pay protection could lead to t\u2026",
+      "url": "https://onemileatatime.com/news/united-airlines-threatens-fire-flight-attendants-profit-off-delays/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/United-First-Class-737-MAX-1.jpeg?width=1200&quality=75&height=860&aspect_ratio=60%3A43",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T12:02:08Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "234434e5317f38cc",
+      "title": "Wild Card destinations to be revealed, Marriott upgrade success, the value of I Prefer points and more (Week in Review)",
+      "summary": "Despite what my Lifetime Platinum luggage tag might suggest, I am not very loyal to Marriott Bonvoy.",
+      "url": "https://frequentmiler.com/wild-card-destinations-to-be-revealed-marriott-upgrade-success-the-value-of-i-prefer-points-and-more-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/08/1.png",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T10:45:43Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "d77dc9f777929fce",
       "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
@@ -459,46 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-09-03T16:00:29Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "8ec920f24bb3d9d1",
-      "title": "$1,000 Cash Back, $0 Annual Fee: Best-Ever Offers Ending Soon on Ink Business Cash and Ink Unlimited Cards",
-      "summary": "What if you could earn a best-ever $1,000 cash-back bonus from a no-annual-fee business credit card?",
-      "url": "https://awardwallet.com/credit-cards/chase-ultimate-rewards/ink-business-card-offers/?pubDate=2026-09-03",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T16:00:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "3fd5c755c5625af5",
-      "title": "American Express $300 Checking Bonus",
-      "summary": "American Express is offering a $250 bonus when you open a new personal checking account and complete the following requirements",
-      "url": "https://www.doctorofcredit.com/american-express-250-checking-bonus/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-03T15:30:39Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "a33a1b22433750a5",
-      "title": "Citi Offers: AT&T Wireless, $50 Off $65",
-      "summary": "Check your Citi Offers for the following deal: Get $40 back on a qualifying AT&T wireless plan purchase of $65 or more.",
-      "url": "https://www.doctorofcredit.com/citi-offers-att-wireless-40-off-65/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T15:00:33Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "c32d40e6dcbc130f",
-      "title": "Chase Offers: DirecTV, Spend $100 & Get $50 Back (Limit 2)",
-      "summary": "Earn $50 cash back on your DIRECTV subscription when you spend $100 or more, including taxes and after any discounts.",
-      "url": "https://www.doctorofcredit.com/chase-offers-directv-spend-100-get-50-back-limit-1/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T15:00:18Z",
       "source": "Doctor of Credit"
     }
   ]
