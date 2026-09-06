@@ -1,13 +1,53 @@
 {
-  "updatedAt": "2026-09-05T20:01:04Z",
+  "updatedAt": "2026-09-06T03:21:53Z",
   "articles": [
+    {
+      "id": "3e0c66d8efadd4bf",
+      "title": "Making Estimated Tax Payments? Use These Credit Cards To Earn Points, Miles, or Cash Back",
+      "summary": "Paying the IRS is never fun.",
+      "url": "https://awardwallet.com/credit-cards/pay-taxes-with-credit-card/?pubDate=2026-09-05",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-05T23:50:35Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "0b776427ae6cbc8b",
+      "title": "How To Earn Marriott Bonvoy Elite Status and the Perks of Each Tier",
+      "summary": "Marriott Bonvoy elite status has 5 elite tiers in addition to the base level.",
+      "url": "https://awardwallet.com/hotels/marriott-bonvoy/elite-status/?pubDate=2026-09-05",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-05T21:10:04Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "50eb108034836174",
+      "title": "The 10 Greatest Airline Mileage Deals Ever\u2014My 7 Million American Airlines Miles Only Ranks #2",
+      "summary": "Magazine subscriptions bought Concorde flights, pudding earned over a million miles, and SimplyMiles delivered unexpected ConciergeKey stat\u2026",
+      "url": "https://viewfromthewing.com/the-10-greatest-airline-mileage-deals-ever-my-7-million-american-airlines-miles-only-ranks-2/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/08/20250807_095414.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T21:04:26Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "3ec030ef2da9456d",
+      "title": "Weekly Review: September 05, 2026",
+      "summary": "I hope everyone is having a nice weekend so far, and happy Labor Day to those in the United States.",
+      "url": "https://onemileatatime.com/weekly-review/2026-09-05/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/JetBlue-BlueFirst-First-Class-11.jpg?width=1200&quality=75&height=960&aspect_ratio=5%3A4",
+      "category": "Tips",
+      "publishedAt": "2026-09-05T20:45:00Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "299d21a31eaa24c5",
       "title": "Already Have a Chase Sapphire or Ink Preferred? Turn These $1,000 Ink Bonuses Into 100K Transferable Points",
       "summary": "Chase markets the Ink Cash and Ink Unlimited bonuses as $1,000 cash back.",
       "url": "https://awardwallet.com/credit-cards/chase-ultimate-rewards/stack-ink-sapphire-cards/?pubDate=2026-09-05",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-05T18:00:42Z",
       "source": "AwardWallet"
     },
@@ -459,46 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-09-03T19:30:01Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9832baf3998af850",
-      "title": "Chase British Airways: 90,000 Point Bonus After $5,000 In Spend (Aer Lingus & Iberia)",
-      "summary": "Chase is offering 100,000 points on the Chase British Airways card after $7,500 in spend within the first six months",
-      "url": "https://www.doctorofcredit.com/chase-british-airways-100000-point-bonus-after-7500-in-spend-aer-lingus-iberia/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T19:15:40Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "c46923de9ca10d66",
-      "title": "Chase Offers: Get 15% Back On Home Improvement Stores (Max $50 Cashback)",
-      "summary": "Update 9/3/26: Deal is back through 10/31/26 (ht reader Patrick) Update 5/1/26: Deal is back through 5/31/26.",
-      "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-home-improvement-stores/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T19:10:12Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "af38f09e9a238848",
-      "title": "Atmos Rewards Global Getaways: Europe from 20K one-way, Samoa from 25K, and Tokyo from 27.5K",
-      "summary": "The latest set of Atmos Rewards Global Getaways is out, with awards to Europe and Mexico starting at 20K one-way, Samoa at 25.5K, and fligh\u2026",
-      "url": "https://frequentmiler.com/atmos-rewards-global-getaways-discount-international-awards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Atmos-Global-Getaways-September.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-03T18:45:30Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "6d5e48f935a31987",
-      "title": "ShopBack Shopping Portal $15+ In Signup Bonuses & More Deals",
-      "summary": "Shopback shopping portal with $15 signup bonus, 1.5% back on Amazon, and often increased cashback rates and Quest deals",
-      "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T18:00:39Z",
       "source": "Doctor of Credit"
     }
   ]
