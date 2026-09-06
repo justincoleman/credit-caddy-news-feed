@@ -1,13 +1,33 @@
 {
-  "updatedAt": "2026-09-06T03:21:53Z",
+  "updatedAt": "2026-09-06T10:25:27Z",
   "articles": [
+    {
+      "id": "e52d3d270059e80d",
+      "title": "[Targeted] AmEx Offers: Sling TV, Spend $19.95+ & Receive $15 Statement Credit (Limit 2) + 45x On Rakuten",
+      "summary": "Sling TV: Spend $19.99 or more, earn $15 back, up to 2 times (total of $30).",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offers-sling-tv-spend-19-95-receive-15-statement-credit-limit-2/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-06T10:00:13Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "398f5b5ea471ecef",
+      "title": "When Are Speculative Points Transfers Worth It? Here\u2019s My Strategy\u2026",
+      "summary": "In order to diversify your rewards and avoid devaluations, I recommend earning transferable points currencies whenever possible.",
+      "url": "https://onemileatatime.com/insights/speculative-points-transfers/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/03/New-Air-France-Business-Class-777-31.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-09-06T09:58:57Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "3e0c66d8efadd4bf",
       "title": "Making Estimated Tax Payments? Use These Credit Cards To Earn Points, Miles, or Cash Back",
       "summary": "Paying the IRS is never fun.",
       "url": "https://awardwallet.com/credit-cards/pay-taxes-with-credit-card/?pubDate=2026-09-05",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-05T23:50:35Z",
       "source": "AwardWallet"
     },
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-03T20:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "a763478163545abe",
-      "title": "Giftcards.com: 10% off $100 Virtual Visa gift cards (limit 3)",
-      "summary": "Giftcards.com (GCC) is running another excellent promo on $100 virtual Visa gift card purchases, giving 10% off up to 3 cards with promo co\u2026",
-      "url": "https://frequentmiler.com/giftcards-com-10-off-100-virtual-visa-gift-cards-limit-3/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/11/GCC-visa.jpeg",
-      "category": "Deals",
-      "publishedAt": "2026-09-03T19:45:51Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "a945f4e7e0465ef5",
-      "title": "[Ends Soon] Chase INK Cash & INK Unlimited 100,000 Points Signup Bonus",
-      "summary": "Chase INK Business Cash and INK Business Unlimited card signup bonus of 100,000 points after spending $8,000 within four months (starts Jun\u2026",
-      "url": "https://www.doctorofcredit.com/chase-ink-cash-ink-unlimited-100000-points-signup-bonus-starts-june-15th/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-03T19:30:01Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
