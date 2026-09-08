@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-08T03:27:37Z",
+  "updatedAt": "2026-09-08T10:45:20Z",
   "articles": [
+    {
+      "id": "2bfeff93f754f6a1",
+      "title": "Buy Choice Privileges Points At 40% Off: 0.62 Cents Each, Worth It?",
+      "summary": "Choice Privileges is offering up to a 40% discount on purchased points, bringing the cost down to 0.62 cents each.",
+      "url": "https://onemileatatime.com/deals/buy-choice-privileges-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/10/The-Wigman-Arizona.jpeg?width=1200&quality=75&height=763&aspect_ratio=1200%3A763",
+      "category": "Deals",
+      "publishedAt": "2026-09-08T09:17:32Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "9faa4e5a303a0d76",
       "title": "Giant/Martin\u2019s/S&S: 2x Fuel Points on Mastercard Gift Cards (8/28-9/10)",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-04T23:50:36Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "d0083be6e539cb21",
-      "title": "[Targeted] Venmo: Google Play \u2013 Spend $5, Get $5 Back",
-      "summary": "Venmo is offering $5 back when you spend $5+ on Google Play",
-      "url": "https://www.doctorofcredit.com/targeted-venmo-google-play-spend-5-get-5-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-04T23:24:00Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
