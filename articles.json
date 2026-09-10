@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-10T10:48:32Z",
+  "updatedAt": "2026-09-10T15:57:22Z",
   "articles": [
+    {
+      "id": "3ee3cd4f7c242635",
+      "title": "[YMMV] Capital One Shopping: $400 DirecTV Offer, Stack With AmEx Offer (~$200 Profit)",
+      "summary": "Capital One Shopping portal is offering $330 cash back on DirecTV.",
+      "url": "https://www.doctorofcredit.com/ymmv-capital-one-shopping-330-directv-offer-stack-with-amex-offer-200-profit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-10T15:48:04Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "339bc3a54176cf8b",
+      "title": "Amex Marriott Bonvoy Business card: Earn 100K points + 50K free night certificate with new offer",
+      "summary": "The Marriott Bonvoy Business card may be worth holding for Marriott aficionados, thanks to its annual 15 elite night credits and a 35K free\u2026",
+      "url": "https://frequentmiler.com/amex-marriott-bonvoy-business-card-earn-150k-points-50k-free-night-certificate-with-new-offer/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/wp-17507898023343206698959646599974.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-10T15:45:39Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "55bfe2ea9a3dd488",
+      "title": "Chase Aeroplan Card: New benefits, best-ever welcome offer, higher annual fee",
+      "summary": "Chase and Aeroplan just launched a \u201crefresh\u201d of the Aeroplan Mastercard and added a hefty, best-ever welcome offer to celebrate.",
+      "url": "https://frequentmiler.com/chase-aeroplan-card-new-benefits-best-ever-offer-higher-annual-fee/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Chase-Air-Canada-Aeroplan\u00ae-Credit-Card-.png",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-10T14:35:17Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "27b859cb7f873451",
+      "title": "Hyatt Ends Partnership With American Airlines, Announces New Partnership With Delta Airlines",
+      "summary": "Hyatt has announced its partnership with American Airlines will be ending on Feb.",
+      "url": "https://www.doctorofcredit.com/hyatt-ends-partnership-with-american-airlines-announces-new-partnership-with-delta-airlines/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-09-10T14:00:26Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "29e1a5a15b09e6f3",
+      "title": "Chase More Than Doubles Annual Fee on Aeroplan Card \u2014 Are These New Perks Worth It?",
+      "summary": "Rumors have been swirling for months that a refresh of the Aeroplan\u00ae Credit Card was imminent, and it's finally here.",
+      "url": "https://awardwallet.com/news/air-canada-aeroplan/chase-aeroplan-card-refresh/?pubDate=2026-09-10",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-09-10T13:45:51Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "78c79c958e1b4a20",
+      "title": "Chase Increases Air Canada Aeroplan Card Annual Fee To $195 \u2014 Adds Automatic Elite Status And 15% Off Awards",
+      "summary": "Existing and new cardmembers get automatic Aeroplan 25K status without spending, a fixed award discount and 3 points per dollar on broad tr\u2026",
+      "url": "https://viewfromthewing.com/chase-increases-air-canada-aeroplan-card-annual-fee-to-195-adds-automatic-elite-status-and-15-off-awards/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/09/Chase-Air-Canada-Aeroplan\u00ae-Credit-Card-.png",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-10T13:45:34Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "a311d2ed55c2791d",
+      "title": "Chase Air Canada Aeroplan Card gets major refresh with new perks and higher annual fee",
+      "summary": "The Chase Air Canada Aeroplan Card now offers automatic 25K status, a 15% award discount and new credits \u2014 but its annual fee has increased.",
+      "url": "https://thepointsguy.com/news/chase-aeroplan-card-refresh-september-2026/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/10/Air-Canada-Boeing-777-taking-off-from-Vancouver-International-Airport_Alvin-Man.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-10T13:45:03Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "a0048f93925e16ff",
+      "title": "How to get more out of every all-inclusive vacation with IHG One Rewards",
+      "summary": "Booking an all-inclusive stay through IHG One Rewards means earning points, working toward elite status and enjoying member benefits.",
+      "url": "https://thepointsguy.com/loyalty-programs/all-inclusive-with-ihg-one-rewards/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/jar_stpr_0033.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-10T13:30:18Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "7a1a73205b668651",
+      "title": "Marriott Global Promotion: Earn 1,500 Bonus Points On Stays Of Two Nights Or More",
+      "summary": "Marriott is offering a new global promotion on stays between September 22 through November 22",
+      "url": "https://www.doctorofcredit.com/marriott-global-promotion-earn-1500-bonus-points-on-stays-of-two-nights-or-more/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-10T13:00:07Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "1d17a1b483f50d13",
       "title": "Buy Wyndham Rewards Points With Up To 90% Bonus (0.68 Cents Each): Worth It?",
@@ -322,16 +412,6 @@
       "source": "One Mile at a Time"
     },
     {
-      "id": "78e1e160abf69876",
-      "title": "Booking Hotels Direct Is Better\u2014But EU Rules Make Google Put Expedia And Booking.com Ahead Of Hotel Websites [Roundup]",
-      "summary": "Booking hotels directly usually offers better access to loyalty benefits and easier help when something goes wrong, but Google says EU rule\u2026",
-      "url": "https://viewfromthewing.com/booking-hotels-direct-is-better-but-eu-rules-make-google-put-expedia-and-booking-com-ahead-of-hotel-websites-roundup/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/06/20250630_0504240.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-09T12:04:04Z",
-      "source": "View from the Wing"
-    },
-    {
       "id": "8dce44246042dc6c",
       "title": "Registration Open For Marriott\u2019s New Fall Promo\u2014Register Now For Up To 4,500 Bonus Points Per Stay",
       "summary": "Eligible paid stays of at least two nights earn 1,500 bonus points September 22\u2013November 22, with another 3,000 at resorts.",
@@ -420,86 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-08T20:45:00Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "af6d9220a08e8956",
-      "title": "Last Call: Buy Marriott Bonvoy Points for as Cheap as 0.83\u00a2 Each With This Up-To-50% Bonus Promotion",
-      "summary": "Marriott Bonvoy is offering its members the chance to buy points with up to a 50% bonus.",
-      "url": "https://awardwallet.com/hotels/marriott-bonvoy/buy-marriott-points/?pubDate=2026-09-08",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-08T20:20:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "5a65cf165b872f9d",
-      "title": "Marriott Amex Offer: Spend $450 & get $200 back (targeted)",
-      "summary": "There\u2019s a new Marriott Bonvoy Amex Offer out today on targeted cards which is giving a $200 statement credit when spending $450 or more on\u2026",
-      "url": "https://frequentmiler.com/marriott-amex-offer-spend-450-get-200-back-targeted/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/09/Marriott-Featured-Image.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-08T19:45:13Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "cc2975d1bc1da970",
-      "title": "Cathay Pacific 80th Anniversary Promotion: Get up to $188 Off, Earn 1,946 Bonus Miles, and Take 28% off a Future Flight",
-      "summary": "Cathay Pacific launched an 80th-anniversary promotion that lets members earn cash discounts, bonus Asia Miles, and discounts on future flig\u2026",
-      "url": "https://awardwallet.com/news/airlines/cathay-pacific-bonus-miles-promotion/?pubDate=2026-09-08",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-08T19:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "8401a6a49c90ca2c",
-      "title": "11 ways to use points and miles for an incredible trip to Costa Rica right now",
-      "summary": "This guide will help you use airline miles and hotel points to book an incredible trip to Costa Rica, whether you want a beach vacation or\u2026",
-      "url": "https://thepointsguy.com/travel/use-points-and-miles-for-costa-rica/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/12/20241212_FSCR_ERosen_Four-Seasons-Papagayo-Costa-Rica-Pacific-beach-sunset-4.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-08T18:00:25Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "66ffabe1166abaaa",
-      "title": "Capital One Venture Rewards: 75,000 Points + $300 Travel Credit",
-      "summary": "The Offer Direct link to offer Sign up for the Capital One Venture Rewards card and get a $300 Capital One Travel credit for hotels and vac\u2026",
-      "url": "https://www.doctorofcredit.com/capital-one-venture-rewards-75000-points-300-travel-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-08T17:48:46Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "7a33fb7c59bfd4a1",
-      "title": "AARP members can get Preferred Hotels Gold status + 2,500 bonus I Prefer points after next stay",
-      "summary": "AARP and Preferred Hotels have an interesting partnership that can get you both 2,500 bonus I Prefer points and Gold status after your next\u2026",
-      "url": "https://frequentmiler.com/aarp-members-can-get-preferred-hotels-gold-status-2500-bonus-i-prefer-points-after-next-stay/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/AARP-Preferred-Hotels-I-Prefer-Gold-status.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-08T17:45:58Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "823cab87fffcaa84",
-      "title": "How I use Savewise to stack shopping portals, credit card offers and cash back for bigger rewards",
-      "summary": "Savewise helps you maximize online shopping rewards by comparing shopping portals, credit card offers and other ways to stack points, miles\u2026",
-      "url": "https://thepointsguy.com/deals/using-savewise/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/09/GettyImages-1312849036.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-08T17:30:01Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "ac59e98aea6efb52",
-      "title": "Ink Business Unlimited vs. Spark Cash Select: Which simple business cash-back card wins?",
-      "summary": "The Ink Business Unlimited and Spark Cash Select both earn 1.5% cash back with no annual fee.",
-      "url": "https://thepointsguy.com/credit-cards/chase-ink-business-unlimited-vs-capital-one-spark-cash-select/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/05/Person-sitting-at-cafe-enjoying-coffee-while-using-smart-phone-and-holding-credit-card_-Zorica-Nastasic.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-08T17:00:27Z",
-      "source": "The Points Guy"
     }
   ]
 }
