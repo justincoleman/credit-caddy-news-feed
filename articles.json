@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-14T03:47:22Z",
+  "updatedAt": "2026-09-14T12:01:54Z",
   "articles": [
+    {
+      "id": "2cab38a9cacce978",
+      "title": "Today Only: Earn Up To 4x Bonus Airline Miles On Apple Purchases",
+      "summary": "Online shopping portals can be a great way to pick up additional miles and points for purchases youd make anyway.",
+      "url": "https://onemileatatime.com/deals/bonus-miles-apple/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/iphone-camera.jpg?width=680&quality=75&height=466&aspect_ratio=340%3A233",
+      "category": "Deals",
+      "publishedAt": "2026-09-14T08:54:08Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "d8833ea788069ab8",
       "title": "Citi Offers: bp and/or Amoco Fuel, Spend $40+ & Get $5 Back",
@@ -489,16 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-09-11T02:30:39Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "829659c28759bfbc",
-      "title": "Capital One Offers: Use Any Offer & Get Additional $30 Bonus",
-      "summary": "Capital One offers is offering $30/3,000 points back when you use any offer",
-      "url": "https://www.doctorofcredit.com/capital-one-offers-use-any-offer-get-additional-30-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-11T02:29:24Z",
       "source": "Doctor of Credit"
     }
   ]
