@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-16T03:44:43Z",
+  "updatedAt": "2026-09-16T10:58:24Z",
   "articles": [
+    {
+      "id": "0024fbe909e33edf",
+      "title": "[YMMV \u2013 Chase Southwest Cardholders] Lyft: 50% Off Your Next Two Rides With Promo Code SOUTHWEST50",
+      "summary": "The Offer Lyft is offering 50% off (up to $15) your next two rides with promo code SOUTHWEST50 The Fine Print Eligibility is limited to ind\u2026",
+      "url": "https://www.doctorofcredit.com/ymmv-chase-southwest-cardholders-lyft-50-off-your-next-two-rides-with-promo-code-southwest50/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-16T04:11:41Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "c2c4a02e5017b4ca",
       "title": "Buy Saudia AlFursan Miles With 96% Bonus: Unlock Cheap(ish) First Class Awards",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-14T14:00:07Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "8066eb34444fce93",
-      "title": "Get 7,500 Marriott Bonvoy points when linking with BetMGM and making first qualifying wager",
-      "summary": "BetMGM is the online sportsbook arm of MGM Casinos.",
-      "url": "https://frequentmiler.com/marriott-bonvoy-betmgm-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Marriott-BetMGM-7500-points-and-up-to-1500-back-in-bonus-bets-scaled.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-14T13:51:54Z",
-      "source": "Frequent Miler"
     }
   ]
 }
