@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-18T10:42:30Z",
+  "updatedAt": "2026-09-18T15:58:03Z",
   "articles": [
+    {
+      "id": "3230606247812ea2",
+      "title": "Singapore Airlines: Premium Economy between US and Asia starting at 59K",
+      "summary": "Singapore Airlines KrisFlyer has released its latest list of \u201cSpontaneous Escapes,\u201d discounted award redemptions valid only for travel in t\u2026",
+      "url": "https://frequentmiler.com/singapore-airlines-premium-economybetween-asia-and-us-starting-at-55k/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/04/Singapore-Airlines-A380-800.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-18T15:45:48Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "76d2e7627cdf3fb2",
+      "title": "Capital One Venture vs. Citi Strata Premier: Which $95 Travel Card Is Better for You?",
+      "summary": "The Citi Strata Premier\u00ae Card and Capital One Venture Rewards Credit Card both feature top-tier welcome offers, valuable bonus categories,\u2026",
+      "url": "https://awardwallet.com/credit-cards/capital-one-venture-vs-citi-premier-card/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-18T15:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "1964288293e37420",
+      "title": "Capital One Lounge is reopening after months-long closure",
+      "summary": "The Capital One Lounge at Washington Dulles International Airport is reopening on Sept.",
+      "url": "https://thepointsguy.com/news/capital-one-lounge-dulles-reopens/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/08/Capital-One-Lounge-Dulles-Washington-IAD-9.jpg",
+      "category": "News",
+      "publishedAt": "2026-09-18T15:00:32Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "819f75502a351457",
+      "title": "Status Match to Turkish Airlines Miles&Smiles, Get Star Alliance Gold Perks",
+      "summary": "Turkish Airlines elite status and Star Alliance Gold perks are only a status match away.",
+      "url": "https://awardwallet.com/news/airlines/turkish-airlines-status-match/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-18T14:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "cf6d63ac2b18b9f2",
+      "title": "You Can Buy An Empty Middle Seat\u2014And Some Airlines Will Buy Back Tickets You Can\u2019t Use",
+      "summary": "Vacation packages generated nearly 38% of easyJet\u2019s pretax profit, and Southwest is using free checked bags to attract package buyers.",
+      "url": "https://viewfromthewing.com/you-can-buy-an-empty-middle-seat-and-some-airlines-will-buy-back-tickets-you-cant-use/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2015/05/IMG_4141.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-18T14:04:34Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "43adde18dd2a7c13",
+      "title": "The ultimate guide to Delta One Suites",
+      "summary": "Everything you'd ever want to know about the Delta One business-class suites, from routes to seat details to how to book award flights.",
+      "url": "https://thepointsguy.com/airline/ultimate-guide-delta-one-suites/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/02/Delta-One-Suites-AIrbus-A330neo-Zach-Griff-9.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-18T14:00:30Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "8a4810cdae894166",
+      "title": "Chase Offer for Sapphire Reserve Cardholders: Get up to 25% back at Alila and Miraval",
+      "summary": "There\u2019s another good Chase Offer out that\u2019s available exclusively to Sapphire Reserve\u00ae cardholders.",
+      "url": "https://frequentmiler.com/chase-offer-for-sapphire-reserve-cardholders-get-up-to-25-back-at-alila-and-miraval/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-18T13:45:02Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "fe301f77baa77de7",
+      "title": "Should you transfer Chase points to Hyatt before Oct. 1? Here\u2019s how I\u2019m deciding what to do",
+      "summary": "Chase-to-Hyatt transfers are changing Oct.",
+      "url": "https://thepointsguy.com/news/chase-hyatt-transfer-ratio-change/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/20240422_Miraval-Austin_miraval-austin-room-9_KGenter_46.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-18T13:00:10Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "c4ac78dacd78f23c",
+      "title": "Travel-Related Chase Offers: Up to $100 Back on Air Canada, Hyatt, Viator, Airalo, Turo, And More",
+      "summary": "Chase is currently offering a slew of travel-related Chase Offers \u2014 offering potentially hundreds of dollars back on lodging, flights, and\u2026",
+      "url": "https://awardwallet.com/news/chase-ultimate-rewards/chase-offers/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-18T12:10:02Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "3813089ac6ebcac0",
       "title": "Hilton\u2019s New Fall Promo Delivers Just $4 Per Stay\u2014While A Week At A Resort Gets You At Most $12",
@@ -410,96 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-16T20:40:14Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "1e93525e88115103",
-      "title": "American & Condor Ink Interline Deal: A Small Step With Big Potential, Maybe?",
-      "summary": "American and Condor just announced an interline agreement dressed up as a 'partnership.' It's a small step, but could hint at bigger allian\u2026",
-      "url": "https://onemileatatime.com/news/american-condor-partnership/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/04/Condor-Business-Class-A330-900neo-2.jpeg?width=1200&quality=75&height=869&aspect_ratio=1200%3A869",
-      "category": "Deals",
-      "publishedAt": "2026-09-16T20:24:42Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "be73b7fb541a4c54",
-      "title": "Avianca Is Selling LifeMiles With Up to a 145% Bonus \u2014 But Should You Buy at 1.35\u00a2 Each?",
-      "summary": "Avianca is back with another LifeMiles sale.",
-      "url": "https://awardwallet.com/airlines/avianca-lifemiles/buy-lifemiles/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-16T20:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "dc502c63699bc7a7",
-      "title": "Best airport lounge access credit cards: 4 picks for frequent flyers",
-      "summary": "Compare the best airport lounge access credit cards for frequent flyers, including Amex Platinum, Sapphire Reserve, Citi AAdvantage Executi\u2026",
-      "url": "https://thepointsguy.com/credit-cards/best-rewards-credit-cards-for-lounge-access/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/20250915_Tokyo-Haneda-Amex-Centurion-Lounge_CHenderson-41.jpg",
-      "category": "News",
-      "publishedAt": "2026-09-16T20:00:32Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "1183f3f2b7bdf477",
-      "title": "Chase Ultimate Rewards Can Be Redeemed To Chase Investment Accounts at 1 Cent Per Point (\u201cInvest Your Points\u201d)",
-      "summary": "Chase announced today a new Ultimate Rewards points redemption option called Invest Your Points.",
-      "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-can-be-redeemed-to-chase-investment-accounts-at-1-cent-per-point-invest-your-points/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-16T19:43:59Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "02b88ab0be67800a",
-      "title": "Great Deal: Save 15% Of Points On IHG One Rewards Free Night Award Bookings",
-      "summary": "IHG One Rewards is offering a 15% discount on award night bookings through November 2026, first available to co-branded cardholders before\u2026",
-      "url": "https://onemileatatime.com/deals/ihg-award-sale/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/InterContinental-Hotel-Room.jpg?width=1200&quality=75&height=743&aspect_ratio=1200%3A743",
-      "category": "Deals",
-      "publishedAt": "2026-09-16T19:26:04Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "1bbcfc0d676131bf",
-      "title": "Hilton Honors Amex Business Card Review: Status, Points, & Credits",
-      "summary": "A deep dive into the Hilton Honors American Express Business Card, covering its welcome offer, earning rates, credits, and elite status per\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/hilton-business-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/09/Waldorf-Astoria-Amsterdam-Peacock-Alley.jpeg?width=1200&quality=75&height=815&aspect_ratio=240%3A163",
-      "category": "Tips",
-      "publishedAt": "2026-09-16T18:52:19Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "58cbc6427b7bb34d",
-      "title": "Chase Now Lets You Invest Ultimate Rewards Points\u2014But It\u2019s Better To Redeem For Travel Even If You Want Cash",
-      "summary": "The J.P.",
-      "url": "https://viewfromthewing.com/chase-now-lets-you-invest-ultimate-rewards-points-but-its-better-to-redeem-for-travel-even-if-you-want-cash/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/04/chase-sapphire-reserve-box.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-16T18:34:56Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "f2d7a2d768353cab",
-      "title": "[Targeted] Chase Travel: Spend $600+ & Receive $100 Back",
-      "summary": "Earn $100 cash back on your Chase Travel purchase when you spend $600 or more, including taxes and after any discounts.",
-      "url": "https://www.doctorofcredit.com/targeted-chase-travel-spend-500-receive-100-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-16T18:30:10Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "989d6a8e8ff76783",
-      "title": "Discover it Miles review: Simple rewards for beginners and cash back enthusiasts alike",
-      "summary": "The Discover it Miles card is great for beginners and those looking for simplicity.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/discover-it-miles-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2019/12/GettyImages-1132979435.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-16T18:00:55Z",
-      "source": "The Points Guy"
     }
   ]
 }
