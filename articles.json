@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-18T03:36:49Z",
+  "updatedAt": "2026-09-18T10:42:30Z",
   "articles": [
+    {
+      "id": "3813089ac6ebcac0",
+      "title": "Hilton\u2019s New Fall Promo Delivers Just $4 Per Stay\u2014While A Week At A Resort Gets You At Most $12",
+      "summary": "Hilton\u2019s October 15\u2013December 31 promotion offers 1,000 bonus points per stay, or 3,000 at selected hotels.",
+      "url": "https://viewfromthewing.com/hiltons-new-fall-promo-delivers-just-4-per-stay-while-a-week-at-a-resort-gets-you-at-most-12/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2021/07/main-pool-2.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-18T10:04:28Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "1a2b14a5968672de",
+      "title": "Hilton Honors Fall 2026 \u201cMore Points To Play\u201d Promo (Register Now, But Don\u2019t Get Excited!)",
+      "summary": "Hilton Honors has opened registration for its third 2026 promotion, \"More Points to Play,\" offering 1,000 to 3,000 bonus points per stay th\u2026",
+      "url": "https://onemileatatime.com/deals/hilton-honors-promotion/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/11/Waldorf-Astoria-Amsterdam-26.jpeg?width=1200&quality=75&height=917&aspect_ratio=1200%3A917",
+      "category": "Deals",
+      "publishedAt": "2026-09-18T04:59:10Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "d77dc9f777929fce",
+      "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+      "summary": "Gemini is offering a bonus of 50% when you use Gemini prediction markets through September 15 at 1:59 AM ET",
+      "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-18T03:40:10Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "11b230dad2c2c7fb",
       "title": "Kroger: Earn 4X points on select 3rd-party gift cards",
@@ -210,6 +240,16 @@
       "category": "Tips",
       "publishedAt": "2026-09-17T16:00:02Z",
       "source": "The Points Guy"
+    },
+    {
+      "id": "899972768de63789",
+      "title": "American Express Opens Centurion Lounge in Amsterdam \u2014 Here\u2019s Our First Look Inside",
+      "summary": "The newest Amex Centurion Lounge is now open at Schiphol Airport in Amsterdam.",
+      "url": "https://awardwallet.com/travel/amex-membership-rewards/centurion-lounge-amsterdam/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-09-17T15:53:04Z",
+      "source": "AwardWallet"
     },
     {
       "id": "14a4201f435cf425",
@@ -459,46 +499,6 @@
       "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2019/12/GettyImages-1132979435.jpg",
       "category": "Tips",
       "publishedAt": "2026-09-16T18:00:55Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "4c3e7d56a4861faf",
-      "title": "You Can Now Invest Your Chase Ultimate Rewards Points \u2014 But Should You?",
-      "summary": "Chase just announced a new \"Invest Your Points\" feature available to cardholders of Chase Ultimate Rewards-earning credit cards.",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/invest-chase-points/?pubDate=2026-09-16",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-16T18:00:40Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "5f96f72a6037f830",
-      "title": "You Can Now Invest Your Chase Ultimate Rewards Points \u2014 But Should You?",
-      "summary": "Chase just announced a new \"Invest Your Points\" feature available to cardholders of Chase Ultimate Rewards-earning credit cards.",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/invest-chase-points/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-16T18:00:40Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "57cf735be3e25632",
-      "title": "Rove doubling referral bonus to 1K miles through 9/18 for both sides",
-      "summary": "Rove ordinarily offers bonuses of 500 miles to both sides when referring new members to their transferable points program.",
-      "url": "https://frequentmiler.com/rove-doubling-referral-bonus-to-1k-miles-through-9-18-for-both-sides/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Rove-Miles-logo.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-16T17:45:58Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "cecee2f639a1e96d",
-      "title": "Wyndham Rewards guide: How to earn and redeem points, elite status and more",
-      "summary": "Learn how Wyndham Rewards works, including how to earn and redeem points, qualify for elite status, transfer rewards and book award stays.",
-      "url": "https://thepointsguy.com/loyalty-programs/ultimate-guide-wyndham-rewards/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/08/20240821_Best-All-Inclusive-Resorts-in-Bahamas_Viva-Wyndham-Fortuna-Beach_Facebook.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-16T17:00:39Z",
       "source": "The Points Guy"
     }
   ]
