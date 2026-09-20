@@ -1,13 +1,73 @@
 {
-  "updatedAt": "2026-09-19T20:09:28Z",
+  "updatedAt": "2026-09-20T03:49:44Z",
   "articles": [
+    {
+      "id": "696bc913028c8ea6",
+      "title": "Chase Offers/WF/USB: Get Up To 5% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
+      "summary": "Check your Chase Offers to see if you were targeted for 5% back on Kroger store purchases, up to $4.50",
+      "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-20T02:35:57Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "3ce580e599ea326e",
+      "title": "Last Chance Deals: IHG award sale, Delta Amex Offer, Southwest 2X promo, & more",
+      "summary": "Welcome to our weekly list of what\u2019s ending this week, along with a collection of other deals due to end soon.",
+      "url": "https://frequentmiler.com/last-chance-deals/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/05/Last-Chance-Deals.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-20T01:45:59Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0d6fb282ad90e1c7",
+      "title": "Top Ways to Redeem Capital One Venture Miles for Travel Within the U.S., to the Caribbean, and More",
+      "summary": "The Capital One Venture is offering new cardholders the chance to earn 75,000 bonus miles.",
+      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/use-capital-one-miles-domestic-flights/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-19T23:49:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "b9a868a2091d8034",
+      "title": "JetBlue Status Match: Get Three Months of Mosaic Status, Challenge To Extend Through 2027",
+      "summary": "Feeling blue about your airline elite status?",
+      "url": "https://awardwallet.com/airlines/jetblue-trueblue/jetblue-status-match/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-19T21:12:50Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "f96f5ee7b3309c8e",
+      "title": "[YMMV] American Express Delta Offers \u2013 Up To 90,000 Miles + $300",
+      "summary": "Update 9/19/26: New links showing Gold 80k + $250 after $3,000 in spend within six months Plat 90k + $300 after $4,000 in spend within six\u2026",
+      "url": "https://www.doctorofcredit.com/ymmv-american-express-delta-offers-up-to-75000-miles-200-statement-credit-no-lifetime-language/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-19T20:21:09Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "ae207aa49b9ca261",
+      "title": "[New Design Now Showing][Rumor] Chase To Refresh Freedom Flex Later This Month",
+      "summary": "Update 9/19/26: Refresh is supposed to go live tomorrow and people are already seeing a new card design live in app.",
+      "url": "https://www.doctorofcredit.com/rumor-chase-to-refresh-freedom-flex-later-this-month/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-09-19T20:18:25Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "23e3404ac78cacc0",
       "title": "Is It Better to Earn AAdvantage\u00ae Miles or Cash From Your Savings?",
       "summary": "Bask just launched an offer to earn 20,000 AAdvantage\u00ae bonus miles when you open a new Bask Mileage Savings Account.",
       "url": "https://awardwallet.com/airlines/american-aadvantage/earn-miles-or-interest-with-savings-account/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-19T18:10:02Z",
       "source": "AwardWallet"
     },
@@ -262,16 +322,6 @@
       "source": "AwardWallet"
     },
     {
-      "id": "b2337b83368d33da",
-      "title": "Citi Strata Elite Looks Premium \u2014 But The Real Value Is American Airlines Miles And $1200 First Year Credits",
-      "summary": "Citi Strata Elite arrives in a surprisingly premium package, but the real value is what the card earns.",
-      "url": "https://viewfromthewing.com/citi-strata-elite-looks-premium-but-the-real-value-is-american-airlines-miles-and-1200-first-year-credits/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/08/20250825_180913.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-18T18:04:29Z",
-      "source": "View from the Wing"
-    },
-    {
       "id": "a1261c1ff85dbe2d",
       "title": "Southwest Airlines: Earn 2x Rapid Rewards points on flights booked this weekend",
       "summary": "Southwest has launched a new promotion that is offering double Rapid Rewards points on all flights booked by September 21st, 2026, and comp\u2026",
@@ -342,16 +392,6 @@
       "source": "The Points Guy"
     },
     {
-      "id": "819f75502a351457",
-      "title": "Status Match to Turkish Airlines Miles&Smiles, Get Star Alliance Gold Perks",
-      "summary": "Turkish Airlines elite status and Star Alliance Gold perks are only a status match away.",
-      "url": "https://awardwallet.com/news/airlines/turkish-airlines-status-match/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-18T14:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "43adde18dd2a7c13",
       "title": "The ultimate guide to Delta One Suites",
       "summary": "Everything you'd ever want to know about the Delta One business-class suites, from routes to seat details to how to book award flights.",
@@ -380,16 +420,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-18T13:00:10Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "c4ac78dacd78f23c",
-      "title": "Travel-Related Chase Offers: Up to $100 Back on Air Canada, Hyatt, Viator, Airalo, Turo, And More",
-      "summary": "Chase is currently offering a slew of travel-related Chase Offers \u2014 offering potentially hundreds of dollars back on lodging, flights, and\u2026",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/chase-offers/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-18T12:10:02Z",
-      "source": "AwardWallet"
     },
     {
       "id": "3813089ac6ebcac0",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-17T20:45:59Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "e05d002bdab0083d",
-      "title": "Wyndham Rewards Earner\u00ae Card Review: Modest Perks With No Annual Fee",
-      "summary": "The Wyndham Rewards Earner\u00ae Plus Card can be a great option to score tons of Wyndham Rewards points \u2014 along with a 10% discount on award st\u2026",
-      "url": "https://awardwallet.com/credit-cards/wyndham-rewards/wyndham-earner-card/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-17T20:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "281bab8a91a4705d",
-      "title": "(Earning cap removed!) Capital One Shopping offering $80 referral bonus for both sides",
-      "summary": "Capital One Shopping continues to offer a terrific referral bonus when getting someone to sign up for the shopping portal for the first tim\u2026",
-      "url": "https://frequentmiler.com/capital-one-shopping-offering-80-referral-bonus-for-both-sides/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/12/Capital-One-Shopping-80-referral-bonus.png",
-      "category": "Deals",
-      "publishedAt": "2026-09-17T19:45:00Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "98a10cf2b7efce6f",
-      "title": "Merrill Edge Brokerage: Up To $1,000 Signup Bonus When Transferring Investments",
-      "summary": "There's a new offer at this link for up to $750 with code 750ME.",
-      "url": "https://www.doctorofcredit.com/merrill-edge-brokerage-up-to-1000-cash-bonus-for-moving-over-your-investments/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-17T19:15:22Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
