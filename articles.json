@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-21T21:45:52Z",
+  "updatedAt": "2026-09-22T03:43:24Z",
   "articles": [
+    {
+      "id": "3f9c36e83b6ead57",
+      "title": "Capital One Venture vs. Venture X: Which Card Is Right for You?",
+      "summary": "Trying to decide between the welcome offers on the Capital One Venture Rewards Credit Card and the Capital One Venture X Rewards Credit Car\u2026",
+      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/capital-one-venture-x-vs-venture-card/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-21T23:49:17Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "c951b136bb40cbec",
       "title": "Chase Refreshes Freedom Flex \u2013 Launches With $250 Bonus [No FTF, Cell Phone Insurance Removed & Points Boost]",
@@ -177,7 +187,7 @@
       "summary": "The Marriott-Starbucks reciprocal rewards partnership offers an easy way to earn a little extra.",
       "url": "https://awardwallet.com/news/hotels/marriott-starbucks-partnership/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-21T13:10:02Z",
       "source": "AwardWallet"
     },
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-19T18:04:01Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "5d99bdb4a842ade7",
-      "title": "[Targeted] Chase/Wells Fargo Offers: AT&T Wireless, Spend $100 & Get $75 Back",
-      "summary": "Earn $75 cash back when you make a new, qualifying wireless payment of at least $100 with AT&T Wireless",
-      "url": "https://www.doctorofcredit.com/targeted-chase-offers-att-wireless-spend-100-get-75-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-19T18:00:36Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
