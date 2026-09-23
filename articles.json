@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-09-23T03:42:31Z",
+  "updatedAt": "2026-09-23T10:56:09Z",
   "articles": [
+    {
+      "id": "7c448f33bea5015b",
+      "title": "Capital One is back, AA Globe is gone (new shutdown updates)",
+      "summary": "In my ongoing credit-card shutdown saga\u2026 Citi canceled the last shred of our relationship, but Capital One appears ready to make amends.",
+      "url": "https://frequentmiler.com/capital-one-is-back-aa-globe-is-gone-new-shutdown-updates/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Shutdown-Update-Sep-2026.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-23T10:45:37Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "a8c404d97986ad78",
       "title": "Europe for 88(!) miles and business class lounge access you might have for 1 more week (Nick Wild Card journal)",
       "summary": "I am writing this post from the Lufthansa Business Class lounge at Boston Logan airport, where I am about to board a flight to Europe (incl\u2026",
       "url": "https://frequentmiler.com/europe-for-88-miles-and-business-class-lounge-access-you-might-have-for-1-more-week-nicks-wildcard-journal/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Lufthansa-business-class-lounge-BOS.jpg",
-      "category": "Deals",
+      "category": "News",
       "publishedAt": "2026-09-23T00:45:23Z",
       "source": "Frequent Miler"
     },
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-21T01:45:33Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "349c287e8a40f06b",
-      "title": "Uh Oh: Citi Strata Cards Get New Bonus Eligibility Rules (Lifetime Replaces 48 Months)",
-      "summary": "Citi has quietly rewritten Strata card bonus terms, swapping the old 48-month rule for a stricter once-per-lifetime eligibility policy.",
-      "url": "https://onemileatatime.com/news/citi-strata-card-new-bonus-eligibility-rules/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/EVA-Air-Business-Class-787-6.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Card Updates",
-      "publishedAt": "2026-09-20T23:23:47Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
