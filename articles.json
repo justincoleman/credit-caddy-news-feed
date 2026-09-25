@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-25T03:50:46Z",
+  "updatedAt": "2026-09-25T11:20:18Z",
   "articles": [
+    {
+      "id": "841177adc8cb9b97",
+      "title": "Citi Strata Elite Card Review: Are The Premium Perks Worth The Fee?",
+      "summary": "A deep dive into the Citi Strata Elite Card's welcome bonus, earning rates, lounge access, and annual credits, to see if the $595 fee pays\u2026",
+      "url": "https://onemileatatime.com/reviews/credit-cards/citi/citi-strata-elite-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Etihad-First-Class-A380-117.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-09-25T11:15:14Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "a995746b3b38207a",
+      "title": "Downgrade paths: How to keep your card but break up with your annual fee or find a better fit",
+      "summary": "Sick of paying the annual fee on your credit card?",
+      "url": "https://frequentmiler.com/downgrade-paths-how-to-keep-your-card-but-break-up-with-your-annual-fee-or-find-a-better-fit/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2018/03/Credit-cards-3.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-25T10:45:01Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "ca113df52ef96f8f",
+      "title": "[Approval Delayed] Chase To Open Sapphire Lounge In Seattle-Tacoma International Airport (SEA)",
+      "summary": "As first reported by VFTW Chase will open a Sapphire Lounge in Seattle-Tacoma International Airport (SEA).",
+      "url": "https://www.doctorofcredit.com/chase-to-open-sapphire-lounge-in-seattle-tacoma-international-airport-sea/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-09-25T10:00:33Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "2ce55019ddf3cba4",
+      "title": "Support Hawaii Hurricane Relief and Earn 10X American Airlines Miles on Red Cross Donations",
+      "summary": "The state of Hawaii is under its unprecedented third hurricane warning of the year, having already dealt with the effects of Hurricanes Lal\u2026",
+      "url": "https://awardwallet.com/news/american-aadvantage/red-cross-donations/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-25T10:00:06Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "6bf029a6d100d6c2",
       "title": "(Update)[Targeted] AmEx Offers: ADT, Spend $250+ & Receive $250 Statement Credit",
@@ -460,46 +500,6 @@
       "category": "News",
       "publishedAt": "2026-09-23T14:24:39Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "ce607e6d7ecacd0c",
-      "title": "Enter now to win 1 million Chase Ultimate Rewards points and make kids' wishes come true",
-      "summary": "Support Make-A-Wish for a chance to win the trip of a lifetime and other exclusive prizes.",
-      "url": "https://thepointsguy.com/news/make-a-wish-chase-sweepstakes/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/09/20230412_Best-Flight-Ever_WSmith-88.png",
-      "category": "Tips",
-      "publishedAt": "2026-09-23T14:15:24Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "b45ca0ee7af77640",
-      "title": "How to turn your business's expenses into next year's hotel stays",
-      "summary": "Your business requires spending, so let that spending work overtime for you by earning hotel stays with the World of Hyatt Business Credit\u2026",
-      "url": "https://thepointsguy.com/credit-cards/how-to-turn-your-businesss-expenses-into-next-years-hotel-stays/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/20260803_Best-New-Boutique-Hotels-29.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-23T14:00:20Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "7b49fda5845f77a7",
-      "title": "[Targeted] AmEx Offers: Airbnb Experiences/Services, Spend $80+ & Receive $40 Statement Credit",
-      "summary": "Get a one-time $40 statement credit by using your enrolled eligible Card to spend a minimum of $80 in one or more qualifying purchases for\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offers-airbnb-experiences-services-spend-80-receive-40-statement-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-23T14:00:04Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "4475f0ea3bafa5f7",
-      "title": "Refreshed Chase Freedom Flex\u00ae card: Increased welcome offer, Points Boost, no foreign transaction fees, & more",
-      "summary": "Chase refreshed the Freedom Flex\u00ae card this week, increasing the welcome offer for a limited time, updating the card art, as well as adding\u2026",
-      "url": "https://frequentmiler.com/refreshed-chase-freedom-flex-card-increased-welcome-offer-points-boost-no-foreign-transaction-fees-more/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Chase-Freedom-Flex-credit-card-art.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-09-23T13:45:22Z",
-      "source": "Frequent Miler"
     }
   ]
 }
