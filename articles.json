@@ -1,13 +1,133 @@
 {
-  "updatedAt": "2026-09-25T16:44:25Z",
+  "updatedAt": "2026-09-25T21:11:36Z",
   "articles": [
+    {
+      "id": "0f2f88a99d47aa31",
+      "title": "Misleading New York Times Essay Blames Your Miles For Killing Spirit Airlines\u2014Author Wanted Miles Banned 34 Years Ago",
+      "summary": "Spirit borrowed heavily against its loyalty program, lost cost discipline, and posted a negative 30% operating margin months before the Ira\u2026",
+      "url": "https://viewfromthewing.com/misleading-new-york-times-essay-blames-your-miles-for-killing-spirit-airlines-author-wanted-them-banned-34-years-ago/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/11/20251121_092436.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-25T21:04:24Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "19d3841c8c094121",
+      "title": "How the new 15% Air Canada award discount for Aeroplan credit cardholders works",
+      "summary": "The Chase Air Canada Aeroplan card now takes at least 15% off eligible Air Canada awards.",
+      "url": "https://thepointsguy.com/credit-cards/chase-air-canada-aeroplan-card-award-discount/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/GettyImages-2234258532.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-09-25T20:00:30Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "b3abf429e5b99476",
+      "title": "Turkish Airlines Upgrade Awards Are Now up to 38% Pricier \u2014 Here\u2019s How To Save up to 25,000 Miles",
+      "summary": "Turkish Airlines recently amended its upgrade award chart, which is terrible news for travelers.",
+      "url": "https://awardwallet.com/news/airlines/turkish-airlines-upgrade-award-devaluation/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-25T20:00:21Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "17b7de3ecee596a6",
+      "title": "Current Amex Offers",
+      "summary": "This post is designed to show current Amex Offers.",
+      "url": "https://frequentmiler.com/current-amex-offers/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Amex-Offers-Tablet.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-25T19:45:24Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "c1ab4abba239c404",
+      "title": "Chase Southwest Business Card 80,000 Points Signup Bonus",
+      "summary": "Signup for the Southwest Premier Business card and earn 80,000 Rapid Rewards points after spending $3,000 within the first 3 months.",
+      "url": "https://www.doctorofcredit.com/chase-southwest-business-card-80000-points-signup-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-25T19:28:21Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "80a575107b464847",
+      "title": "Venmo Credit Card Changes 3% & 2% Rewards Categories; Adds Possible 4% Category",
+      "summary": "The Venmo credit card has no annual fee and no signup bonus.",
+      "url": "https://www.doctorofcredit.com/venmo-credit-card-changes-3-adds-possible-4-category/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-25T18:57:02Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "c1e729f95ee69272",
+      "title": "Limited Time: Capital One Venture Card Bonus Of 75K Miles + $300 Credit",
+      "summary": "The Capital One Venture Card is offering a limited time bonus of 75,000 miles plus a $300 travel credit for new cardmembers.",
+      "url": "https://onemileatatime.com/deals/capital-one-venture-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Qatar-AIrways-777-First-Class-3.jpeg?width=1200&quality=75&height=918&aspect_ratio=200%3A153",
+      "category": "Deals",
+      "publishedAt": "2026-09-25T18:54:13Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "f213d4925c600a91",
+      "title": "Citi Introduces Once-Per-Lifetime Language on Select Cards \u2014 What To Know",
+      "summary": "Citi has added new language to the terms and conditions for earning a welcome offer on select cards.",
+      "url": "https://awardwallet.com/credit-cards/citi-thankyou-rewards/once-per-lifetime-rule/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-25T18:16:04Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "11b230dad2c2c7fb",
+      "title": "Kroger: Earn 4X points on select 3rd-party gift cards & fixed-value Visa & Mastercard gift cards",
+      "summary": "Kroger is once again running a promotion that awards 4x fuel points on select third-party gift cards, whether you buy them online or in-sto\u2026",
+      "url": "https://frequentmiler.com/kroger-earn-4x-fuel-points-on-3rd-party-gift-cards-fixed-value-visa-mastercard-gift-cards/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2018/04/Kroger-Gift-Card-Rack.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-25T17:45:20Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "41d3bf5802e11f93",
+      "title": "Boeing 737 MAX 10 Certification Just Days Away, And It\u2019s A Big Deal For Airlines",
+      "summary": "Boeing's 737 MAX 10 could be certified within days, opening the door for airlines like Alaska, American, Delta, and United to fly the most\u2026",
+      "url": "https://onemileatatime.com/news/boeing-737-max-10-certification/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/07/Delta-737-MAX-Flying.jpg?width=1200&quality=75&height=675&aspect_ratio=16%3A9",
+      "category": "Deals",
+      "publishedAt": "2026-09-25T17:37:17Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "03a533b6a765862c",
+      "title": "Bilt Rent Day (October 2026): Up To 125% Bonus To Amtrak & Up To 200% Bonus To Hilton",
+      "summary": "Bilt rent day for October 2026 is up to 125% bonus to Amtrak and up to 200% bonus to Hilton, plus Hilton status.",
+      "url": "https://www.doctorofcredit.com/bilt-rent-day-october-2026-up-to-125-bonus-to-amtrak-up-to-200-bonus-to-hilton/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-25T16:51:22Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "f21b48bab473e154",
+      "title": "How to redeem Aeroplan points for maximum value",
+      "summary": "How to maximize Air Canada's loyalty program for award flights in the U.S., Canada and beyond.",
+      "url": "https://thepointsguy.com/loyalty-programs/how-to-maximize-aeroplan-miles/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/air-canada-lax.jpeg",
+      "category": "Tips",
+      "publishedAt": "2026-09-25T16:00:18Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "3613f65cc1373317",
       "title": "Best Western Promotions: Earn 2,000 Bonus Points and Double Points on Every Stay",
       "summary": "Best Western now has two ongoing promotions.",
       "url": "https://awardwallet.com/news/hotels/best-western-promotion/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-09-25T14:10:02Z",
       "source": "AwardWallet"
     },
@@ -380,126 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-24T11:46:03Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "04adcd9fc59c41c2",
-      "title": "Forget the lounge: check out the fastest & tallest coaster in France at Parc Ast\u00e9rix on your Paris layover (Nick\u2019s Wild Card Journal)",
-      "summary": "I had 7 hours to kill at Paris-Charles de Gaulle Airport today, between my arrival from the US and my departure for Guadeloupe.",
-      "url": "https://frequentmiler.com/forget-the-lounge-check-out-the-fastest-tallest-coaster-in-france-on-your-paris-layover-nicks-wild-card-journal/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Parc-Asterix-Zeuss-coaster.jpg",
-      "category": "News",
-      "publishedAt": "2026-09-24T00:49:20Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "2939cd6bd84dda2b",
-      "title": "New Kroger Credit Card Launches ($100 Bonus, Free Boost Membership, No Annual Fee)",
-      "summary": "The new Kroger credit card has now launched.",
-      "url": "https://www.doctorofcredit.com/new-kroger-credit-card-launches-100-bonus-free-boost-membership-no-annual-fee/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-09-24T00:26:26Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "34fbaf4fe4696c85",
-      "title": "How To Redeem Capital One Miles for Travel You\u2019ve Already Purchased",
-      "summary": "Found a great travel deal but short on miles?",
-      "url": "https://awardwallet.com/credit-cards/capital-one-rewards/redeem-venture-miles-travel-purchases/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-23T23:49:01Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "28fde844790504b4",
-      "title": "Bilt Adds Amtrak As 2:1 Transfer Partner",
-      "summary": "Bilt has added Amtrak as a transfer partner at a rate of 2:1.",
-      "url": "https://www.doctorofcredit.com/bilt-adds-amtrak-as-21-transfer-partner/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-09-23T23:45:43Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "35f06b56c8e5b2ea",
-      "title": "Amex And Chase Credit Card Discounts Are Easy To Miss\u2014CardPointers Loads Them For You, And It\u2019s Now 50% Off",
-      "summary": "You can have an offer for $50 back on a hotel stay sitting in your credit card account and still pay full price, because you didn\u2019t activat\u2026",
-      "url": "https://viewfromthewing.com/amex-and-chase-credit-card-discounts-are-easy-to-miss-cardpointers-loads-them-for-you-and-its-now-50-off/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/04/chase-sapphire-reserve-box.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-23T23:04:12Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "4d5602c713235fdb",
-      "title": "Citi adds valuable transfer partner: Japan Airlines | Coffee Break Ep123 | 9-23-26",
-      "summary": "Citi has added a valuable new transfer partner to their collection: Japan Airlines.",
-      "url": "https://frequentmiler.com/citi-adds-valuable-transfer-partner-japan-airlines-coffee-break-ep123-9-23-26/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Citi-adds-valuable-transfer-partner_-Japan-Airlines-2.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-09-23T22:45:30Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "3daaa393c1634bed",
-      "title": "Last Call: Buy Hilton Honors Points With up to a 100% Bonus (0.5\u00a2 Each)",
-      "summary": "Last call!",
-      "url": "https://awardwallet.com/hotels/hilton-honors/buy-hilton-points/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-23T22:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "f77ae00668c70d0c",
-      "title": "Emirates Chase Offer: Get 5% back on up to $2K spend",
-      "summary": "There\u2019s a new, targeted Chase Offer out for Emirates that offers up to $100 back as a statement credit.",
-      "url": "https://frequentmiler.com/emirates-chase-offer-get-5-back-on-up-to-2k-spend/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Emirates-Chase-Offer-5-back.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-23T21:45:15Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "9dc2e320c045d391",
-      "title": "Bilt Rewards Points: Best Ways To Redeem Them (And Which To Avoid)",
-      "summary": "Bilt Rewards points can be redeemed for airline and hotel transfers, a home down payment, or travel bookings.",
-      "url": "https://onemileatatime.com/guides/bilt-rewards-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/03/Alila-Jabal-Akhdar-92.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-09-23T21:06:33Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "0f2e793b431cc55d",
-      "title": "Best time to apply for Marriott cards based on offer history",
-      "summary": "Want to know if a Marriott card's current offer is its best?",
-      "url": "https://thepointsguy.com/credit-cards/marriott-cards-best-welcome-offers/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/03/W-Maldives-Premier-Overwater-One-Bedroom-Villa-Exterior.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-23T21:00:38Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "24ed9fc45123402d",
-      "title": "Capital One Venture X Business Review: Huge Perks, Great Value",
-      "summary": "A full breakdown of the Capital One Venture X Business card's welcome bonus, rewards, lounge perks, and whether the annual fee is worth pay\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/capital-one/capital-one-venture-x-business/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Cheval-Blanc-Maldives-Randheli-282.jpeg?width=1200&quality=75&height=849&aspect_ratio=400%3A283",
-      "category": "Deals",
-      "publishedAt": "2026-09-23T20:39:53Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "a97005d28fdd720f",
-      "title": "See Two Places for the Price of One: How To Add a Free Stopover Using Alaska Airlines Points",
-      "summary": "You book a flight for almost free using points, plus you get to add an additional stop in another city for free along the way.",
-      "url": "https://awardwallet.com/airlines/alaska-atmos-rewards/free-stopover/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-23T20:10:03Z",
-      "source": "AwardWallet"
     }
   ]
 }
