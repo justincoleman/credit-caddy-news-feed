@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-26T03:56:28Z",
+  "updatedAt": "2026-09-26T10:56:50Z",
   "articles": [
+    {
+      "id": "198854321246e87e",
+      "title": "Hilton Honors Surpass Card Review: Gold Status, Credits, & Free Nights",
+      "summary": "A full review of the Hilton Surpass Card, covering the welcome offer, Gold status, annual credits, and whether the fee is worth paying.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/hilton-honors-surpass-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/03/Conrad-Bora-Bora-131.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-09-26T10:49:12Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "7f66ff3f101abc13",
+      "title": "We check in with the Wild Card Challengers, Citi stirs things up with JAL, good news for baseball fans and more (A Week in Review)",
+      "summary": "On Tuesday, Greg, Nick, and Tim started their Wild Card journeys, flying literally all over the world to satisfy itineraries dictated by ra\u2026",
+      "url": "https://frequentmiler.com/we-check-in-with-the-wild-card-challengers-citi-stirs-things-up-with-jal-good-news-for-baseball-fans-and-more-a-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/week-in-review.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-26T10:45:22Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "693e8dd2ff6104ff",
       "title": "Wells Fargo Deals: Get 20% Cashback On Dining (Max $10 Cashback); Expires 9/24/26",
@@ -480,26 +500,6 @@
       "category": "News",
       "publishedAt": "2026-09-24T14:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "4e107b04ad947333",
-      "title": "Hilton Honors American Express Aspire Card review: A card for all Hilton fans",
-      "summary": "The Hilton Amex Aspire offers tons of benefits, from bonus points on Hilton stays to complimentary Diamond status.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/hilton-amex-aspire-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/07/Grand-Wailea-Hilton2-1.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-24T14:00:56Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "f5743ac92f933cf5",
-      "title": "Get $10 Starbucks gift cards free for every $150 Delta gift cards you buy",
-      "summary": "Delta is back with a new gift card deal, this time offering $10 Starbucks gift cards free for every $150 you spend on Delta gift cards.",
-      "url": "https://frequentmiler.com/get-10-starbucks-gift-cards-free-for-every-150-delta-gift-cards-you-buy/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Delta-Starbucks-gift-card-deal.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-24T13:45:42Z",
-      "source": "Frequent Miler"
     }
   ]
 }
