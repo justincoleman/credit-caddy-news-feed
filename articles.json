@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-29T04:40:45Z",
+  "updatedAt": "2026-09-29T12:17:21Z",
   "articles": [
+    {
+      "id": "1b68743b433bc6c2",
+      "title": "Budget Fastbreak Guide: Benefits, Budget Bucks, and How It Works",
+      "summary": "A unique loyalty program, the Budget FastBreak program has no status levels, and you don\u2019t even earn points toward redemptions.",
+      "url": "https://awardwallet.com/car-rental/budget-fastbreak/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-29T12:10:10Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "95c3513f4071ef25",
+      "title": "Wild Card Challenge Destination 2 Check-in | Special Feature Episode | 9-28-26",
+      "summary": "While Greg and Nick, along with Tim, are traveling for the ongoing Wild Card Challenge, our podcasts will feature each of 3 live check-ins\u2026",
+      "url": "https://frequentmiler.com/wild-card-challenge-destination-2-check-in-special-feature-episode-9-28-26/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Destination-2-check-in-for-the-Wild-Card-Challenge.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-09-29T03:45:20Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "dfa77afe23cb9dc9",
       "title": "Flying down under (Greg\u2019s Wild Card Journal)",
@@ -20,16 +40,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-28T23:51:40Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "95c3513f4071ef25",
-      "title": "Wild Card Challenge Destination 2 Check-in | Special Feature Episode | 9-28-26",
-      "summary": "While Greg and Nick, along with Tim, are traveling for the ongoing Wild Card Challenge, our podcasts will feature each of 3 live check-ins\u2026",
-      "url": "https://frequentmiler.com/wild-card-challenge-destination-2-check-in-special-feature-episode-9-28-26/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Destination-2-check-in-for-the-Wild-Card-Challenge.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-28T22:45:20Z",
-      "source": "Frequent Miler"
     },
     {
       "id": "d79dbc5ab91296a5",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-26T13:45:20Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "7b81b05ea42d298b",
-      "title": "Amex Marriott Bonvoy Brilliant Card Review: Platinum Status The Easy Way",
-      "summary": "The Marriott Bonvoy Brilliant Amex offers complimentary Platinum Elite status, a $300 dining credit, and an annual free night worth up to 8\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-brilliant-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/06/Domes-Zeen-Chania-Pool-Beach-2.jpeg?width=1200&quality=75&height=813&aspect_ratio=400%3A271",
-      "category": "Tips",
-      "publishedAt": "2026-09-26T13:35:08Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
