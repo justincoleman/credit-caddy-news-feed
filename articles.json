@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-28T22:59:30Z",
+  "updatedAt": "2026-09-29T04:40:45Z",
   "articles": [
+    {
+      "id": "dfa77afe23cb9dc9",
+      "title": "Flying down under (Greg\u2019s Wild Card Journal)",
+      "summary": "Since my last check-in, I flew from Fort Lauderdale, Florida, to Melbourne, Australia.",
+      "url": "https://frequentmiler.com/flying-down-under-gregs-wild-card-journal/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/United-Polaris-Business-Class-Greg-Wild-Card.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-29T03:15:35Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "71f26421cf65a5fb",
+      "title": "From Elite Perks to Travel Credits: All Hotel Benefits Offered by the Chase Sapphire Reserve\u00ae",
+      "summary": "The Chase Sapphire Reserve\u00ae offers several valuable hotel benefits.",
+      "url": "https://awardwallet.com/credit-cards/chase-sapphire-reserve-hotel-benefits/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-28T23:51:40Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "95c3513f4071ef25",
       "title": "Wild Card Challenge Destination 2 Check-in | Special Feature Episode | 9-28-26",
@@ -479,26 +499,6 @@
       "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/06/Domes-Zeen-Chania-Pool-Beach-2.jpeg?width=1200&quality=75&height=813&aspect_ratio=400%3A271",
       "category": "Tips",
       "publishedAt": "2026-09-26T13:35:08Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "84e889e313d4251e",
-      "title": "Weekly News Roundup: Bilt Adds Product Changes, American Launches Two New Partnerships, and More",
-      "summary": "I start every week thinking, \"It seems like it's going to be a quiet news week.\" And I'm always wrong.",
-      "url": "https://awardwallet.com/news/travel-news-roundup-september-26-2026/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-09-26T12:00:19Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "198854321246e87e",
-      "title": "Hilton Honors Surpass Card Review: Gold Status, Credits, & Free Nights",
-      "summary": "A full review of the Hilton Surpass Card, covering the welcome offer, Gold status, annual credits, and whether the fee is worth paying.",
-      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/hilton-honors-surpass-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/03/Conrad-Bora-Bora-131.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-09-26T10:49:12Z",
       "source": "One Mile at a Time"
     }
   ]
