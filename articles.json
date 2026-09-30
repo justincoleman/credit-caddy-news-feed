@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-30T04:25:12Z",
+  "updatedAt": "2026-09-30T12:03:08Z",
   "articles": [
+    {
+      "id": "b9f98e5f67288fbe",
+      "title": "Southwest Companion Pass Complete Guide 2026",
+      "summary": "The Southwest Companion pass has undoubtedly long been the most valuable companion ticket benefit of any airline program, and it continues\u2026",
+      "url": "https://frequentmiler.com/complete-guide-southwest-companion-pass/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/12/Southwest-Nick-and-Greg.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-30T10:45:32Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "eea5652161228345",
       "title": "A magical day in Melbourne (Greg\u2019s Wild Card Journal)",
@@ -19,6 +29,16 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-09-29T23:20:33Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "00e28c793c442712",
+      "title": "[Added In Error] Chase Adding Once Per Lifetime Language To Southwest Business Cards",
+      "summary": "It looks like Chase might be making it more difficult to get the sign up bonus on Southwest business cards more than once.",
+      "url": "https://www.doctorofcredit.com/chase-adding-once-per-lifetime-language-to-southwest-business-cards/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-29T23:05:41Z",
       "source": "Doctor of Credit"
     },
     {
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-28T16:00:01Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "b0de61833d4c4c19",
-      "title": "Office Depot/OfficeMax: Buy $300+ Mastercard Gift Cards, Save $15",
-      "summary": "Office Depot and OfficeMax stores have returned with their profitable gift card deal on Mastercard gift cards.",
-      "url": "https://frequentmiler.com/office-depot-officemax-buy-300-mastercard-gift-cards-save-15/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/03/Mastercard-gift-card.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-28T15:45:57Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "238c555d0d1bd0b2",
-      "title": "Hilton Honors Amex Business card review: Elite perks on a budget",
-      "summary": "Get Hilton Gold status, strong earning rates and valuable statement credits with the Hilton Honors Amex Business card.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/credit-card-review-hilton-honors-american-express-business-card/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/01/20220114_Baja-California_JBailey-11.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-28T15:00:49Z",
-      "source": "The Points Guy"
     }
   ]
 }
