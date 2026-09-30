@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-29T21:57:49Z",
+  "updatedAt": "2026-09-30T04:25:12Z",
   "articles": [
+    {
+      "id": "eea5652161228345",
+      "title": "A magical day in Melbourne (Greg\u2019s Wild Card Journal)",
+      "summary": "What a great day in Melbourne!",
+      "url": "https://frequentmiler.com/a-magical-day-in-melbourne-gregs-wild-card-journal/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Magical-Day-in-Melbourne.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-09-30T02:00:53Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "5a292a2beda8d6c6",
+      "title": "Deal Calendar (Full List Of Deals, Credit Card & Bank Bonuses + Their Expiry Dates)",
+      "summary": "It can be difficult to keep track of all the deals we post and I know a lot of readers get angry at themselves when they miss a deal.",
+      "url": "https://www.doctorofcredit.com/deal-calendar-full-list-deals-credit-card-bank-bonuses-expiry-dates/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-29T23:20:33Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d38563f23677669f",
+      "title": "Our Two Favorite Amex Card Combos to Maximize Your Membership Rewards Points Earnings",
+      "summary": "American Express Membership Rewards is one of the premier flexible rewards programs for points and miles fans.",
+      "url": "https://awardwallet.com/credit-cards/amex-membership-rewards/best-credit-card-combo/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-29T22:10:21Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "3e45564c628ab136",
       "title": "JetBlue Amex Offer: Get $40 back when spending $200+",
@@ -469,36 +499,6 @@
       "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/01/20220114_Baja-California_JBailey-11.jpg",
       "category": "Tips",
       "publishedAt": "2026-09-28T15:00:49Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "9886f85b9fbef511",
-      "title": "Chase Offers: Get 25% Back On Wonder (Food Delivery) Stack With 50% Off Promo Code",
-      "summary": "The Offer Check your Chase Offers for the following deal: Got 25% cashback at Wonder (food delivery app).",
-      "url": "https://www.doctorofcredit.com/chase-offers-get-25-back-on-wonder-food-delivery-stack-with-50-off-promo-code/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-28T15:00:39Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "00e28c793c442712",
-      "title": "Chase Adding Once Per Lifetime Language To Southwest Business Cards",
-      "summary": "It looks like Chase might be making it more difficult to get the sign up bonus on Southwest business cards more than once.",
-      "url": "https://www.doctorofcredit.com/chase-adding-once-per-lifetime-language-to-southwest-business-cards/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-09-28T14:00:41Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "1b9b11a3acbf84aa",
-      "title": "Alaska Airlines Atmos Rewards program: How to earn and redeem points, elite status and more",
-      "summary": "Learn how to earn and redeem points, qualify for elite status and more in the Alaska Airlines Atmos Rewards program.",
-      "url": "https://thepointsguy.com/airline/alaska-airlines-atmos-rewards/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/02/alaska-hawaiian.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-09-28T14:00:36Z",
       "source": "The Points Guy"
     }
   ]
