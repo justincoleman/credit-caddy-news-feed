@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-30T21:56:36Z",
+  "updatedAt": "2026-10-01T04:36:46Z",
   "articles": [
+    {
+      "id": "093fc8e9bf1f578e",
+      "title": "Decoding Marriott\u2019s Credit Card Rules: What You Need To Know Before Applying",
+      "summary": "American Express and Chase have complex application rules for the Marriott co-branded cards, making it harder for applicants to obtain welc\u2026",
+      "url": "https://awardwallet.com/credit-cards/marriott-bonvoy/marriott-card-application-rules/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-09-30T23:51:47Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "7eca61a98b5ecca1",
+      "title": "Giftcards.com: 10% Off Visa eGiftcards With Code OKTOBERFUN",
+      "summary": "Giftcards.com is offering 10% off Visa eGiftcards with promo code OKTOBERFUN (code doesn't show on landing page but still works).",
+      "url": "https://www.doctorofcredit.com/giftcards-com-10-off-visa-egiftcards-with-code-oktoberfun/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-30T23:31:45Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "2aec1976b61c4c8d",
+      "title": "Chase Sapphire Cardholders Get Early Access and More at EEEEEATSCON New York 2026",
+      "summary": "EEEEEATSCON New York 2026 is just a couple of days away on October 3-4, and Chase Sapphire cardholders can score early access and a $10 cas\u2026",
+      "url": "https://awardwallet.com/news/credit-cards/eeeeeatscon-chase-sapphire-benefits/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-09-30T22:21:29Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "b03a330adc66c8d6",
       "title": "[Targeted] Chase 75,000 Point Upgrade Offer (Chase Sapphire Preferred To Chase Sapphire Reserve)",
@@ -212,6 +242,16 @@
       "source": "Frequent Miler"
     },
     {
+      "id": "d77dc9f777929fce",
+      "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+      "summary": "Gemini is offering a bonus of 50% when you use Gemini prediction markets through September 15 at 1:59 AM ET",
+      "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-09-29T23:43:10Z",
+      "source": "Doctor of Credit"
+    },
+    {
       "id": "5a292a2beda8d6c6",
       "title": "Deal Calendar (Full List Of Deals, Credit Card & Bank Bonuses + Their Expiry Dates)",
       "summary": "It can be difficult to keep track of all the deals we post and I know a lot of readers get angry at themselves when they miss a deal.",
@@ -300,16 +340,6 @@
       "category": "Deals",
       "publishedAt": "2026-09-29T20:15:43Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "ea6e65550fdd84b4",
-      "title": "How a $95 Annual Fee Card Can Unlock an Annual Hotel Night Worth $1,000+",
-      "summary": "Stay at Marriott just once a year?",
-      "url": "https://awardwallet.com/credit-cards/marriott-bonvoy/boundless-free-night-award/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-29T20:00:24Z",
-      "source": "AwardWallet"
     },
     {
       "id": "0fa1b973f8adeeb2",
@@ -470,36 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-09-29T13:00:55Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "6c655d98a3d3edc1",
-      "title": "Alaska Airlines will get a new transfer partner,  teases debit card that earns points",
-      "summary": "Alaska Airlines and Hawaiian Airlines are gaining a new transfer partner for their Atmos Rewards program.",
-      "url": "https://thepointsguy.com/news/alaska-airlines-new-transfer-partner-debit-card-atmos-rewards/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/04/Alaska-tails.jpeg",
-      "category": "Card Updates",
-      "publishedAt": "2026-09-29T12:31:36Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "1b68743b433bc6c2",
-      "title": "Budget Fastbreak Guide: Benefits, Budget Bucks, and How It Works",
-      "summary": "A unique loyalty program, the Budget FastBreak program has no status levels, and you don\u2019t even earn points toward redemptions.",
-      "url": "https://awardwallet.com/car-rental/budget-fastbreak/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-09-29T12:10:10Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "95c3513f4071ef25",
-      "title": "Wild Card Challenge Destination 2 Check-in | Special Feature Episode | 9-28-26",
-      "summary": "While Greg and Nick, along with Tim, are traveling for the ongoing Wild Card Challenge, our podcasts will feature each of 3 live check-ins\u2026",
-      "url": "https://frequentmiler.com/wild-card-challenge-destination-2-check-in-special-feature-episode-9-28-26/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Destination-2-check-in-for-the-Wild-Card-Challenge.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-09-29T03:45:20Z",
-      "source": "Frequent Miler"
     }
   ]
 }
