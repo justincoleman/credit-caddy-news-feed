@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-03T04:11:39Z",
+  "updatedAt": "2026-10-03T11:13:41Z",
   "articles": [
+    {
+      "id": "818c3a6b380942e1",
+      "title": "Capital One Venture X Review: Why This $395 Fee Premium Card Is a No-Brainer",
+      "summary": "A deep dive into the Capital One Venture X's welcome bonus, rewards structure, lounge access, and perks that make its annual fee easy to ju\u2026",
+      "url": "https://onemileatatime.com/reviews/credit-cards/capital-one/capital-one-venture-x-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/11/Capital-One-Lounge-DFW-21.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-03T09:00:01Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "c640f1027fbd2656",
       "title": "(Update: 32 Added, 3 Removed) Maximizing The $300 Dining Credit With Chase Sapphire Reserve Exclusive Tables",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-01T22:00:21Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "c2e0f93b2462c7b5",
-      "title": "Amazon: Get 50% Off When Using Membership Rewards Points (Up To $80 In Discounts)(YMMV)",
-      "summary": "Offer refreshed today: Reposting again since it's now widely available and is working properly at checkout.",
-      "url": "https://www.doctorofcredit.com/amazon-get-20-40-off-on-amazon-when-using-1-membership-rewards-point-max-30-40-discount/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-01T21:15:32Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
