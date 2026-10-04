@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-04T04:43:18Z",
+  "updatedAt": "2026-10-04T11:53:59Z",
   "articles": [
+    {
+      "id": "82757a61c198398c",
+      "title": "IHG One Rewards Credit Card Review: No Annual Fee, But Maybe Worth Skipping",
+      "summary": "An in-depth look at the no annual fee IHG One Rewards Card, its 125K-point welcome bonus, rewards rates, and why premium IHG cards may be t\u2026",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/ihg-one-rewards-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/01/Kimpton-London-Lobby.jpeg?width=1200&quality=75&height=677&aspect_ratio=1200%3A677",
+      "category": "Deals",
+      "publishedAt": "2026-10-04T07:55:13Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "3ce580e599ea326e",
       "title": "Last Chance Deals: IHG points sale, United portal promo, Hotels.com gift card discount, & more",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-02T16:14:13Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "f57b55cd47b1d55a",
-      "title": "[Targeted] U.S. Bank Smartly Checking Deals: Get 10% Back On Gas & EV Charging",
-      "summary": "Earn 10% cash back up to $20 back at Gas Stations when you spend at least $10.",
-      "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-checking-deals-get-10-back-on-gas-ev-charging-2/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-02T16:00:32Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
