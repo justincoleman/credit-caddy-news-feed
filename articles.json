@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-10-04T16:34:01Z",
+  "updatedAt": "2026-10-04T20:57:04Z",
   "articles": [
+    {
+      "id": "c9b2869b348d1bb2",
+      "title": "$900 bonus with a new Chase checking and savings account",
+      "summary": "Chase has extended its excellent bonus for opening a new checking and savings account.",
+      "url": "https://frequentmiler.com/900-bonus-with-a-new-chase-checking-and-savings-account-september-25/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/01/Chase-Checking-Bonus.png",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-04T19:45:33Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "d34e3ded679ecb78",
+      "title": "[Targeted] AmEx Offers: Wyndham, Spend $100+ & Receive $20 Statement Credit",
+      "summary": "Get a one-time $40 statement credit by using your enrolled eligible Card to make one or more purchases totaling $200+ at Wyndham properties",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offers-wyndham-spend-200-receive-40-statement-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-04T19:43:03Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "5ae1ecf55108837b",
+      "title": "[Targeted] AmEx Offers: Radisson Hotels & Resorts (Europe & Africa), Spend $250+ & Receive $50 Statement Credit",
+      "summary": "Get a one-time $50 statement credit after using your enrolled eligible Card to spend a minimum of $250 USD in one or more qualifying purcha\u2026",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offers-radisson-hotels-resorts-europe-africa-spend-250-receive-50-statement-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-04T18:00:44Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "027c9ec19edd276d",
+      "title": "Earn bonus miles when spending on Chase Marriott credit cards (targeted)",
+      "summary": "Chase is rolling out a fresh round of targeted spending offers for Marriott cardholders that could add up to 2 bonus points everywhere.",
+      "url": "https://frequentmiler.com/earn-bonus-miles-when-spending-on-chase-marriott-credit-cards-targeted/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-213017.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-04T17:45:44Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "af90e470a20f6eb8",
+      "title": "Wyndham Amex Offer: Spend $100 & get $20 back (enrollment required)",
+      "summary": "A new Wyndham Amex Offer has popped up that has the potential to save you up to 20% on your next stay at a participating property in the US\u2026",
+      "url": "https://frequentmiler.com/wyndham-amex-offer-spend-100-get-20-back-enrollment-required/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/09/Wyndham-Amex-Offer.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-04T17:45:32Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "09da67e653d76331",
+      "title": "BankAmericard\u00ae Credit Card Review: A Long Intro APR Window With No Annual Fee",
+      "summary": "The BankAmericard\u00ae credit card offers cardholders a generous introductory period without interest for balance transfers and purchases.",
+      "url": "https://awardwallet.com/credit-cards/bank-of-america/bankamericard/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-10-04T17:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "3e7600c31cdb55b1",
+      "title": "[CA, In Branch Only] Frontwave Credit Union $350 Business Checking Bonus",
+      "summary": "Offer at a glance Maximum bonus amount: $350 Availability:Must Live, work or worship in either San Diego, Riverside or San Bernardino count\u2026",
+      "url": "https://www.doctorofcredit.com/ca-in-branch-only-frontwave-credit-union-350-business-checking-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-04T16:45:45Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "559472ec76b33703",
       "title": "Avis Preferred guide: How to earn and redeem points and get elite status",
@@ -362,16 +432,6 @@
       "source": "Frequent Miler"
     },
     {
-      "id": "7afd2754ddbff18c",
-      "title": "Point.me\u2019s New Tool Finds Award Flights, Transfers Your Points And Books For You [Roundup]",
-      "summary": "Point.me is offering banks a service that finds award flights, creates loyalty accounts, transfers points and completes bookings for their\u2026",
-      "url": "https://viewfromthewing.com/point-mes-new-tool-finds-award-flights-transfers-your-points-and-books-for-you-roundup/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/air-canada-business-class.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-02T23:04:46Z",
-      "source": "View from the Wing"
-    },
-    {
       "id": "8c49f84a7722a8ad",
       "title": "IHG\u2019s new card lineup: more premium, more coupons, milestones unlocked | Frequent Miler on the Air Ep377 | 10-2-26",
       "summary": "On today\u2019s episode, we\u2019ll talk about the interesting new business cards from US Bank, discuss how Choice now gives you the choice to share\u2026",
@@ -439,66 +499,6 @@
       "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/10/Exterior-of-Walmart-shopping-center-in-Carson-City-Nevada_Wirestock.jpg",
       "category": "Deals",
       "publishedAt": "2026-10-02T20:30:33Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "7fb550361f3399fd",
-      "title": "Get a 15% Bonus Aeroplan Points When You Transfer Marriott Bonvoy Points This Month",
-      "summary": "Air Canada Aeroplan just relaunched its annual promotion offering a 15% bonus when you transfer Marriott Bonvoy\u00ae points to Aeroplan through\u2026",
-      "url": "https://awardwallet.com/news/marriott-bonvoy/aeroplan-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-02T20:14:53Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "e8137bb1d6dbfbbe",
-      "title": "Best Credit Card Offers for October 2026",
-      "summary": "Which rewards credit card is right for you?",
-      "url": "https://frequentmiler.com/best-credit-card-offers/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/02/Best-Rewards-Credit-Card-Offers-scaled.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-02T19:45:47Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "e396ac223f180748",
-      "title": "Monthly checklist: Credit card perks and benefits you should be using in October",
-      "summary": "There are many monthly perks and credits you should be using on your credit cards in September 2026.",
-      "url": "https://thepointsguy.com/credit-cards/credit-cards-monthly-checklist/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/Man-using-credit-card-with-smart-phone-computer-notebook_-MixMedia.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-02T19:30:15Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "110d4338a08b90fc",
-      "title": "Get up to a 110% Bonus When Buying Alaska Airlines Atmos Rewards Points",
-      "summary": "Alaska Airlines is offering an up-to-110% bonus on Atmos Rewards points purchases through October 19, 2026.",
-      "url": "https://awardwallet.com/airlines/alaska-atmos-rewards/buy-alaska-miles/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-02T19:10:04Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "ea7c5a0d8380e511",
-      "title": "Chase $900 Checking + Savings Bonus",
-      "summary": "Targeted: Chase is offering a checking & savings bonus: $300 checking bonus, $200 savings bonus.",
-      "url": "https://www.doctorofcredit.com/targeted-chase-900-checking-savings-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-02T19:00:55Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "a8706e00f0360a6b",
-      "title": "New York City Hyatt showdown video: Is paying more worth it?",
-      "summary": "We compared three Hyatt hotels in New York City.",
-      "url": "https://thepointsguy.com/hotel/hyatt-brand-comparison-nyc-video/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/20250707_Park-Hyatt-New-York_SHull-46.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-02T19:00:13Z",
       "source": "The Points Guy"
     }
   ]
