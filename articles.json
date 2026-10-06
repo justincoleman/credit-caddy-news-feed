@@ -1,6 +1,256 @@
 {
-  "updatedAt": "2026-10-06T12:54:08Z",
+  "updatedAt": "2026-10-06T22:25:22Z",
   "articles": [
+    {
+      "id": "e5b08884bf4dabc8",
+      "title": "IHG Elite Fast Track Offers: Stay 10 Nights for Diamond or Earn 2X Qualifying Nights",
+      "summary": "IHG One Rewards has launched a new round of targeted elite fast track offers for select members to earn Diamond Elite status after staying\u2026",
+      "url": "https://awardwallet.com/news/ihg-one-rewards/ihg-elite-fast-track/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T22:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "7bf0a0062cf06cb3",
+      "title": "Expedia Revamps Rewards\u2014Free Lounges After 90-Minute Delays, CLEAR Discounts And Halved Hotel Rebates For Most Members",
+      "summary": "One Key Platinum members enrolling in CLEAR+ for the first time can pay $129, leaving room in Amex\u2019s $219 credit to offset most of a spouse\u2026",
+      "url": "https://viewfromthewing.com/expedia-revamps-rewards-free-lounges-after-90-minute-delays-clear-discounts-and-halved-hotel-rebates-for-most-members/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/10/expedia-dancers.jpg",
+      "category": "News",
+      "publishedAt": "2026-10-06T21:48:21Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "a032aad8dc781afb",
+      "title": "SimplyMiles: Spend $150+ with Turo & get 1,160 AAdvantage miles + 1,160 Loyalty Points",
+      "summary": "SimplyMiles is offering both 1,160 American Airlines AAdvantage miles and Loyalty Points when spending $150 or more with a linked Mastercar\u2026",
+      "url": "https://frequentmiler.com/simplymiles-spend-150-with-turo-get-1160-aadvantage-miles-loyalty-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2023/12/SimplyMiles-Turo-offer.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T21:45:09Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "1093d5ca311b4c66",
+      "title": "Best Western promo: Earn 2K bonus points per stay, stack with 2X promo",
+      "summary": "Best Western is running a promotion through October 28 that\u2019s offering 2,000 bonus points per stay.",
+      "url": "https://frequentmiler.com/best-western-promo-earn-2k-bonus-points-per-stay-stack-with-2x-promo/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/04/Best-Western-Premier.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T20:45:07Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "99291b33f83b544a",
+      "title": "Refreshed IHG One Rewards Premier Business Credit Card: Free Night, Platinum Elite, Elite Status Boost, and More",
+      "summary": "From mid-tier elite status to a free night each cardholder anniversary and fourth night free on award stays, the IHG One Rewards Business C\u2026",
+      "url": "https://awardwallet.com/credit-cards/ihg-one-rewards/ihg-business-credit-card/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-06T20:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "eaa4da85fef411ce",
+      "title": "Targeted IHG promo: Earn double elite night credits (limit 10 bonus elite nights)",
+      "summary": "IHG One Rewards is targeting some members with a promotion offering double elite night credits through the end of the year, with a limit of\u2026",
+      "url": "https://frequentmiler.com/targeted-ihg-promo-earn-double-elite-night-credits-limit-10-bonus-elite-nights/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/06/IHG-One-Rewards-promo-Up-to-10-bonus-elite-night-credits.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T19:45:46Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "6db5da55a35c7e11",
+      "title": "Capital One Shopping: 30%-50% Back On Columbia Sportswear",
+      "summary": "Capital One Shopping has an offer for 30% or 50% back at Columbia sportswear clothing retailer.",
+      "url": "https://www.doctorofcredit.com/capital-one-shopping-30-50-back-on-columbia-sportswear/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T18:50:15Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "f2d7a2d768353cab",
+      "title": "[Targeted] Chase Travel: Spend $600+ & Receive $100 Back",
+      "summary": "Earn $100 cash back on your Chase Travel purchase when you spend $600 or more, including taxes and after any discounts.",
+      "url": "https://www.doctorofcredit.com/targeted-chase-travel-spend-500-receive-100-back/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T18:47:10Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "1eeefedea497ff28",
+      "title": "Fly to/from Sydney, Australia for only 25K American Airlines miles this month",
+      "summary": "If our recent Wild Card challenge has whetted your appetite for flying Down Under, American Airlines is giving AAdvantage members an opport\u2026",
+      "url": "https://frequentmiler.com/fly-to-from-sydney-australia-for-only-25k-american-airlines-miles-this-month/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/American-Airlines-25K-miles-to-Sydney.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T18:45:28Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "a9780189dce5b1ea",
+      "title": "United Airlines Status Match: Limited-Time Offer for SkyMiles and AAdvantage Members",
+      "summary": "Through October 15, SkyMiles and AAdvantage members can status match to MileagePlus elite status with reduced requirements.",
+      "url": "https://awardwallet.com/news/united-mileageplus/united-status-match/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T18:25:40Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "7c1dc2515419fa59",
+      "title": "Southwest: Get 1,000-10,500 Free Points With Quiz + Screenshot Upload (10/5-10/12)",
+      "summary": "Southwest is running a promotion: Get 500 points for taking a quiz.",
+      "url": "https://www.doctorofcredit.com/southwest-get-1000-10500-free-points-with-quiz-screenshot-upload-10-5-10-12/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T18:20:23Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "5d07234c595e0980",
+      "title": "IHG One Rewards Credit Card review: A no-annual-fee option for IHG travelers",
+      "summary": "The IHG One Rewards Credit Card has no annual fee and offers IHG perks.",
+      "url": "https://thepointsguy.com/credit-cards/reviews/ihg-one-rewards-credit-card-review/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/09/20220926_INTERCONTINENTAL-PHUKET_KGENTER_91.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-06T18:00:07Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "94dc8a1f57f80c30",
+      "title": "Save 15% on IHG award stays at new hotels",
+      "summary": "For the last few years, IHG has been offering a 15% discount on award stays at new and recently refreshed properties, with different hotels\u2026",
+      "url": "https://frequentmiler.com/15-percent-off-ihg-new-hotels/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/01/IHG-15-off-new-hotels-award-stays.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-06T17:45:07Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "f9b4f141c5fad91f",
+      "title": "How to earn Wyndham Rewards points",
+      "summary": "Learn how to earn Wyndham Rewards points through hotel stays, credit cards, transfers, dining, rental cars and other partners.",
+      "url": "https://thepointsguy.com/loyalty-programs/earn-wyndham-points/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/06/2022615_Wyndham-Viva-Azteca_entry-2_48.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-06T17:00:40Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "0c41110bdb581fa5",
+      "title": "Marriott Business card Amex Offer: Spend $3K & earn 5K bonus points",
+      "summary": "In addition to the Amex Offer on targeted Marriott personal cards that\u2019s offering +4 bonus points at US supermarkets, Marriott Bonvoy Busin\u2026",
+      "url": "https://frequentmiler.com/marriott-business-card-amex-offer-spend-3k-earn-5k-bonus-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Credit-card-spend-in-store-shopping.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T16:45:53Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "12fdb57964526492",
+      "title": "How To Use Bilt Cash For A Free Blade Helicopter Ride From Manhattan To JFK",
+      "summary": "How to redeem Bilt Cash for Blade's 5-minute helicopter transfer between Manhattan and JFK, turning a cash-only splurge into a zero-dollar\u2026",
+      "url": "https://onemileatatime.com/community-stories/use-bilt-cash-free-blade-helicopter-ride-manhattan-jfk/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/10/1-Blade-407-Bell-Helicopter-at-JFK.jpg?width=1711&quality=75&height=1132&aspect_ratio=1711%3A1132",
+      "category": "Tips",
+      "publishedAt": "2026-10-06T16:36:24Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "607cf14f7b9c32e1",
+      "title": "9 Things We Love About Hilton Honors: Points Pooling, Free Breakfast, Fifth Night Free, and More",
+      "summary": "From the best mid-tier hotel status to a fifth night free on awards and an excellent policy on sharing your points with others, there's a l\u2026",
+      "url": "https://awardwallet.com/hotels/hilton-honors/hilton-benefits-we-love/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-10-06T16:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d6479018cd699194",
+      "title": "Citi AAdvantage Executive Card Offers Record Welcome Bonus Of 125K Miles",
+      "summary": "The Citi AAdvantage Executive Card is offering a limited-time bonus of 125,000 AAdvantage miles after spending $15,000 in five months.",
+      "url": "https://onemileatatime.com/deals/citi-aadvantage-executive-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/05/American-777-Maui.jpeg?width=1200&quality=75&height=859&aspect_ratio=1200%3A859",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T16:01:59Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "9c8fdc3012d159dd",
+      "title": "Chase Travel\u2120 Chase Offer: Spend $600 & get $100 back (targeted)",
+      "summary": "Another Chase offer gives you a $100 statement credit when you book $600+ through Chase Travel\u2120.",
+      "url": "https://frequentmiler.com/chase-travel%e2%84%a0-chase-offer-spend-600-get-100-back-targeted/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/04/Chase-Travel.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T15:46:02Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0ef6a2419d09e57d",
+      "title": "Get +4 Marriott points at US supermarkets with targeted Amex Offer (max 5K bonus points)",
+      "summary": "If you have a Marriott credit card, check your Amex Offers as there\u2019s a targeted offer giving +4 Marriott Bonvoy points for every dollar sp\u2026",
+      "url": "https://frequentmiler.com/get-4-marriott-points-at-us-supermarkets-with-targeted-amex-offer-max-5k-bonus-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/07/supermarket.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T14:45:16Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "82b6a98615ce65ef",
+      "title": "Rakuten: $150 Bonus For Citi Strata Premier Signup",
+      "summary": "Rakuten is offering $100 bonus when you sign up for the Citi Strata Premier card.",
+      "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-06T14:35:30Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "f240906fde0eff83",
+      "title": "Are you eligible for the Capital One Venture Rewards\u2019 welcome bonus?",
+      "summary": "If it's time to apply for the Capital One Venture Rewards, you\u2019ll want to review the eligibility criteria first to ensure you have a chance\u2026",
+      "url": "https://thepointsguy.com/credit-cards/eligible-capital-one-venture-rewards-bonus/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/08/woman-using-smartphone-and-holding-credir-card-at-restaurant_-d3sign.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T14:30:06Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "d04c318a6c5ae151",
+      "title": "New Best-Ever Offer on the No-Annual-Fee United Gateway Card",
+      "summary": "The easiest way to earn a big sum of United MileagePlus miles without paying an annual fee is by applying for the United Gateway\u2120 Card.",
+      "url": "https://awardwallet.com/credit-cards/united-mileageplus/united-gateway-card-offer/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-06T14:10:03Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "6c9cf621512f7b94",
+      "title": "Best Western & SureStay Amex Offer: Spend $250 & get $50 back",
+      "summary": "There\u2019s a new Amex Offer out that could come in handy if you have any upcoming Best Western or SureStay stays planned as it\u2019s giving $50 ba\u2026",
+      "url": "https://frequentmiler.com/best-western-amex-offer-spend-250-get-50-back/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/04/Best-Western-Premier.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T13:46:10Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0cac57e212f04cd3",
+      "title": "Fun, sun and killer views: How to spend 72 hours in Palm Springs",
+      "summary": "A quick Palm Springs vacation: Here\u2019s how to get there using points and miles, the best hotels to book with points, plus top things to do a\u2026",
+      "url": "https://thepointsguy.com/travel/visit-palm-springs/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/20260903_PalmSprings_CHenderson-189.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-06T13:30:04Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "179b393532a67858",
       "title": "Flying Blue Promo Rewards for October 2026: 25% off awards to Europe, China, Kenya, & Mauritius",
@@ -80,16 +330,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-06T00:45:47Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "3e04ee25b836cc5d",
-      "title": "What Triggers The IHG Airlines Credits?",
-      "summary": "A number of Chase IHG cards now come with varying airline credits.",
-      "url": "https://www.doctorofcredit.com/what-triggers-the-ihg-airlines-credits/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-06T00:04:09Z",
-      "source": "Doctor of Credit"
     },
     {
       "id": "c54b6cdf7bab27f6",
@@ -260,246 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-05T19:00:26Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "10a9ad16abf44f6c",
-      "title": "Rakuten\u2019s Big Stack: Many merchants with boosted rewards",
-      "summary": "Rakuten is running a \u201cBig Stack\u201d event, with many popular merchants featuring boosted rates of 15x / 15% back and even some credit cards an\u2026",
-      "url": "https://frequentmiler.com/rakutens-big-stack-many-merchants-with-boosted-rewards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Rakuten-Big-Stack-event-Oct-2026.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T18:45:45Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "7c8be752b33420b7",
-      "title": "Capital One Shopping: Expedia Bookings \u2013 Get 25% Back On Hotel Bookings & 17.5% On Car Rentals",
-      "summary": "Capital One Shopping is offering 25% back on hotel bookings via Expedia and 17.5% on car rental bookings.",
-      "url": "https://www.doctorofcredit.com/capital-one-shopping-expedia-bookings-get-25-back-on-hotel-bookings-17-5-on-car-rentals/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-05T18:39:00Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "eba37c8d41e61d73",
-      "title": "Check your offer: Save up to 50% on Amazon purchases using just 429 Amex points",
-      "summary": "Turn American Express Membership Rewards points into big savings on Amazon thanks to this offer available to some shoppers.",
-      "url": "https://thepointsguy.com/news/amazon-amex-membership-rewards-discount/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/10/Amazon-packages-on-a-residential-doorstep.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T18:20:27Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "5b139dfbb8e2276a",
-      "title": "Capital One Quicksilver Secured Credit Card Review: Earn Rewards While Building Your Credit",
-      "summary": "The Capital One Quicksilver Secured Cash Rewards Credit Card is a great option for those with poor to fair credit who want to increase thei\u2026",
-      "url": "https://awardwallet.com/credit-cards/cash-back/quicksilver-secured-card/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-05T18:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "5bb7dc208e499b26",
-      "title": "IHG One Rewards Premier Credit Card review: Strong perks for a $150 annual fee",
-      "summary": "The IHG Premier offers a 50,000-point anniversary night, elite night credits and more.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/ihg-premier-credit-card-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2021/11/InterContinental-Maldives-Maamunagau-pool-6_KGenter.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-05T18:00:09Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "40b77ac60a886095",
-      "title": "IHG Launches Points & Cash Discount \u2014 Here\u2019s How to Utilize It to Buy IHG Points for Cheap",
-      "summary": "IHG just launched a new Points & Cash promotion.",
-      "url": "https://awardwallet.com/news/ihg-one-rewards/points-cash-promotion/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-05T16:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "b4199b4ed1de7ecc",
-      "title": "Hyatt is back on Capital One Shopping & Capital One Offers: Earn more rewards on stays",
-      "summary": "Update 10/5/26: World of Hyatt is back on Capital One Shopping and Capital One Offers.",
-      "url": "https://frequentmiler.com/hyatt-is-back-on-capital-one-shopping-capital-one-offers-earn-more-rewards-on-stays/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/World-of-Hyatt-Capital-One-Offers.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T15:45:13Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "a1f571274c6c48c4",
-      "title": "$300 Chase Sapphire Reserve Dining Credit: How To Use & Eligible Restaurants",
-      "summary": "The Chase Sapphire Reserve offers up to $300 in annual dining credits at select restaurants.",
-      "url": "https://onemileatatime.com/guides/chase-sapphire-reserve-dining-credit/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/08/InKind-Dining-App-7.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-10-05T15:06:39Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "258171ba21fe05e2",
-      "title": "Up to 25% back / 16X at Expedia with Capital One Shopping and Offers",
-      "summary": "Expedia is the Top Deal of the Day for both Capital One Shopping (the public shopping portal that anyone can join) and Capital One Offers (\u2026",
-      "url": "https://frequentmiler.com/up-to-25-back-16x-at-expedia-with-capital-one-shopping-and-offers/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Capital-One-Shopping-Expedia-up-to-25-back.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T14:45:12Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "995258b81ad313e9",
-      "title": "Marriott Homes & Villas Promotions: Bonvoy Elite Members Can Earn Up to 12,000 Bonus Points Per Stay",
-      "summary": "Marriott Homes & Villas has launched a new promotion exclusively for Marriott Bonvoy elite members.",
-      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-homes-and-villas-promotions/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-05T14:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "52a501e17c7fc263",
-      "title": "Office Depot/OfficeMax: Buy $300+ Visa Gift Cards, Save $15",
-      "summary": "Office Depot and OfficeMax stores have returned with their profitable gift card deal on Visa gift cards through October 10, 2026.",
-      "url": "https://frequentmiler.com/office-depot-officemax-visa-gift-cards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/03/Untitled-design-42.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T13:45:34Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "159a6d07fb25855c",
-      "title": "Best Posts Last Week: New Premium IHG Card, New U.S. Bank Business Cards & New Amazon Shop With Points Deals",
-      "summary": "It was a very busy week on the blog with the start of a new quarter and Chase launching the new IHG Premier Select card with a $350 annual\u2026",
-      "url": "https://www.doctorofcredit.com/best-posts-last-week-new-premium-ihg-card-new-u-s-bank-business-cards-new-amazon-shop-with-points-deals/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-05T13:00:09Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "3085f48ba3cbfc7f",
-      "title": "The Complete Guide to National Car Rental and Emerald Club",
-      "summary": "Points and miles enable air travel and hotel stays across a wide variety of programs.",
-      "url": "https://awardwallet.com/car-rental/national-emerald-club/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-05T12:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "6874a313edf28816",
-      "title": "United Airlines Warns Flight Attendants \u201cToo Sick To Work\u201d Means Too Sick To Vacation\u2014Union Disagrees",
-      "summary": "United Airlines is reminding employees that \u201cIf you are too sick to work, you are too sick for leisure travel.\u201d Its flight attendant union\u2026",
-      "url": "https://viewfromthewing.com/united-airlines-warns-flight-attendants-too-sick-to-work-means-too-sick-to-vacation-union-disagrees/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2023/02/ua-fa.jpeg",
-      "category": "Tips",
-      "publishedAt": "2026-10-05T12:04:16Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "b972f21ac193fcbb",
-      "title": "IHG One Rewards Business Credit Card Review: Is It Worth The $200 Fee?",
-      "summary": "An in-depth look at the IHG One Rewards Business Credit Card, covering its $200 annual fee, welcome bonus, earning rates, and elite status\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/chase/ihg-one-rewards-business-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/10/Hotel-Indigo-Room.jpeg?width=1200&quality=75&height=678&aspect_ratio=200%3A113",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T08:03:41Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "fc3df418a403dc49",
-      "title": "Staples: 100% Back In Points On Command Purchases Up To $40",
-      "summary": "Update 10/4/26: Back through 10/10/26 Update 5/18/26: The Command deal is back through 5/23/26 (ht SD) The Offer Staples has two 100% back\u2026",
-      "url": "https://www.doctorofcredit.com/staples-100-back-in-points-on-expo-command-purchases-up-to-40/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T23:53:24Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "49d0946f45a9b3bc",
-      "title": "Earn up to 80,000 Bonus Miles With the United\u2120 Explorer Card \u2014 With No Annual Fee the First Year",
-      "summary": "Chase is running an offer on the United\u2120 Explorer Card of up to 80,000 bonus miles after you meet qualifying activities.",
-      "url": "https://awardwallet.com/credit-cards/united-mileageplus/united-explorer-offer/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T23:51:38Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "05babd1e1be80cfa",
-      "title": "[GA only] Delta Community Credit Union $250 Checking Bonus",
-      "summary": "Update 10/5/26: Extended to November 30, 2026 Update 7/1/26: Extended to July 31, 2026.",
-      "url": "https://www.doctorofcredit.com/ga-only-delta-community-credit-union-200-checking-bonus-direct-deposit-not-required/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T23:00:17Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9c6b8ddea069732f",
-      "title": "[Meijer Mperks: 10,000 Points On $100 Visa Giftcard (10/4-10/6)",
-      "summary": "Update 10/4/26: Deal is back from 10/4-10/6 Update 8/19/26: Offer is back on Mastercard gift cards for 8/19 \u2013 8/25 (ht James) Update 8/13/2\u2026",
-      "url": "https://www.doctorofcredit.com/meijer-mperks-10-off-150-visa-giftcards-7/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T22:52:00Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9886f85b9fbef511",
-      "title": "Chase Offers: Get 25% Back On Wonder (Food Delivery) Stack With 50% Off Promo Code",
-      "summary": "Update 10/4/26: Available again.",
-      "url": "https://www.doctorofcredit.com/chase-offers-get-25-back-on-wonder-food-delivery-stack-with-50-off-promo-code/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T22:50:39Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "58de67c64fca9797",
-      "title": "Changes coming to IHG Select card (old $49 card, no longer available)",
-      "summary": "A member of our Frequent Miler Insiders Facebook group recently reported being told by a Chase representative that changes are coming to th\u2026",
-      "url": "https://frequentmiler.com/changes-coming-to-ihg-select-card-old-49-card-no-longer-available/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/04/IHG-One-Featured.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-04T21:45:38Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "c9b2869b348d1bb2",
-      "title": "$900 bonus with a new Chase checking and savings account",
-      "summary": "Chase has extended its excellent bonus for opening a new checking and savings account.",
-      "url": "https://frequentmiler.com/900-bonus-with-a-new-chase-checking-and-savings-account-september-25/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/01/Chase-Checking-Bonus.png",
-      "category": "Deals",
-      "publishedAt": "2026-10-04T19:45:33Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "d34e3ded679ecb78",
-      "title": "[Targeted] AmEx Offers: Wyndham, Spend $100+ & Receive $20 Statement Credit",
-      "summary": "Get a one-time $40 statement credit by using your enrolled eligible Card to make one or more purchases totaling $200+ at Wyndham properties",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offers-wyndham-spend-200-receive-40-statement-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T19:43:03Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "5ae1ecf55108837b",
-      "title": "[Targeted] AmEx Offers: Radisson Hotels & Resorts (Europe & Africa), Spend $250+ & Receive $50 Statement Credit",
-      "summary": "Get a one-time $50 statement credit after using your enrolled eligible Card to spend a minimum of $250 USD in one or more qualifying purcha\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offers-radisson-hotels-resorts-europe-africa-spend-250-receive-50-statement-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-04T18:00:44Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
