@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-10-07T04:45:51Z",
+  "updatedAt": "2026-10-07T12:48:17Z",
   "articles": [
+    {
+      "id": "657cbc6ee0614a40",
+      "title": "All JetBlue Flights Vanish For October 13\u201314\u2014Passengers Report Total Cancellations, Forced Rebooking",
+      "summary": "An overnight review found two days of JetBlue flights missing from booking searches.",
+      "url": "https://viewfromthewing.com/all-jetblue-flights-vanish-for-october-13-14-passengers-report-total-cancellations-forced-rebooking/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/11/jetblue-tails.jpeg",
+      "category": "Tips",
+      "publishedAt": "2026-10-07T12:04:29Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "3daaa393c1634bed",
+      "title": "Buy Hilton Honors Points With a Best-Ever 120% Bonus (0.45\u00a2 Each)",
+      "summary": "Hilton Honors just launched a best-ever 120% bonus on purchased points \u2014 dropping the rate of buying Hilton points to just 0.45\u00a2 per point.",
+      "url": "https://awardwallet.com/hotels/hilton-honors/buy-hilton-points/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-07T11:45:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "9e5e77830a7f4792",
+      "title": "Buy Hilton Honors Points With Best-Ever 120% Bonus, 0.45 Cents Each: Worth It?",
+      "summary": "Hilton Honors just rolled out its best-ever points purchase bonus: up to 120%, bringing the cost down to 0.45 cents per point.",
+      "url": "https://onemileatatime.com/deals/buy-hilton-honors-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/08/Waldorf-Astoria-Los-Cabos-Pedregal-44.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-07T07:59:07Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "fd4c92c995c19600",
+      "title": "Alaska Airlines & Breeze Airways Launch Unusual Partnership\u2026 But Why?",
+      "summary": "Alaska Airlines has quietly started selling Breeze Airways tickets and awarding Atmos Rewards points \u2014 an unusual partnership with an uncle\u2026",
+      "url": "https://onemileatatime.com/news/alaska-airlines-breeze-airways-partnership/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/05/Breeze-A220-Climbing.jpg?width=1200&quality=75&height=863&aspect_ratio=1200%3A863",
+      "category": "News",
+      "publishedAt": "2026-10-07T06:05:42Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "88c5894723c6b313",
       "title": "Rakuten $425 Bonus when signing up for Bank of America Premium Rewards Card (Plus 60,000 Points = $1,025)",
@@ -459,46 +499,6 @@
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/07/Amazon-Laptop-Featured-Image.png",
       "category": "Deals",
       "publishedAt": "2026-10-05T21:45:16Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "a696f650f1a63486",
-      "title": "Chase Aeroplan Card Now Lets You Redeem Points Toward Annual Fee at 2\u00a2 Per Point (PYB)",
-      "summary": "Chase recently increased the annual fee on the Aeroplan card from $95 to $195, along with enhanced benefits.",
-      "url": "https://www.doctorofcredit.com/chase-aeroplan-card-now-lets-you-redeem-points-toward-annual-fee-at-2%c2%a2-per-point-pyb/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-05T21:31:35Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "568baa8a47e80007",
-      "title": "The 5 best credit cards for Target purchases",
-      "summary": "These cards that will help you maximize your Target purchases with discounts or bonus points.",
-      "url": "https://thepointsguy.com/credit-cards/best-credit-cards-target-purchases/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2020/04/IMG_20200406_103513-scaled.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-05T21:30:06Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "40bbac0ab041fe8b",
-      "title": "Southwest Premier Business Card review: A budget-friendly choice for Southwest loyalists",
-      "summary": "The Southwest Rapid Rewards Premier Business card packs bag, boarding and inflight perks into a $149 fee.",
-      "url": "https://thepointsguy.com/credit-cards/reviews/southwest-premier-business-card-review/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/03/IMG_0185.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-05T21:00:49Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "74517c7c23c54b15",
-      "title": "$100 inKind gift card for $69.99 at Costco.com",
-      "summary": "Costco is once again offering a $100 inKind gift card for a discount, though this time around the price has gone back up to $69.99 (we have\u2026",
-      "url": "https://frequentmiler.com/100-inkind-gift-card-for-6at-costco-com/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/01/inkind.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-05T20:46:03Z",
       "source": "Frequent Miler"
     }
   ]
