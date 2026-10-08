@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-08T04:56:14Z",
+  "updatedAt": "2026-10-08T12:56:57Z",
   "articles": [
+    {
+      "id": "4c613522349968a8",
+      "title": "Chase IHG One Rewards Credit Card Eligibility Rules Explained",
+      "summary": "Chase and IHG now offer four co-branded credit cards, each with different eligibility rules.",
+      "url": "https://onemileatatime.com/guides/ihg-credit-card-eligibility/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/03/Kimpton-London-Lobby.jpeg?width=1200&quality=75&height=677&aspect_ratio=1200%3A677",
+      "category": "Tips",
+      "publishedAt": "2026-10-08T12:56:35Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "be70e155f655b2e4",
+      "title": "SimplyMiles: Earn 930 AA miles + 930 Loyalty Points on a $200+ Sixt rental",
+      "summary": "There are several travel-related SimplyMiles offers right now.",
+      "url": "https://frequentmiler.com/simplymiles-earn-930-aa-miles-930-loyalty-points-on-a-200-sixt-rental/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/SimplyMiles-Sixt.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-08T12:45:34Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "fd8f44e4e24418a8",
+      "title": "Enter Airplane Mode: Southwest Is Giving Away up to 10,500 Rapid Rewards Points per Member",
+      "summary": "Southwest knows we're all burned out, and it's rewarding us for it.",
+      "url": "https://awardwallet.com/news/southwest-rapid-rewards/enter-airplane-mode-promotion/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-08T11:00:21Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "d77dc9f777929fce",
       "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
@@ -469,36 +499,6 @@
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Credit-card-spend-in-store-shopping.jpg",
       "category": "Deals",
       "publishedAt": "2026-10-06T16:45:53Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "12fdb57964526492",
-      "title": "How To Use Bilt Cash For A Free Blade Helicopter Ride From Manhattan To JFK",
-      "summary": "How to redeem Bilt Cash for Blade's 5-minute helicopter transfer between Manhattan and JFK, turning a cash-only splurge into a zero-dollar\u2026",
-      "url": "https://onemileatatime.com/community-stories/use-bilt-cash-free-blade-helicopter-ride-manhattan-jfk/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/10/1-Blade-407-Bell-Helicopter-at-JFK.jpg?width=1711&quality=75&height=1132&aspect_ratio=1711%3A1132",
-      "category": "Tips",
-      "publishedAt": "2026-10-06T16:36:24Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "d6479018cd699194",
-      "title": "Citi AAdvantage Executive Card Offers Record Welcome Bonus Of 125K Miles",
-      "summary": "The Citi AAdvantage Executive Card is offering a limited-time bonus of 125,000 AAdvantage miles after spending $15,000 in five months.",
-      "url": "https://onemileatatime.com/deals/citi-aadvantage-executive-card-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/05/American-777-Maui.jpeg?width=1200&quality=75&height=859&aspect_ratio=1200%3A859",
-      "category": "Deals",
-      "publishedAt": "2026-10-06T16:01:59Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "9c8fdc3012d159dd",
-      "title": "Chase Travel\u2120 Chase Offer: Spend $600 & get $100 back (targeted)",
-      "summary": "Another Chase offer gives you a $100 statement credit when you book $600+ through Chase Travel\u2120.",
-      "url": "https://frequentmiler.com/chase-travel%e2%84%a0-chase-offer-spend-600-get-100-back-targeted/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/04/Chase-Travel.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-06T15:46:02Z",
       "source": "Frequent Miler"
     }
   ]
