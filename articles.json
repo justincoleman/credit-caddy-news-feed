@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-07T22:49:49Z",
+  "updatedAt": "2026-10-08T04:56:14Z",
   "articles": [
+    {
+      "id": "d77dc9f777929fce",
+      "title": "[Targeted] Gemini: 50% Bonus On Prediction Markets Up To $50",
+      "summary": "Gemini is offering a bonus of 50% when you use Gemini prediction markets through September 15 at 1:59 AM ET",
+      "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-08T03:03:10Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "2a86bd4340c15391",
+      "title": "Capital One Venture X Card vs. Bilt Palladium Card: Which Premium 2X Earner Is Best?",
+      "summary": "Both cards charge a premium annual fee and earn 2X on everyday spending, but that's where the similarities end.",
+      "url": "https://awardwallet.com/credit-cards/capital-one-venture-x-vs-bilt-palladium/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-10-07T23:49:37Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "ba349fb1f6bfdc57",
+      "title": "Bilt goes 4:3 to Hyatt. Now what? | Coffee Break Ep124 | 10-7-26",
+      "summary": "Just like we\u2019ve seen with most of Chase cards, Bilt has announced it will be moving to a 4:3 transfer rate with Hyatt starting in January.",
+      "url": "https://frequentmiler.com/bilt-goes-43-to-hyatt-now-what-coffee-break-ep124-10-7-26/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Bilt-goes-4_3-to-Hyatt.-Now-what-2.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-07T22:45:39Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "29ad18b33f3a3d4e",
       "title": "Rakuten: 100x Back on Coveron/Nordprotect",
@@ -27,7 +57,7 @@
       "summary": "For the longest time, World of Hyatt has offered 500 bonus points per night when staying at its new properties.",
       "url": "https://frequentmiler.com/hyatt-ending-500-bonus-points-offer-at-new-properties-replacing-with-2x-points/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Thumbs-up-down-good-bad.jpg",
-      "category": "Card Updates",
+      "category": "Deals",
       "publishedAt": "2026-10-07T20:45:04Z",
       "source": "Frequent Miler"
     },
@@ -392,16 +422,6 @@
       "source": "Doctor of Credit"
     },
     {
-      "id": "1eeefedea497ff28",
-      "title": "Fly to/from Sydney, Australia for only 25K American Airlines miles this month",
-      "summary": "If our recent Wild Card challenge has whetted your appetite for flying Down Under, American Airlines is giving AAdvantage members an opport\u2026",
-      "url": "https://frequentmiler.com/fly-to-from-sydney-australia-for-only-25k-american-airlines-miles-this-month/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/American-Airlines-25K-miles-to-Sydney.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-06T18:45:28Z",
-      "source": "Frequent Miler"
-    },
-    {
       "id": "a9780189dce5b1ea",
       "title": "United Airlines Status Match: Limited-Time Offer for SkyMiles and AAdvantage Members",
       "summary": "Through October 15, SkyMiles and AAdvantage members can status match to MileagePlus elite status with reduced requirements.",
@@ -430,16 +450,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-06T18:00:07Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "94dc8a1f57f80c30",
-      "title": "Save 15% on IHG award stays at new hotels",
-      "summary": "For the last few years, IHG has been offering a 15% discount on award stays at new and recently refreshed properties, with different hotels\u2026",
-      "url": "https://frequentmiler.com/15-percent-off-ihg-new-hotels/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/01/IHG-15-off-new-hotels-award-stays.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-06T17:45:07Z",
-      "source": "Frequent Miler"
     },
     {
       "id": "f9b4f141c5fad91f",
@@ -489,16 +499,6 @@
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/04/Chase-Travel.jpg",
       "category": "Deals",
       "publishedAt": "2026-10-06T15:46:02Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0ef6a2419d09e57d",
-      "title": "Get +4 Marriott points at US supermarkets with targeted Amex Offer (max 5K bonus points)",
-      "summary": "If you have a Marriott credit card, check your Amex Offers as there\u2019s a targeted offer giving +4 Marriott Bonvoy points for every dollar sp\u2026",
-      "url": "https://frequentmiler.com/get-4-marriott-points-at-us-supermarkets-with-targeted-amex-offer-max-5k-bonus-points/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/07/supermarket.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-06T14:45:16Z",
       "source": "Frequent Miler"
     }
   ]
