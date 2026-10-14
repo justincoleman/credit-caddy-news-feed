@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-14T03:52:39Z",
+  "updatedAt": "2026-10-14T11:21:08Z",
   "articles": [
+    {
+      "id": "a25d9214b3cf1c15",
+      "title": "Amex Platinum May Require 2 Nights For Its $300 Hotel Credit\u2014A Change 4 Years In The Making",
+      "summary": "Reported Amex test site language points to a January 1 two-night minimum for Fine Hotels & Resorts credits.",
+      "url": "https://viewfromthewing.com/amex-platinum-may-require-2-nights-for-its-300-hotel-credit-a-change-4-years-in-the-making/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2019/12/Santa-Monica-Proper-Bed-1.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-14T11:04:06Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "bf534be55476e6ac",
+      "title": "IHG One Rewards Diamond Elite Status: How To Earn It, Benefits, & Is It Worth It?",
+      "summary": "IHG One Rewards Diamond status can be earned through stays, points, or credit card spending.",
+      "url": "https://onemileatatime.com/guides/ihg-diamond-status/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Kimpton-Amsterdam-Room.jpeg?width=1200&quality=75&height=798&aspect_ratio=200%3A133",
+      "category": "Tips",
+      "publishedAt": "2026-10-14T09:19:56Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "6ea54a155baf84f9",
+      "title": "Chase Ink Business Premier Review: $1K Bonus, 2.5% Cash Back, $195 Fee",
+      "summary": "The Chase Ink Business Premier offers 2.5% cash back on large purchases and a $1,000 bonus, but no travel rewards.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/chase-ink-business-premier/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/10/Copa-Business-Class-737-41.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-10-14T08:18:39Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "8fc7392a4ba188c6",
       "title": "Atmos Summit Visa Card Lounge Passes: How To Earn and Redeem Them",
@@ -470,36 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-12T16:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "b949e5e67e4f618b",
-      "title": "Complete guide to earning and redeeming Avianca Lifemiles",
-      "summary": "Check out our complete guide to Avianca Lifemiles to find out how you can earn and redeem your miles for award travel.",
-      "url": "https://thepointsguy.com/loyalty-programs/everything-you-need-to-know-avianca-lifemiles/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/05/Airplane-Stock_Avianca-787-Bogota-2_ERosen-01.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-12T16:00:30Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "201c3abe579fe813",
-      "title": "Southwest Airlines Is Planning An Orlando Airport Lounge\u2014We Now Know 8 Of 11+ Planned Locations",
-      "summary": "A Southwest source says Orlando will get a lounge as part of the airport expansion.",
-      "url": "https://viewfromthewing.com/southwest-airlines-is-planning-an-orlando-airport-lounge-we-now-know-8-of-11-planned-locations/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/southwest-austin-airport-gate-22.jpg",
-      "category": "News",
-      "publishedAt": "2026-10-12T15:58:18Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "3228378ffbc912a0",
-      "title": "Flex Launches Waitlist For Flex Elite Credit Card \u2013 Up To 5% Cashback On All Purchases, No Annual Fee",
-      "summary": "Flex (private banking for businesses) has launched a waitlist for the Flex Elite personal credit card.",
-      "url": "https://www.doctorofcredit.com/flex-launches-waitlist-for-flex-elite-credit-card-up-to-5-cashback-on-all-purchases-no-annual-fee/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-12T15:00:28Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
