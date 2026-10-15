@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-15T10:58:21Z",
+  "updatedAt": "2026-10-15T16:27:20Z",
   "articles": [
+    {
+      "id": "e190f43aa41fa1b7",
+      "title": "Southwest \u201cIcon Lounges\u201d Opening At 11 Airports, In Partnership With Chase",
+      "summary": "Southwest has revealed its lounge network will be called Icon Lounges, shared the first rendering, and named four opening airports, with at\u2026",
+      "url": "https://onemileatatime.com/news/southwest-airlines-lounges/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/09/Southwest-Icon-Lounge-BNA.jpg?width=1200&quality=75&height=660&aspect_ratio=20%3A11",
+      "category": "News",
+      "publishedAt": "2026-10-15T15:53:13Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "2931f2280ebbc279",
+      "title": "American Express Blue Business Plus / Business Cash: 50K / $500 bonus after $5k spend",
+      "summary": "New welcome offers are available for the Blue Business Plus and Blue Business Cash cards, giving the opportunity to earn 50,000 Membership\u2026",
+      "url": "https://frequentmiler.com/american-express-blue-business-plus-business-cash-50k-500-bonus-after-5k-spend/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/oo-1.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-15T15:45:55Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "4a01adf44a986d83",
+      "title": "American Express No Longer Automatically Pools Membership Rewards Points From New Cards",
+      "summary": "American Express released an update (pdf) whereby new cards earning Membership Rewards points will by default be placed in a separate Membe\u2026",
+      "url": "https://www.doctorofcredit.com/american-express-no-longer-automatically-pools-membership-rewards-points-from-new-cards/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-15T15:36:27Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "bee6c92b0bb8321e",
+      "title": "The Amex Platinum isn't just for you: How to maximize its benefits for your family",
+      "summary": "The Amex Platinum isn't just for luxury travelers.",
+      "url": "https://thepointsguy.com/credit-cards/maximize-amex-platinum-for-family/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/Family-heading-into-vacation-rental-while-unpacking-car_SolStock.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-15T15:00:40Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "90d27b95137982f1",
+      "title": "Southwest overhauls Rapid Rewards with new elite tiers, credit card changes and companion passes",
+      "summary": "Southwest Airlines is revamping its Rapid Rewards loyalty program and elite status tiers amid a major transformation at America's fourth-la\u2026",
+      "url": "https://thepointsguy.com/news/southwest-airlines-rapid-rewards-overhaul/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/southwest-737s-bna.jpeg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-15T14:25:33Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "6402bb2c798a628a",
+      "title": "United Explorer Card review: Premium perks without a premium fee",
+      "summary": "The United Explorer Card is one of the best mid-tier airline cards, thanks to its perks and ability to earn bonus miles.",
+      "url": "https://thepointsguy.com/credit-cards/reviews/united-explorer-credit-card-review/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/09/Planes-SFO-4.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-15T13:00:44Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "a89bcc1bc884b2c0",
+      "title": "IHG One Rewards Platinum Elite Status: How To Earn It, Benefits, & Is It Worth It?",
+      "summary": "IHG One Rewards Platinum status can be earned through stays, spending, co-branded credit cards, or even bought outright.",
+      "url": "https://onemileatatime.com/guides/ihg-platinum-status/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/03/Kimpton-Sydney-Room.jpeg?width=1200&quality=75&height=677&aspect_ratio=1200%3A677",
+      "category": "Tips",
+      "publishedAt": "2026-10-15T12:51:15Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "c711b5ab50514879",
+      "title": "Rove Transfer Bonuses: Get More JAL Miles, Flying Blue Miles, Qatar Avios, and JetBlue TrueBlue Points",
+      "summary": "Rove is offering four limited-time bonuses to popular loyalty programs.",
+      "url": "https://awardwallet.com/news/rove-miles/rove-transfer-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-15T11:10:03Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "7237c7ae0985c462",
       "title": "Rove Miles Adds JetBlue As 1:1 Transfer Partners, 20% Launch Bonus",
@@ -10,6 +90,16 @@
       "category": "Deals",
       "publishedAt": "2026-10-15T10:00:51Z",
       "source": "Doctor of Credit"
+    },
+    {
+      "id": "5ba0ad960d5c2019",
+      "title": "Rove adds JetBlue TrueBlue as a 1:1 transfer partner",
+      "summary": "Rove miles now transfer 1:1 to JetBlue TrueBlue, with a 20% bonus through Nov.",
+      "url": "https://thepointsguy.com/news/rove-jetblue-trueblue-transfer-partner/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/jetblue-tails-boston.jpeg",
+      "category": "Deals",
+      "publishedAt": "2026-10-15T10:00:34Z",
+      "source": "The Points Guy"
     },
     {
       "id": "5597eecdb419dc64",
@@ -200,16 +290,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-14T17:46:14Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "ad591f3b196c93d0",
-      "title": "Imprint & Safeway Launch \u2018Safeway\u00ae forU American Express\u00ae Card\u2019",
-      "summary": "Imprint & Safeway have partnered to launch a cobranded credit card called \u2018Safeway\u00ae forU American Express\u00ae Card\u2018.",
-      "url": "https://www.doctorofcredit.com/imprint-safeway-launch-safeway-foru-american-express-card/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-14T17:00:53Z",
-      "source": "Doctor of Credit"
     },
     {
       "id": "99a105937e0c1620",
@@ -420,86 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-13T21:45:48Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "dbdd8217c6ec6f76",
-      "title": "Southwest\u2019s 33,000-Square-Foot BWI Lounge Appears To Be Replacing The Airport\u2019s Public Observation Gallery",
-      "summary": "Southwest's nearly 33,000 square foot Baltimore lounge appears to be taking over the airport's former public observation gallery.",
-      "url": "https://viewfromthewing.com/southwests-33000-square-foot-bwi-lounge-appears-to-be-replacing-the-airports-public-observation-gallery/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/10/image-2.jpg",
-      "category": "News",
-      "publishedAt": "2026-10-13T21:04:53Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "3e6d711ca0b6efcf",
-      "title": "Staples: Get 100% back in rewards on luggage & travel accessories (10/13/26 only)",
-      "summary": "Staples is running a promotion for today (October 13) only which is giving 100% back in rewards when buying luggage and other travel access\u2026",
-      "url": "https://frequentmiler.com/staples-get-100-back-in-rewards-on-luggage-travel-accessories-10-13-26-only/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Staples-100-rewards-luggage-travel-accessories.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-13T20:45:46Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "cf4f2f3ebb78c64c",
-      "title": "Get a 100% Transfer Bonus When Transferring Wyndham Rewards Points to United Miles",
-      "summary": "For a limited time, Wyndham Rewards members can transfer points to United miles with a 100% bonus.",
-      "url": "https://awardwallet.com/news/united-mileageplus/hotel-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-13T20:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "a73bfedbb2ecca32",
-      "title": "[Rumor] American Express To Add $250 AirBnB Experiences Credit To Platinum Card",
-      "summary": "American Express has a test server that has reliably shown increased sign up bonuses and benefits ahead of time (qwww).",
-      "url": "https://www.doctorofcredit.com/rumor-american-express-to-add-250-airbnb-experiences-credit-to-platinum-card/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-13T20:09:56Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "3decf9cf0bc478bd",
-      "title": "(Update) Wells Fargo Premier $2,500 Bank or Investing Bonus (Requires $250k In Cash/Assets)",
-      "summary": "Get $2,500 if you open a Wells Fargo Premier relationship checking account or upgrade to that account.",
-      "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-13T20:00:37Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "c0085559ffeb7105",
-      "title": "Norwegian Cruise Line Amex Offer: Spend $750 & get $150 back",
-      "summary": "There\u2019s a new Norwegian Cruise Line Amex Offer available on a targeted basis.",
-      "url": "https://frequentmiler.com/norwegian-cruise-line-amex-offer-spend-750-get-150-back/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/03/Norwegian-Cruise-Line-ship-Alaska.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-13T19:45:28Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "fdd3662fdc6c096c",
-      "title": "Chase Offers: Get 10% Back On Amazon Business ($20 Cashback Limit)",
-      "summary": "Check your Chase Offers on Chase business cards: Get 10% back on your Amazon Business purchase or subscription.",
-      "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-on-amazon-business-20-cashback-limit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-13T19:27:50Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "85b8128b7ec4f6d3",
-      "title": "Chase Offers/BofA: 5% at eBay, up to $10 Cashback",
-      "summary": "Get 5% back at eBay",
-      "url": "https://www.doctorofcredit.com/chase-offers-bofa-5-at-ebay-up-to-10-cashback/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-13T18:55:03Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
