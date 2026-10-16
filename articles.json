@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-16T03:30:26Z",
+  "updatedAt": "2026-10-16T10:52:32Z",
   "articles": [
+    {
+      "id": "10c8812153073da8",
+      "title": "Where is the Luv? Nick\u2019s take on the Southwest changes",
+      "summary": "Yesterday, Southwest Airlines announced a seismic shift to its loyalty program, particularly with regard to the Companion Pass, but also wi\u2026",
+      "url": "https://frequentmiler.com/where-is-the-luv-nicks-take-on-the-southwest-changes/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Where-is-the-Luv-Southwest.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-16T10:45:29Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "1feefc4c6d75d250",
+      "title": "Starlux Airlines Selling Miles With First-Ever Promo: Unlock First Class Awards",
+      "summary": "Starlux is running its first-ever miles sale, with 40% off COSMILE miles through November 9, 2026.",
+      "url": "https://onemileatatime.com/deals/buy-starlux-airlines-miles/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/09/Starlux-Business-Class-A350-17.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-16T09:22:03Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "02bf78355922fd5d",
+      "title": "IHG One Rewards Milestone Rewards: How To Earn Suite Upgrades & Lounge Access",
+      "summary": "IHG One Rewards Milestone Rewards let you pick perks like confirmed suite upgrades, club lounge access, and food and beverage credits for e\u2026",
+      "url": "https://onemileatatime.com/guides/ihg-milestone-rewards/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/InterContinental-Hotel-Room.jpg?width=1200&quality=75&height=743&aspect_ratio=1200%3A743",
+      "category": "News",
+      "publishedAt": "2026-10-16T08:14:26Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "2d08a1f42ec7f8a6",
       "title": "Best Credit Cards for Vacation Rentals: How To Earn Rewards on Airbnb and VRBO Stays",
@@ -37,7 +67,7 @@
       "summary": "Sometimes, it stinks to be right.",
       "url": "https://frequentmiler.com/major-southwest-changes-coming-in-2027/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Southwest-Airlines-CEO-Bob-Jordan.jpg",
-      "category": "Card Updates",
+      "category": "Tips",
       "publishedAt": "2026-10-15T22:45:09Z",
       "source": "Frequent Miler"
     },
@@ -469,36 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-10-14T19:30:54Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "167b6520151119b3",
-      "title": "Exclusive: Delta Eyes American\u2019s Austin Admirals Club For A Temporary Delta One Lounge",
-      "summary": "Delta executives have been visiting American\u2019s lounge as they consider an interim home for Delta One in Austin.",
-      "url": "https://viewfromthewing.com/exclusive-delta-eyes-americans-austin-admirals-club-for-a-temporary-delta-one-lounge/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2023/11/20231128_094030.jpg",
-      "category": "News",
-      "publishedAt": "2026-10-14T18:34:53Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "1e5c216ee444bd82",
-      "title": "JAL Mileage Bank Award Sale: 30% Off Award Flights \u2014 Book Flights to Japan for Under 19k Miles",
-      "summary": "Japan Airlines Mileage Bank has launched an award ticket sale for select international routes.",
-      "url": "https://awardwallet.com/news/airlines/jal-mileage-bank-award-sale/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-14T18:00:57Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "7eca61a98b5ecca1",
-      "title": "Giftcards.com: 10% Off Virtual Visa Giftcards With Code VISATREAT (Stack With Portal)",
-      "summary": "Update 10/14/26: New code: VISATREAT for 10% off virtual Visa gift cards.",
-      "url": "https://www.doctorofcredit.com/giftcards-com-10-off-visa-egiftcards-with-code-oktoberfun/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-14T18:00:45Z",
       "source": "Doctor of Credit"
     }
   ]
