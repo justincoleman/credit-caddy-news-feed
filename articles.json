@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-10-17T03:20:46Z",
+  "updatedAt": "2026-10-17T10:15:53Z",
   "articles": [
+    {
+      "id": "32681bcac5f660f4",
+      "title": "Chase 5/24 Rule: How It Works, How To Check Your Status, & Whether It\u2019s Still Enforced",
+      "summary": "The Chase 5/24 rule can block your application if you've opened five or more cards in 24 months, but it no longer seems consistently enforc\u2026",
+      "url": "https://onemileatatime.com/guides/chase-5-24-rule/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2018/10/Chase-Credit-Cards-5.jpg?width=1600&quality=75&height=897&aspect_ratio=1600%3A897",
+      "category": "Tips",
+      "publishedAt": "2026-10-17T09:34:33Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "fde5b34155058f17",
       "title": "Chase Welcome Bonuses: Earn up to 200K Points, 115K Miles, or $1,000 Cash Back",
       "summary": "Right now, Chase is offering some phenomenal welcome bonuses.",
       "url": "https://awardwallet.com/credit-cards/chase-ultimate-rewards/chase-sign-up-bonus/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-10-16T23:49:53Z",
       "source": "AwardWallet"
     },
@@ -490,16 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-10-15T18:08:58Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "ce58e6656ea5e36e",
-      "title": "How to redeem Choice Privileges points",
-      "summary": "Learn how to redeem Choice Privileges points for hotel stays, airline miles, gift cards and more.",
-      "url": "https://thepointsguy.com/loyalty-programs/redeem-choice-privileges-points/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/03/Man-holding-credit-card-with-smartphone-while-using-laptop-at-cafe-outside_-MStudioImages.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-15T18:00:32Z",
-      "source": "The Points Guy"
     }
   ]
 }
