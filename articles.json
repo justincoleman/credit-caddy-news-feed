@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-10-17T10:15:53Z",
+  "updatedAt": "2026-10-17T15:06:37Z",
   "articles": [
+    {
+      "id": "758c5fdd4e3c24e5",
+      "title": "IHG Credit Card Free Night Awards: How To Earn & Redeem Them, Maximize Value",
+      "summary": "Three IHG One Rewards Chase cards offer anniversary free night certificates worth up to 60,000 points.",
+      "url": "https://onemileatatime.com/guides/ihg-card-free-night/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2018/11/Crowne-Plaza-Changi-28-1.jpg?width=1200&quality=75&height=800&aspect_ratio=3%3A2",
+      "category": "Tips",
+      "publishedAt": "2026-10-17T14:12:47Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "ce5e26673ee804df",
+      "title": "Weekly News Roundup: Hyatt Simplifies Point Sharing, New Amex Points Pooling Policy, Citi\u2019s New Partner, and More",
+      "summary": "We've had yet another busy week filled with good and bad news.",
+      "url": "https://awardwallet.com/news/travel-news-roundup-october-17-2026/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-17T12:00:45Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "cd7642bde43c35f3",
+      "title": "Southwest\u2019s seismic shift, a huge Delta sweet spot, downgrading premium cards, and more (Week in Review)",
+      "summary": "Hello from Chicago!",
+      "url": "https://frequentmiler.com/southwests-seismic-shift-a-huge-delta-sweet-spot-downgrading-premium-cards-and-more-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Chicago-Points-Travel-Festival.jpg",
+      "category": "News",
+      "publishedAt": "2026-10-17T11:59:35Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "26273a7ff5f6205b",
+      "title": "United Business Card Review: Is The Card Worth The $150 Annual Fee?",
+      "summary": "The United Business Card offers up to 100K bonus miles, a free first checked bag, United Club passes and credits that can offset the annual\u2026",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/united-business-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/07/United-Polaris-Business-Class-777-63-1.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-10-17T10:54:05Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "32681bcac5f660f4",
       "title": "Chase 5/24 Rule: How It Works, How To Check Your Status, & Whether It\u2019s Still Enforced",
@@ -460,46 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-15T19:00:21Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "0807dfbe21a90e1e",
-      "title": "Earn free Enterprise Car Rental points with Plus Your Points promotion",
-      "summary": "Enterprise Car Rental is back with its yearly promotion, \u201cPlus Your Points,\u201d running from October 28th through the end of February 2027.",
-      "url": "https://frequentmiler.com/earn-free-enterprise-car-rental-points-with-plus-your-points-promotion/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/11/Enterprise-Plus-Your-Points.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-15T18:46:15Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0cfcce3153ddb271",
-      "title": "AmEx Offers: Walmart.com, Spend $50 & Get $10 Statement Credit (Expires 11/15/26)",
-      "summary": "AmEx Offers: Get $10 statement credit after spending $50 online at Walmart.com by 11/15/2026",
-      "url": "https://www.doctorofcredit.com/amex-offers-walmart-com-spend-50-get-10-statement-credit-expires-11-15-26/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-15T18:41:48Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "92634ba2e74c528e",
-      "title": "Southwest Companion Pass No Longer Earned With Signup Bonus Points (Starts 2027)",
-      "summary": "Many changes were announced today in a major revamp of the Southwest loyalty program, but I thought it worth highlighting this one as a sep\u2026",
-      "url": "https://www.doctorofcredit.com/southwest-companion-pass-no-longer-earned-with-signup-bonus-points-starts-2027/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-15T18:10:11Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9aee42edd08ef1da",
-      "title": "Amex Stops Automatically Pooling Membership Rewards Points On New Cards: Why?",
-      "summary": "Amex has updated its Membership Rewards terms so new cards get separate rewards accounts that you can link manually.",
-      "url": "https://onemileatatime.com/news/amex-stops-automatically-pooling-membership-rewards-points-new-cards/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/02/Singapore-Airlines-Business-Class-777-4.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-15T18:08:58Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
