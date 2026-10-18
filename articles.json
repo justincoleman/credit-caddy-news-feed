@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-10-18T15:29:42Z",
+  "updatedAt": "2026-10-18T20:12:27Z",
   "articles": [
+    {
+      "id": "8a4f45c0a8e41124",
+      "title": "How To Reinstate Expired American AAdvantage Miles Without Paying A Fortune",
+      "summary": "My dad's 141,977 AAdvantage miles expired, and American wanted $1,000 to reinstate them.",
+      "url": "https://onemileatatime.com/insights/reinstate-expired-american-aadvantage-miles/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/American-Business-Class-A321XLR-7.jpeg?width=1200&quality=75&height=916&aspect_ratio=300%3A229",
+      "category": "News",
+      "publishedAt": "2026-10-18T18:47:43Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "e61121c38f20164f",
+      "title": "Citi Strata Card Eligibility Rules: Elite, Premier, & Strata Bonus Requirements",
+      "summary": "Citi's three Strata cards are judged independently, so you can potentially earn all three welcome bonuses.",
+      "url": "https://onemileatatime.com/guides/citi-strata-card-eligibility/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/02/Air-France-Business-Class-A350-11.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-18T17:46:05Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "d5db9636c324a0f4",
+      "title": "United Cruises Offers up to 10X Miles \u2014 Earn up to 60,000 MileagePlus Miles",
+      "summary": "United Cruises just relaunched its bonus points promotion, offering United Airlines credit cardholders up to 10X miles per dollar when book\u2026",
+      "url": "https://awardwallet.com/news/united-mileageplus/united-cruises/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-18T16:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "d98c6a8a89994305",
+      "title": "Safeway: Get 10x Points On Select Zift Giftcards (10/18-10/24)",
+      "summary": "Safeway has a J4U offer to get 10x points on $50+ purchases of Zift Zillions gift cards.",
+      "url": "https://www.doctorofcredit.com/safeway-get-12x-points-on-zift-zillions/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-18T15:30:21Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "84254fdee82fe869",
       "title": "[MI only] United Financial Credit Union $100 Referral Bonus \u2013 Direct Deposit Not Required",
@@ -252,16 +292,6 @@
       "source": "Doctor of Credit"
     },
     {
-      "id": "1773c05b76007247",
-      "title": "Secured Cards: What They Are and How They Can Help (Re)Build Credit",
-      "summary": "If you're new to credit or have made a few financial missteps in the past, getting approved for a credit card can be challenging.",
-      "url": "https://awardwallet.com/credit-cards/secured-cards/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-16T20:00:46Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "b762b871f24fc978",
       "title": "Japan Airlines Mileage Bank: 30% off awards to/from Japan",
       "summary": "Japan Airlines Mileage Bank is running an award sale through October 31st for travel through February 27th, 2027.",
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-16T09:22:03Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "02bf78355922fd5d",
-      "title": "IHG One Rewards Milestone Rewards: How To Earn Suite Upgrades & Lounge Access",
-      "summary": "IHG One Rewards Milestone Rewards let you pick perks like confirmed suite upgrades, club lounge access, and food and beverage credits for e\u2026",
-      "url": "https://onemileatatime.com/guides/ihg-milestone-rewards/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/InterContinental-Hotel-Room.jpg?width=1200&quality=75&height=743&aspect_ratio=1200%3A743",
-      "category": "News",
-      "publishedAt": "2026-10-16T08:14:26Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "caafd54a49b2f577",
-      "title": "Get up to 10% back at Hotels.com with new Amex Offer",
-      "summary": "A new Hotels.com Amex Offer appeared this week, giving 10% back on up to $1250 of prepaid hotel bookings.",
-      "url": "https://frequentmiler.com/get-up-to-10-back-at-hotels-com-with-new-amex-offer/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Hotels.com-featured-image.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-15T23:45:43Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "552796c8e84470ed",
-      "title": "Amex Stops Automatically Pooling New Card Points\u2014Check This Before You Cancel A Card",
-      "summary": "New American Express cards now get separate Membership Rewards accounts unless you link them.",
-      "url": "https://viewfromthewing.com/amex-stops-automatically-pooling-new-card-points-check-this-before-you-cancel-a-card/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/09/20250925_075312.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-15T23:04:53Z",
-      "source": "View from the Wing"
     }
   ]
 }
