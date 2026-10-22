@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-22T03:38:40Z",
+  "updatedAt": "2026-10-22T11:17:50Z",
   "articles": [
+    {
+      "id": "60dd6ff28c81ad7b",
+      "title": "Amex Confirms Platinum\u2019s $300 Hotel Credit Will Require 2 Nights Starting January 1\u2014Adds Airbnb Luxe Option",
+      "summary": "American Express\u2019s website now confirms that Fine Hotels & Resorts bookings will require a two-night stay to qualify for Platinum\u2019s $300 se\u2026",
+      "url": "https://viewfromthewing.com/amex-confirms-platinums-300-hotel-credit-will-require-2-nights-starting-january-1-adds-airbnb-luxe-option/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2024/06/20240530_072311.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-22T10:25:13Z",
+      "source": "View from the Wing"
+    },
     {
       "id": "512601fd6aa257fd",
       "title": "Delta\u2019s Choice Benefits for Platinum and Diamond Elites",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-20T21:45:26Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "41d3bf5802e11f93",
-      "title": "Boeing 737 MAX 10 Gets FAA Certification, And It\u2019s A Big Deal For Airlines",
-      "summary": "The FAA has certified the Boeing 737 MAX 10, clearing the way for deliveries to airlines like Alaska, American, Delta, and United, though s\u2026",
-      "url": "https://onemileatatime.com/news/boeing-737-max-10-certification/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/07/Delta-737-MAX-Flying.jpg?width=1200&quality=75&height=675&aspect_ratio=16%3A9",
-      "category": "Deals",
-      "publishedAt": "2026-10-20T20:55:11Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
