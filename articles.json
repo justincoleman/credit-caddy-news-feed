@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T20:21:50Z",
+  "updatedAt": "2026-10-25T03:34:48Z",
   "articles": [
+    {
+      "id": "3e1b492a653857ea",
+      "title": "Weekly Review: October 24, 2026",
+      "summary": "I hope everyone is having a nice weekend so far!",
+      "url": "https://onemileatatime.com/weekly-review/2026-10-24/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/07/Qsuite-Next-Gen-3.jpg?width=1200&quality=75&height=800&aspect_ratio=3%3A2",
+      "category": "Tips",
+      "publishedAt": "2026-10-24T20:45:00Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "dfd93bd434b5258d",
       "title": "7 of our favorite cards to use for Black Friday shopping in 2026",
@@ -209,16 +219,6 @@
       "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/10/EMR2R.jpg",
       "category": "Deals",
       "publishedAt": "2026-10-23T18:34:05Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "745d00812ce66f11",
-      "title": "Citi Strata Elite Card Delivers 75,000 Points Plus $1,200 In Credits In Your First Year",
-      "summary": "Citi Strata Elite delivers a surprisingly strong first-year value play.",
-      "url": "https://viewfromthewing.com/citi-strata-elite-card-delivers-75000-points-plus-1200-in-credits-in-your-first-year-2/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/09/american-airlines-787-9-flagship-preferred-suite.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-23T18:04:23Z",
       "source": "View from the Wing"
     },
     {
