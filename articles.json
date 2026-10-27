@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-27T17:35:59Z",
+  "updatedAt": "2026-10-27T21:53:07Z",
   "articles": [
+    {
+      "id": "f0419ad1c0fb28e7",
+      "title": "Delta Amex Offer: Get $250 back when spending $2K directly with airline",
+      "summary": "There\u2019s a new, targeted Amex Offer that\u2019s giving $250 back as a statement credit when spending $2,000 or more with Delta.",
+      "url": "https://frequentmiler.com/delta-amex-offer-get-250-back-when-spending-2k-directly-with-airline/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/02/1.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T21:45:35Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "1860e9057acf1e3e",
+      "title": "Bank of America Business Advantage Customized Cash: Earn up to 5.25% Cash Back With No Annual Fee",
+      "summary": "For business owners who want valuable cash back on purchases, the Bank of America\u00ae Business Advantage Customized Cash Rewards Mastercard\u00ae c\u2026",
+      "url": "https://awardwallet.com/credit-cards/bank-of-america/business-advantage-customized-cash/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T21:00:01Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "6651aa0d73120983",
+      "title": "Citi AAdvantage Executive 125,000 Signup Bonus",
+      "summary": "Citi is offering 125,000 miles after spending $15,000 within five months on the AAdvantage Executive card.",
+      "url": "https://www.doctorofcredit.com/citi-aadvantage-executive-125000-signup-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:50:38Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "fb5af49a1aa4850f",
+      "title": "CitiBusiness AAdvantage Mastercard: 75K Welcome Offer is back",
+      "summary": "There is another increased offer for the CitiBusiness AAdvantage Mastercard: earn 75,000 miles after $5,000 in purchases within the first 5\u2026",
+      "url": "https://frequentmiler.com/citibusiness-aadvantage-platinum-card-limited-time-75k-welcome-offer/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/05/CitiBusiness-AA-75K.png",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:45:48Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "cd11782478b227a4",
+      "title": "New Southwest credit card offers: Earn up to 90,000 points",
+      "summary": "You can earn a stash of bonus points with the Southwest Airlines personal credit cards' welcome bonus offers.",
+      "url": "https://thepointsguy.com/credit-cards/southwest-cards-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/southwest-737-bwi.jpeg",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:35:43Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "3d8a941e4c278ca5",
+      "title": "Easy (Paid) GHA Discovery Titanium & Platinum Status Match: My Experience",
+      "summary": "GHA Discovery's paid status match offers Titanium or Platinum status through 2027, plus bonus Discovery Dollars that offset the fee.",
+      "url": "https://onemileatatime.com/deals/gha-discovery-status-match/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/Capella-Taipei-73.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:19:00Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "05b1e993620c1ca5",
+      "title": "Chase Ink Business Unlimited Review: 75K Bonus, 1.5x Points, & No Annual Fee",
+      "summary": "The Ink Business Unlimited has no annual fee, a 75,000-point bonus, and 1.5x points on everything.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/chase-ink-business-unlimited/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/07/Canaves-Oia-Epitome-Pool-15.jpeg?width=1200&quality=75&height=787&aspect_ratio=1200%3A787",
+      "category": "Tips",
+      "publishedAt": "2026-10-27T20:10:29Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "c034ebc900ca63ba",
+      "title": "[Targeted] Robinhood: 7% APY On Balances Up To $10,000 For 60 Days",
+      "summary": "Robinhood has sent out an e-mail to some gold members offering 7% APY on balances up to $10,000 for 60 days.",
+      "url": "https://www.doctorofcredit.com/targeted-robinhood-7-apy-on-balances-up-to-10000-for-60-days/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:09:56Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "92ca3c419d04eab7",
+      "title": "[Targeted] AmEx Offer: Air New Zealand, Spend $1,800+ & Receive $350 Statement Credit",
+      "summary": "Get a one-time $225 statement credit by using your enrolled card to spend a minimum of $1,250+ in one or more transactions directly with Ai\u2026",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offer-air-new-zealand-spend-1250-receive-225-statement-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T20:05:04Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d2c06744effeb646",
+      "title": "Score Up to 90k Bonus Points Through Southwest Airlines Rapid Rewards Card Offers",
+      "summary": "Southwest Airlines is regularly praised for its top-value airfares, flexible travel rules, and the many destinations it serves.",
+      "url": "https://awardwallet.com/credit-cards/southwest-rapid-rewards/southwest-credit-card-offers/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T19:51:48Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "20b82d9cdb2b6b4e",
+      "title": "Air France KLM\u2019s $89 Card Offers 70,000 Miles\u2014And A Strategy For Cheaper Business Class And First Class Access",
+      "summary": "The bonus includes 100 status credits, and annual spending can add 160 more at the card anniversary.",
+      "url": "https://viewfromthewing.com/air-france-klms-89-card-offers-70000-miles-and-a-strategy-for-cheaper-business-class-and-first-class-access/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/03/20250321_095626.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-27T18:04:09Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "c45cdc430f13205e",
+      "title": "Chase IHG Premier: 180K Points + 10k Authorized User Bonus",
+      "summary": "Chase is offering the following bonus on the IHG Premier card",
+      "url": "https://www.doctorofcredit.com/chase-ihg-premier-180k-points-10k-authorized-user-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T18:00:03Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "476f0f936f992024",
+      "title": "American Airlines shopping portal referral promo: Earn up to 5,000 bonus miles",
+      "summary": "The American Airlines shopping portal is once again running a referral promotion to motivate you to encourage your friends and family membe\u2026",
+      "url": "https://frequentmiler.com/american-airlines-shopping-portal-referral-promo-earn-up-to-5000-bonus-miles/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/03/American-Airlines-shopping-portal-referral-promotion.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T17:46:18Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "07e5ad63e660a882",
+      "title": "Bilt is Revamping Credit Card Benefits for 2027 (Discontinuing 4% Bilt Cash for New Applicants & More)",
+      "summary": "Bilt announced today numerous changes to their credit card rewards program for 2027.",
+      "url": "https://www.doctorofcredit.com/bilt-revamps-credit-card-rewards-in-2027-discontinuing-4-bilt-cash-for-new-applicants-more/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T17:37:39Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "4476abdfac1e8c46",
+      "title": "Best Western Rewards will merge into WorldHotels Rewards in 2027",
+      "summary": "Best Western Rewards will merge into WorldHotels Rewards on Jan.",
+      "url": "https://thepointsguy.com/news/best-western-rewards-worldhotels-merger/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/12/Best-Western_World-Hotels_The-Loren-Hotel-Austin-WorldHotels-Luxury-Austin-TX-3.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-10-27T17:00:52Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "ee322b15c6f1e892",
       "title": "Heathrow Airport Terminal Shake-Up: Delta & Virgin Atlantic Are The Losers",
@@ -350,156 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-26T17:45:57Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "af1c6b1e5a69df63",
-      "title": "My 6 Favorite Credit Card Benefits & Perks, From Status To Lounge Access",
-      "summary": "Some credit cards are worth having for perks alone.",
-      "url": "https://onemileatatime.com/insights/favorite-credit-card-benefits-perks/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/11/American-Admirals-Club-Miami-4.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "News",
-      "publishedAt": "2026-10-26T17:08:17Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "179bcd2a68420adf",
-      "title": "[Now Permanent] Citi Adds $180 In Turo Credits To AAdvantage Platinum Select World Elite Mastercard",
-      "summary": "One of the benefits of the new Citi AAdvantage Globe Card is $240 in Turo credits.",
-      "url": "https://www.doctorofcredit.com/citi-adds-180-in-turo-credits-to-aadvantage-platinum-select-world-elite-mastercard/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-26T17:00:36Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "72712dd6fdef6f60",
-      "title": "Virgin Atlantic Flying Club: How to earn and redeem points, elite status and more",
-      "summary": "A complete guide to Virgin Atlantic's Flying Club program, including partner airlines, elite status tiers and how to earn and redeem points.",
-      "url": "https://thepointsguy.com/loyalty-programs/great-value-virgin-atlantic-flying-club/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/10/American-Boeing-787-9-Dreamliner-LHR-ORD-Business-67.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-26T16:00:56Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "22e89b9764436f5f",
-      "title": "Citi / AAdvantage Executive Card Adds $200 inKind Credit \u2014 Here\u2019s How To Use It",
-      "summary": "Citi has added a $200 dining credit through inKind to the Citi\u00ae / AAdvantage\u00ae Executive World Legend Mastercard\u00ae, split into two $100 credi\u2026",
-      "url": "https://awardwallet.com/news/american-aadvantage/aadvantage-executive-card-inkind-dining-credit/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-26T16:00:06Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "19798923ca9fd67b",
-      "title": "10% transfer bonus to Cathay Pacific Asia Miles from Citi ThankYou",
-      "summary": "Citi ThankYou Rewards is currently offering a 10% transfer bonus when you transfer Citi ThankYou points to Cathay Pacific Asia Miles.",
-      "url": "https://frequentmiler.com/10-transfer-bonus-citi-thankyou-rewards-to-cathay-pacific-asia-miles/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2019/10/Cathay-Pacific-A330-business-class-1.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-26T15:45:47Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "db2728b86b413115",
-      "title": "5 foolproof ways to maximize rewards on grocery spending",
-      "summary": "Learn how to save on groceries and earn more points, miles or cash back with the right card, rotating bonuses and stackable offers.",
-      "url": "https://thepointsguy.com/credit-cards/maximizing-bonus-categories-grocery-stores/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2021/05/Drink-Beverages_d3sign.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-26T14:30:56Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "b5a80077e33144bb",
-      "title": "$200 inKind dining benefit added to Citi AAdvantage Executive card",
-      "summary": "As reported at The Points Guy, The Citi American Airlines AAdvantage Executive Card has added a new dining perk that will certainly be of i\u2026",
-      "url": "https://frequentmiler.com/200-inkind-dining-benefit-added-to-citi-aadvantage-executive-card/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/inKind-and-AAdvantage-executive.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-26T13:45:19Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0492ab4ac1c59621",
-      "title": "American Express Platinum: Valuable benefits and an offer as high as 175,000 bonus points",
-      "summary": "The American Express Platinum offers numerous statement credits, premium lounge access, elite hotel status and more.",
-      "url": "https://thepointsguy.com/credit-cards/amex-platinum-current-offer/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/10/Amex-Centurion-Lounge-SLC-62.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-26T13:00:59Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "fd23c12d738d2ace",
-      "title": "Best Posts Last Week: Discover $300 + Double Cash Back Deal, 100k Atmos Offer & $1,000 Schwab Checking Bonus",
-      "summary": "American Express has confirmed that the Platinum Fine Hotels & Resorts credit will require a two night stay but will now be usable on airBn\u2026",
-      "url": "https://www.doctorofcredit.com/best-posts-last-week-discover-300-double-cash-back-deal-100k-atmos-offer-1000-schwab-checking-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-26T13:00:06Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9e5e77830a7f4792",
-      "title": "Buy Hilton Honors Points With Best-Ever 120% Bonus (0.45 Cents Each): Worth It?",
-      "summary": "Hilton Honors just rolled out its best-ever points purchase bonus: up to 120%, bringing the cost down to 0.45 cents per point.",
-      "url": "https://onemileatatime.com/deals/buy-hilton-honors-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/08/Waldorf-Astoria-Los-Cabos-Pedregal-44.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-10-26T12:10:54Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "995258b81ad313e9",
-      "title": "Marriott Homes & Villas Promotions: Earn 3X Points or Up to 12k Bonus Points Per Stay",
-      "summary": "Current Marriott Homes & Villas promotions include triple points on 5+ night stays booked by November 20, with stay dates between May 24 an\u2026",
-      "url": "https://awardwallet.com/news/marriott-bonvoy/marriott-homes-and-villas-promotions/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-26T12:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "fb10db40ec09fb14",
-      "title": "Bilt\u2019s Authorized User Strategy Doubles Transfer Bonus Caps And 3X Spending\u2014Here\u2019s How My Wife And I Use It",
-      "summary": "Bilt lets adult authorized users receive points and Bilt Cash in their own accounts.",
-      "url": "https://viewfromthewing.com/bilts-authorized-user-strategy-doubles-transfer-bonus-caps-and-3x-spending-heres-how-my-wife-and-i-use-it/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/01/3-bilt-cards.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-26T08:22:37Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "a231393076a955b9",
-      "title": "Hotel review: SCHLOSS Roxburghe Golf Resort in Scotland (Destination by Hyatt & Amex Fine Hotels + Resorts\u00ae)",
-      "summary": "I\u2019d had my eye on SCHLOSS Roxburghe Golf Resort in Scotland for a number of years.",
-      "url": "https://frequentmiler.com/hotel-review-schloss-roxburghe-golf-resort-in-scotland-destination-by-hyatt-amex-fine-hotels-resorts/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/SCHLOSS-Roxburghe-in-Kelso-Scotland.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-26T01:45:02Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "21e423785eeaf684",
-      "title": "Citi AAdvantage Executive Card Adds $200 Annual InKind Dining Credit",
-      "summary": "The Citi AAdvantage Executive Card now offers up to $200 in annual InKind dining credits, split into two $100 halves.",
-      "url": "https://onemileatatime.com/news/citi-aadvantage-executive-card-inkind-dining-credit/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/Otto-Pepe-Restaurant.jpg?width=1200&quality=75&height=858&aspect_ratio=200%3A143",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-26T00:20:45Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "95b3103c1207bae6",
-      "title": "How to Fly Delta One Lie-Flat Seats on Domestic Routes in November 2026",
-      "summary": "Delta mostly uses its internationally-configured aircraft, well, on international flights.",
-      "url": "https://awardwallet.com/airlines/delta-skymiles/delta-one-domestic-routes/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-25T23:51:41Z",
-      "source": "AwardWallet"
     }
   ]
 }
