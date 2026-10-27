@@ -1,6 +1,216 @@
 {
-  "updatedAt": "2026-10-27T11:43:10Z",
+  "updatedAt": "2026-10-27T17:35:59Z",
   "articles": [
+    {
+      "id": "ee322b15c6f1e892",
+      "title": "Heathrow Airport Terminal Shake-Up: Delta & Virgin Atlantic Are The Losers",
+      "summary": "Heathrow has revealed the results of its terminal occupancy review: five airlines will switch terminals in 2028, and Delta's move to Termin\u2026",
+      "url": "https://onemileatatime.com/news/heathrow-airport-terminal-shake-up-delta-virgin-atlantic-losers/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/American-First-Class-777-37.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-10-27T16:53:34Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "a986ba413bf11558",
+      "title": "(Update: Meager bonus offered) Some Wyndham cardholders can upgrade online to new Wyndham card versions",
+      "summary": "Update 10/27/26: In addition to some cardholders being able to upgrade their Wyndham card online, Barclays is emailing some cardholders wit\u2026",
+      "url": "https://frequentmiler.com/some-wyndham-cardholders-can-upgrade-online-to-new-wyndham-card-versions/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/09/Barclays-Wyndham-Rewards-Earner-credit-card-upgrade-options.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T16:46:17Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "ed52fdd049afafc7",
+      "title": "Citi AAdvantage Business Card Revamp Coming January 2027 ($150 Annual Fee, New Benefits)",
+      "summary": "Citi is revamping their AAdvantage Business World Elite Mastercard.",
+      "url": "https://www.doctorofcredit.com/citi-aadvantage-business-card-revamp-coming-january-2027-150-annual-fee-new-benefits/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T16:39:14Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "09f84189c1eb1a2e",
+      "title": "Citi AAdvantage Platinum Select Card Revamp Coming January 2027 ($150 Annual Fee, New Benefits)",
+      "summary": "Citi is revamping their AAdvantage Platinum Select World Elite Mastercard.",
+      "url": "https://www.doctorofcredit.com/citi-aadvantage-platinum-select-card-revamp-coming-january-2027-150-annual-fee-new-benefits/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T16:26:55Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "b8ed7c7009455786",
+      "title": "Bilt Will Stop Awarding You 4% Bilt Cash Earning At Card Renewal\u2014Unless You Change This App Setting",
+      "summary": "Bilt will automatically move your card to its new rewards model at renewal, ending 4% Bilt Cash earning unless you choose to keep it.",
+      "url": "https://viewfromthewing.com/bilt-will-stop-awarding-you-4-bilt-cash-earning-at-card-renewal-unless-you-change-this-app-setting/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/06/bilt-palladium-card.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T16:01:07Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "04bf40bd654f7026",
+      "title": "Citi AAdvantage Business 75,000 American Airlines Miles Signup Bonus Offer",
+      "summary": "CitiBusiness American Airlines Platinum Select World Elite Mastercard is offering 75,000 American Airlines miles after you spend $5,000 wit\u2026",
+      "url": "https://www.doctorofcredit.com/citi-american-airlines-75000-miles-business-offer-3/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T15:52:21Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "fe6e92b44c038697",
+      "title": "Newegg.com: $600 in Delta Airlines eGiftcards For $550",
+      "summary": "Newegg.com is selling $550 Delta Airlines e-gift card with a bonus $50 Delta Airlines e-gift card.",
+      "url": "https://www.doctorofcredit.com/newegg-com-600-in-delta-airlines-egiftcards-for-550/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T15:45:39Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "5f19ad959c822be2",
+      "title": "Buy Alaska Atmos Rewards Points With 90% Bonus (1.98 Cents Each): Worth It?",
+      "summary": "Atmos Rewards is offering up to a 90% bonus on purchased points through November 7, 2026, which works out to 1.98 cents each.",
+      "url": "https://onemileatatime.com/deals/buy-alaska-atmos-rewards-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/09/Starlux-Business-Class-A350-13.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T14:35:17Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "a1d75dcbeb561914",
+      "title": "Chase Southwest Personal Cards: 80,000 \u2013 90,000 Points Signup Bonus",
+      "summary": "Chase is offering increased signup bonuses on the Southwest Plus (80,000), Premier (85,000), and Priority (90,000) cards: Priority gets 90,\u2026",
+      "url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-27T14:32:16Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "f22f72d2a44056bd",
+      "title": "Not a Great Combo: British Airways Increases Elite Requirements and Slashes Tier Points Earnings",
+      "summary": "British Airways will increase the number of tier points needed for its Silver and Gold status tiers for next year's qualifying period, and\u2026",
+      "url": "https://awardwallet.com/news/british-airways-club/tier-point-2027-changes/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-10-27T14:00:46Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "e942bd9285fd5546",
+      "title": "AT&T customers can earn 5K American Airlines miles just for linking accounts",
+      "summary": "American Airlines has had a partnership with AT&T for a little while.",
+      "url": "https://frequentmiler.com/att-customers-can-earn-5k-american-airlines-miles-just-for-linking-accounts/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/American-Airlines-ATandT-promotion-5000-bonus-miles.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T13:45:46Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "a3a0e476eeb686b5",
+      "title": "Bilt switching up rewards structure, making other changes in 2027 \u2014 here's what you need to know",
+      "summary": "Bilt is overhauling many aspects of its program in 2027, including a new expiration timeline for Bilt Cash and a revised set of credit card\u2026",
+      "url": "https://thepointsguy.com/news/bilt-changes-2027/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/01/Bilt-Q1-26-Bilt-Obsidian_market-1.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:18:52Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "102d4da8c01c903c",
+      "title": "Citi and American Airlines refresh 2 credit cards with new perks, higher annual fees",
+      "summary": "Citi and American Airlines are refreshing two credit cards with new benefits and higher annual fees.",
+      "url": "https://thepointsguy.com/news/citi-aadvantage-platinum-select-business-refresh/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/AA-787-9p.jpeg",
+      "category": "Tips",
+      "publishedAt": "2026-10-27T13:05:41Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "2753241a21b5d6ab",
+      "title": "American Raises Citi Platinum Select Fee To $150\u2014Adds Walmart+ Benefit And Travel Protections",
+      "summary": "American Airlines and Citi are raising the annual fee on their primary consumer AAdvantage card from $99 to $150, adding Walmart+, a $100 i\u2026",
+      "url": "https://viewfromthewing.com/american-raises-citi-platinum-select-fee-to-150-adds-walmart-benefit-and-travel-protections/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2022/12/american-coach.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:02:25Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "14822ece08ff217e",
+      "title": "American\u2019s Citibank Business Card Annual Fee Goes To $150\u2014But Two People Can Earn Elite Status From One Card\u2019s Spending",
+      "summary": "American Airlines and Citi are raising the annual fee on the Citi / AAdvantage Business card from $99 to $150, adding travel insurance, an\u2026",
+      "url": "https://viewfromthewing.com/americans-citibank-business-card-annual-fee-goes-to-150-but-two-people-can-earn-elite-status-from-one-cards-spending/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2019/04/a321neo.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-27T13:01:02Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "5a9497f6e50ec5ec",
+      "title": "Bilt Introduces Daily Rewards With A Chance At $1 Million For A Home\u2014And Gives You More Time To Spend Bilt Cash",
+      "summary": "Bilt is changing how members earn rewards in 2027, giving them longer to spend Bilt Cash and more freedom to choose their card benefits, wh\u2026",
+      "url": "https://viewfromthewing.com/bilt-introduces-daily-rewards-with-a-chance-at-1-million-for-a-home-and-gives-you-more-time-to-spend-bilt-cash/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/10/bilt-card-launch-party-2022.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:00:36Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "dc55506d8f3c4c80",
+      "title": "Citi Announces Refresh of 2 American Airlines Cards \u2014 Here\u2019s What\u2019s Changing",
+      "summary": "Beginning January 24, 2027, Citi\u00ae / AAdvantage\u00ae Platinum Select\u00ae World Elite Mastercard\u00ae and Citi\u00ae / AAdvantage Business\u2122 World Elite Maste\u2026",
+      "url": "https://awardwallet.com/news/american-aadvantage/aadvantage-card-changes-2027/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:00:34Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "956c752def3ac049",
+      "title": "Bilt Program Changes For 2027 Impact Bilt Cash, Credit Cards, & Hotel Redemptions",
+      "summary": "Bilt has announced program changes for 2027, including a new default housing earning rate, a new Bilt Cash expiration policy, and limits on\u2026",
+      "url": "https://onemileatatime.com/news/bilt-program-changes-2027-bilt-cash-credit-cards-hotel-redemptions/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/03/Airelles-Versailles-Le-Grand-Controle-104.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:00:29Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "48014c84ea6deb08",
+      "title": "Recap: Hyatt Point Transfers, Extended Citi Benefit & More",
+      "summary": "Expedia Makes Flying Easier with One Key Benefits: Lounge Access During Delays, Less Time at Airport Security and Money Back When Fares Dro\u2026",
+      "url": "https://www.doctorofcredit.com/recap-hyatt-point-transfers-extended-citi-benefit-more/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-10-27T13:00:23Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "4e18285dfa2a1b8c",
+      "title": "Citi AAdvantage Platinum & Business Card Changes: Higher Fee, New Benefits",
+      "summary": "Citi and American are raising the Platinum and Business AAdvantage cards' annual fees from $99 to $150, while adding an inflight credit, Gl\u2026",
+      "url": "https://onemileatatime.com/news/citi-aadvantage-platinum-business-card-changes/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/07/New-American-Business-Class-787-10.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T13:00:05Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "42aacb2392e56cae",
+      "title": "(Update: Soft landing too?) SAS EuroBonus paid status match from many programs (including Southwest Companion Pass)",
+      "summary": "Update 10/27/26: Reader Daniel reached out to share some potentially interesting information.",
+      "url": "https://frequentmiler.com/sas-eurobonus-paid-status-match-from-many-programs-including-southwest-companion-pass/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/SAS-status-match-challenge.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-10-27T12:45:03Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "c1b343460fd2f5b6",
       "title": "Capital One Transfer Bonus: 20% To British Airways Avios (1:1.2)",
@@ -290,216 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-25T23:51:41Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "79cd9f6e7dfe4185",
-      "title": "(Update) Awesome news: Hyatt points transfers can be done online",
-      "summary": "Update 10/25/26: We hadn\u2019t updated this post regarding the restrictions on Hyatt points transfers going forward, so here are the new rules\u2026",
-      "url": "https://frequentmiler.com/awesome-news-hyatt-points-transfers-can-be-done-online-from-10-15-26/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/World-of-Hyatt-transfer-button.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T23:46:14Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "d77dc9f777929fce",
-      "title": "[Targeted] Gemini: Get $30-$760 On Prediction Markets (Requires $250-$20,000 In Trades)",
-      "summary": "Gemini is offering a bonus of 50% when you use Gemini prediction markets through September 15 at 1:59 AM ET",
-      "url": "https://www.doctorofcredit.com/targeted-gemini-50-bonus-on-prediction-markets-up-to-50/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-25T23:35:10Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "60226e9a7cd22d43",
-      "title": "Transfer Citi ThankYou Points To Cathay Pacific With 10% Bonus: Worth It?",
-      "summary": "Citi ThankYou is offering a 10% transfer bonus to Cathay Pacific in the US.",
-      "url": "https://onemileatatime.com/deals/cathay-pacific-asia-miles-transfer-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/Cathay-Pacific-Aria-Suite-Business-Class-777-5.jpeg?width=1200&quality=75&height=911&aspect_ratio=1200%3A911",
-      "category": "Deals",
-      "publishedAt": "2026-10-25T23:29:34Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "c1fbb5070fb279b0",
-      "title": "Citi Adds $200 inKind Dining Credit To American Airlines Executive Card",
-      "summary": "Citi has added a $200 inKind dining credit to the Citi / AAdvantage Executive World Legend Mastercard.",
-      "url": "https://www.doctorofcredit.com/citi-adds-200-inkind-dining-credit-to-american-airlines-executive-card/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T23:12:50Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9c9258fd001b550c",
-      "title": "Alaska Atmos Rewards Ascent Card Review: Big Bonus, Great Benefits",
-      "summary": "The Atmos Rewards Ascent Card offers up to 80,000 points, a $99 companion fare, and perks like free checked bags for just a $95 annual fee.",
-      "url": "https://onemileatatime.com/reviews/credit-cards/bank-of-america/atmos-rewards-ascent-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2018/12/Qantas-787-Business-Class-3.jpg?width=1200&quality=75&height=800&aspect_ratio=3%3A2",
-      "category": "Tips",
-      "publishedAt": "2026-10-25T23:10:46Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "7206739d7d488bc0",
-      "title": "Citi Adds $200 In Annual Dining Credits To Its American Airlines Executive Card\u2014$100 Available Now",
-      "summary": "Citi\u2019s American Airlines AAdvantage Executive card is getting $200 in annual dining credits, with $100 available starting today at particip\u2026",
-      "url": "https://viewfromthewing.com/citi-adds-200-in-annual-dining-credits-to-its-american-airlines-executive-card-100-available-now/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/10/restaurant-bar.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T22:22:11Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "b0de61833d4c4c19",
-      "title": "Office Depot/OfficeMax: Buy $300+ Mastercard Gift Cards, Save $15",
-      "summary": "Office Depot and OfficeMax stores have returned with their profitable gift card deal on Mastercard gift cards.",
-      "url": "https://frequentmiler.com/office-depot-officemax-buy-300-mastercard-gift-cards-save-15/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/03/Mastercard-gift-card.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-25T21:45:01Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "45974168483de0a3",
-      "title": "78 Million Americans Switched Their Main Credit Card\u2014Banks May Pay You To Come Back",
-      "summary": "An estimated 78 million Americans changed their main credit card in two years\u2014and most switched to one they already had.",
-      "url": "https://viewfromthewing.com/78-million-americans-switched-their-main-credit-card-banks-may-pay-you-to-switch-back/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-25T21:04:01Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "1f2de47dbc071f9d",
-      "title": "Exclusive: Citi just added a delicious $200 perk to its premium American Airlines card",
-      "summary": "The Citi / AAdvantage Executive card is adding up to $200 in annual inKind dining credits, split into two $100 benefits each calendar year.",
-      "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-inkind-dining-credit/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/03/20240312_CLASSIFIED_United-Invite-Only-Restaurant_Newark-Airport_CNelson_63.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-25T20:00:59Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "0f5081d3fb190e88",
-      "title": "American Express Transfer Bonus: 35% To Marriott (1:1.35)",
-      "summary": "Some American Express members are being targeted for a 35% transfer bonus to Marriott.",
-      "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-35-to-marriott-11-35-2/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-25T19:50:28Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "cb3056c809fd2b73",
-      "title": "Citi ThankYou Points 10% Transfer Bonus To Cathay Pacific Asia Miles (1:1.10)",
-      "summary": "Citi are offering a 10% transfer bonus when you transfer your Citi ThankYou points to Cathay Pacific Asia Miles program through November 14\u2026",
-      "url": "https://www.doctorofcredit.com/citi-thankyou-points-10-transfer-bonus-to-cathay-pacific-asia-miles-11-10/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-25T19:47:04Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "b785a5c24f31e550",
-      "title": "40X miles / 40% back at TripAdvisor via Capital One",
-      "summary": "TripAdvisor is the Top Deal of the Day at both Capital One Offers and Capital One Shopping today.",
-      "url": "https://frequentmiler.com/40x-miles-40-back-at-tripadvisor-via-capital-one/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/TripAdvisor-40X-via-Capital-One-Offers.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-25T19:45:40Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "fad18248b49f82b4",
-      "title": "Chase Sapphire Reserve $300 StubHub Credit: How To Activate and Use It",
-      "summary": "The revamped Chase Sapphire Reserve\u00ae card now comes with a $300 StubHub credit.",
-      "url": "https://awardwallet.com/credit-cards/chase-ultimate-rewards/sapphire-reserve-stubhub-credit/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-10-25T18:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "d98c6a8a89994305",
-      "title": "Safeway: Get 10x Points On Select Zift Giftcards (10/25-10/31)",
-      "summary": "Safeway has a J4U offer to get 10x points on $50+ purchases of Zift Zillions gift cards.",
-      "url": "https://www.doctorofcredit.com/safeway-get-12x-points-on-zift-zillions/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-25T17:00:21Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "07bf89531cda7961",
-      "title": "How Southwest\u2019s New 2027 Elite Status Compares To American, Delta And United",
-      "summary": "Southwest keeps elite seating benefits on its cheapest fares and adds unlimited Companion Pass to its new Platinum tier.",
-      "url": "https://viewfromthewing.com/how-southwests-new-elite-status-compares-to-american-delta-and-united/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/southwest-infinite-legroom-exit-row.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T15:58:11Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "b7a3d021de365e13",
-      "title": "(Update) Chase Sapphire & Freedom Cards Get 10x With Paze Checkout through 2026 (United, Shoprite, Dunkin, Etc.)",
-      "summary": "Chase added a new points 10x bonus when checking out with Paze on the Sapphire and Freedom card versions, through December 2026.",
-      "url": "https://www.doctorofcredit.com/chase-sapphire-freedom-cards-get-10x-with-paze-checkout-through-2026-united-newegg-shoprite-dunkin-etc/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T15:50:59Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "90cc4a487e6ab33e",
-      "title": "Chase/U.S. Bank Offers: Get 5-7% Back At Food Lion (Up To $7 Back)",
-      "summary": "Check your Citi Offers for the following deal: Get 3% cash back at Food Lion, up to $8 back.",
-      "url": "https://www.doctorofcredit.com/citi-offers-get-3-back-at-food-lion/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-25T15:40:18Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "b8898f4ac34fcfbf",
-      "title": "Amex Centurion Lounge Waitlist: How To Join the Queue Before You Arrive",
-      "summary": "Amex Centurion Lounges are synonymous with luxury and exclusivity, but in today's day and age, you can expect some overcrowding and long wa\u2026",
-      "url": "https://awardwallet.com/credit-cards/amex-membership-rewards/centurion-lounge-waitlist/",
-      "thumbnailUrl": null,
-      "category": "News",
-      "publishedAt": "2026-10-25T15:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "cf6fa24093278b32",
-      "title": "Southwest will open 11 airport lounges starting in 2027: Here's what we know",
-      "summary": "Southwest Airlines is planning to open airport lounges beginning in 2027.",
-      "url": "https://thepointsguy.com/airline/southwest-airlines-airport-lounges/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/10/southwest-plane.jpg",
-      "category": "News",
-      "publishedAt": "2026-10-25T15:00:10Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "e7574566fcec2165",
-      "title": "Alaska Atmos Rewards Summit Card Review: My Favorite Airline Credit Card",
-      "summary": "A deep dive into the $395 Atmos Rewards Summit Card, covering its welcome bonus, 3x bonus categories, Global Companion Awards, and other pe\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/bank-of-america/atmos-rewards-summit-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/03/Hawaiian-Airlines-First-Class-787-12.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-10-25T14:34:31Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "a89a18ce12e81104",
-      "title": "Citi adds new transfer partner: Copa ConnectMiles",
-      "summary": "Right on the heels of Rove adding Copa, Citi has quietly done the same.",
-      "url": "https://frequentmiler.com/citi-adds-new-transfer-partner-copa-connectmiles/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Citi-ThankYou-Copa.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-10-25T13:38:13Z",
-      "source": "Frequent Miler"
     }
   ]
 }
