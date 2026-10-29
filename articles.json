@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-29T04:44:50Z",
+  "updatedAt": "2026-10-29T12:25:36Z",
   "articles": [
+    {
+      "id": "ab5caaa7e9895cec",
+      "title": "Hyatt\u2019s Biggest-Ever New York Hotel: 1,800-Room StandardX Times Square With Free-Fall Thrill Ride",
+      "summary": "Hyatt is bringing The StandardX to North America with a roughly 1,800-room Times Square hotel opening in 2028, complete with an enclosed fr\u2026",
+      "url": "https://onemileatatime.com/news/hyatt-biggest-ever-new-york-hotel-standardx-times-square-free-fall-thrill-ride/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/10/The-StandardX-Times-Square.jpg?width=1200&quality=75&height=906&aspect_ratio=200%3A151",
+      "category": "Tips",
+      "publishedAt": "2026-10-29T09:44:24Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "59cc2af486a3b5c4",
       "title": "Southwest Rapid Rewards Guide: Navigating a Reshaped Program",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-10-27T19:51:48Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "20b82d9cdb2b6b4e",
-      "title": "Air France KLM\u2019s $89 Card Offers 70,000 Miles\u2014And A Strategy For Cheaper Business Class And First Class Access",
-      "summary": "The bonus includes 100 status credits, and annual spending can add 160 more at the card anniversary.",
-      "url": "https://viewfromthewing.com/air-france-klms-89-card-offers-70000-miles-and-a-strategy-for-cheaper-business-class-and-first-class-access/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/03/20250321_095626.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-10-27T18:04:09Z",
-      "source": "View from the Wing"
     }
   ]
 }
