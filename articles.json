@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-28T22:16:58Z",
+  "updatedAt": "2026-10-29T04:44:50Z",
   "articles": [
+    {
+      "id": "59cc2af486a3b5c4",
+      "title": "Southwest Rapid Rewards Guide: Navigating a Reshaped Program",
+      "summary": "Southwest\u2019s loyalty program has long been a fan favorite thanks to perks like the Companion Pass, no change fees, and two free checked bags.",
+      "url": "https://awardwallet.com/airlines/southwest-rapid-rewards/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-10-28T23:51:43Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "10102b1d2b2e8904",
+      "title": "Rakuten: Earn $100/10K points when opening a Synchrony Bank High Yield Savings Account",
+      "summary": "Rakuten has an offer at the moment that will earn you an easy $100 cashback or 10,000 points (depending on what your earning preference is\u2026",
+      "url": "https://frequentmiler.com/rakuten-earn-100-10k-points-when-opening-a-synchrony-bank-high-yield-savings-account/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Rakuten-Synchrony-Bank-High-Yield-Savings-Account.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-10-28T23:45:59Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "837a4a76820dbb18",
+      "title": "Capital One Offers: Spend $20+, Get 1,000 Points/$10 At Many Retailers (Home Depot, Lowe\u2019s, eBay & More)",
+      "summary": "Capital One offers is offering $10/1,000 points back when you spend $20+ at select merchants including: Home Depot, Sam's Club, Chewy, Doll\u2026",
+      "url": "https://www.doctorofcredit.com/capital-one-offers-spend-20-get-1000-points-10-at-many-retailers-home-depot-more/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-10-28T23:24:20Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "8dc44f7c13c10402",
       "title": "A Complete Guide to the United MileagePlus Dining Program",
@@ -470,36 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-10-27T18:04:09Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "c45cdc430f13205e",
-      "title": "Chase IHG Premier: 180K Points + 10k Authorized User Bonus",
-      "summary": "Chase is offering the following bonus on the IHG Premier card",
-      "url": "https://www.doctorofcredit.com/chase-ihg-premier-180k-points-10k-authorized-user-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-10-27T18:00:03Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "476f0f936f992024",
-      "title": "American Airlines shopping portal referral promo: Earn up to 5,000 bonus miles",
-      "summary": "The American Airlines shopping portal is once again running a referral promotion to motivate you to encourage your friends and family membe\u2026",
-      "url": "https://frequentmiler.com/american-airlines-shopping-portal-referral-promo-earn-up-to-5000-bonus-miles/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/03/American-Airlines-shopping-portal-referral-promotion.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-10-27T17:46:18Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "07e5ad63e660a882",
-      "title": "Bilt is Revamping Credit Card Benefits for 2027 (Discontinuing 4% Bilt Cash for New Applicants & More)",
-      "summary": "Bilt announced today numerous changes to their credit card rewards program for 2027.",
-      "url": "https://www.doctorofcredit.com/bilt-revamps-credit-card-rewards-in-2027-discontinuing-4-bilt-cash-for-new-applicants-more/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-10-27T17:37:39Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
