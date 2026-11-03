@@ -1,6 +1,296 @@
 {
-  "updatedAt": "2026-11-03T13:45:01Z",
+  "updatedAt": "2026-11-03T22:57:49Z",
   "articles": [
+    {
+      "id": "769e59bfb50fd537",
+      "title": "Capital One Travel: Save on Alaska Airlines & Aer Lingus flights",
+      "summary": "Capital One Travel\u2014the travel booking portal for Capital One cardholders\u2014has targeted offers giving savings on travel.",
+      "url": "https://frequentmiler.com/capital-one-travel-save-on-alaska-airlines-aer-lingus-flights/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Capital-One-Travel-offers.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T22:45:55Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "3877affa5877107a",
+      "title": "Wyndham Rewards Launches Homes & Havens Vacation Rentals \u2014 From 15K Points Per Bedroom",
+      "summary": "Wyndham Hotels is expanding with the addition of a new collection of vacation rentals called Homes & Havens.",
+      "url": "https://awardwallet.com/hotels/wyndham-rewards/homes-and-havens/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-11-03T22:00:41Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "448f5f1cc93eed4a",
+      "title": "Alaska Atmos credit cards: Earn 80K-100K bonus points",
+      "summary": "Update 11/3/26: There\u2019s now an 85K welcome offer available on the Atmos\u2122 Rewards Visa Signature\u00ae Business Card, higher than the otherwise p\u2026",
+      "url": "https://frequentmiler.com/increased-welcome-offers-on-all-three-alaska-atmos-credit-cards-earn-85k-100k-bonus-points/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/03/Alaska-Airlines-Atmos-Summit-100K-welcome-offer.png",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T21:45:31Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "f073ffe96dec093a",
+      "title": "Capital One Shopping: How it works and how to earn rewards",
+      "summary": "Learn how Capital One Shopping works, including how to use its browser extension, find deals, earn rewards and redeem them for gift cards.",
+      "url": "https://thepointsguy.com/loyalty-programs/capital-one-shopping/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/05/young-woman-holding-credit-card-and-using-laptop-computer_Kseniya-Ovchinnikova.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-03T21:00:49Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "414d23d35e2a5e9c",
+      "title": "Air France/KLM Amex Offer: Spend $1,500 & get $150 back",
+      "summary": "A new, targeted Air France/KLM Amex Offer appeared yesterday which is giving a $150 statement credit when spending $1,500 or more.",
+      "url": "https://frequentmiler.com/air-france-klm-amex-offer-spend-1500-get-150-back/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/KLM-airplane-Flying-Blue.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T20:45:13Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "d653d84387e5091c",
+      "title": "I\u2019ve earned top-tier status with Delta, United and American. But another airline may do it better",
+      "summary": "Top-tier elite status is largely similar among the Big Three U.S.",
+      "url": "https://thepointsguy.com/loyalty-programs/ive-earned-top-tier-status-with-delta-united-and-american-but-another-airline-may-do-it-better/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/05/20220505_Singapore-Airlines-A380-Business-Class_BStawski-10.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-03T20:42:17Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "3decf9cf0bc478bd",
+      "title": "(Update) Wells Fargo Premier $2,500 Bank or Investing Bonus (Requires $250k In Cash/Assets)",
+      "summary": "Get $2,500 if you open a Wells Fargo Premier relationship checking account or upgrade to that account.",
+      "url": "https://www.doctorofcredit.com/wells-fargo-premier-2500-bank-or-investing-bonus-requires-250000-in-cash-assets/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T20:15:37Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "5190c963369d6fda",
+      "title": "AmEx Offers: Monarch Money, Spend $69.99 & Get $50 Back",
+      "summary": "AmEx Offers: Get $50 back when spending $69.99 in one or more qualifying purchases on Monarch Money at monarch.com by 1/31/2027",
+      "url": "https://www.doctorofcredit.com/amex-offers-monarch-money-spend-69-99-get-50-back/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:58:57Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "db9779d0d4af0dfc",
+      "title": "AmEx Offers: BBC.com, Spend $49.99 & Get $49.99 Back",
+      "summary": "AmEx Offers: Get $49.99 statement credit after spending $49.99 or more online at bbc.com/subscribe by 12/31/2026",
+      "url": "https://www.doctorofcredit.com/amex-offers-bbc-com-spend-49-99-get-49-99-back/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:54:23Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "ad2798c03587347c",
+      "title": "Limited Time: Citi AAdvantage Business Card 75K Bonus Miles Offer (Double Dip Loyalty Points!)",
+      "summary": "The Citi AAdvantage Business Card is offering a limited time welcome bonus of 75,000 AAdvantage miles after $5,000 spend in five months, ma\u2026",
+      "url": "https://onemileatatime.com/deals/citi-aadvantage-business-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Etihad-First-Class-A380-104.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:53:37Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "cfaf4841716b2235",
+      "title": "(Now available via referrals) Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
+      "summary": "Update 11/3/26: These increased welcome offers are now available via referrals.",
+      "url": "https://frequentmiler.com/southwest-priority-and-premier-cards-increased-welcome-offers/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Chase-Southwest-credit-cards.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:45:38Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "2240f184c18daec0",
+      "title": "AmEx Offers: Best Buy, Spend $250 & Get $25 Statement Credit",
+      "summary": "Check your Amex cards: AmEx Offers $25 off $250 Best Buy and Bestbuy.com through 12/31",
+      "url": "https://www.doctorofcredit.com/amex-offers-best-buy-spend-250-get-25-statement-credit-3/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:00:26Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "53c354dce338c235",
+      "title": "These 6 credit card welcome offers are worth a look this November",
+      "summary": "Discover the best credit cards to apply for in November 2026, with top welcome bonuses and limited-time offers you won't want to miss.",
+      "url": "https://thepointsguy.com/credit-cards/best-credit-card-offers-this-month/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/Woman-sitting-outdoors-using-phone-and-holding-credit-card_-RgStudio.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T19:00:26Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "3f98c2691e421a6e",
+      "title": "Targeted Amex Offers for select Marriott luxury brands (JW Marriott, St Regis, Ritz-Carlton & EDITION)",
+      "summary": "Loads of new Amex Offers were launched yesterday, several of which are travel-related.",
+      "url": "https://frequentmiler.com/targeted-amex-offers-for-select-marriott-luxury-brands-jw-marriott-st-regis-ritz-carlton-edition/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2023/11/St-Regis-Atlanta-External-View.webp",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T18:45:51Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "015855707f12f7ac",
+      "title": "JetBlue Just Increased Checked Baggage Fees Yet Again \u2014 Here\u2019s How To Avoid Paying Them",
+      "summary": "JetBlue just raised baggage fees for the second time this year.",
+      "url": "https://awardwallet.com/airlines/jetblue-trueblue/jetblue-baggage-fees/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-03T18:21:52Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "a1d75dcbeb561914",
+      "title": "Chase Southwest Personal Cards: 80,000 \u2013 90,000 Points Signup Bonus (Referral Links Available)",
+      "summary": "Chase is offering increased signup bonuses on the Southwest Plus (80,000), Premier (85,000), and Priority (90,000) cards: Priority gets 90,\u2026",
+      "url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T17:30:16Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "3bc41c7d9e0c2b2f",
+      "title": "New 75,000 Mile Offer For The American Airlines Card That Lets Two People Earn Status From The Same Spending",
+      "summary": "The Citi AAdvantage Business card has a new limited-time offer of 75,000 bonus miles after $5,000 in purchases within the first five months.",
+      "url": "https://viewfromthewing.com/new-75000-mile-offer-for-the-american-airlines-card-that-lets-two-people-earn-status-from-the-same-spending/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/04/american-airlines-787-9-business-class-cabin-1.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-11-03T17:27:21Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "e71dad404be5d9e2",
+      "title": "Bank of America Atmos Alaska Airlines Business Card 85,000 Miles",
+      "summary": "Receive a sign up bonus of 85,000 miles after $5,000 spend on the Bank of America Alaska Airlines Atmos business card + companion fare",
+      "url": "https://www.doctorofcredit.com/bank-of-america-atmos-alaska-airlines-business-card-85000-miles/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T17:25:02Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "bae8a4b8baaaeba0",
+      "title": "American Airlines Passenger Stuck Overnight Couldn\u2019t Get A Hotel Voucher\u2014They Got A Credit Card Pitch Instead",
+      "summary": "An American Airlines passenger says they couldn't get a hotel voucher during a flight delay.",
+      "url": "https://viewfromthewing.com/american-airlines-passenger-stuck-overnight-couldnt-get-a-hotel-voucher-they-got-a-credit-card-pitch-instead/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/11/american-airlines-flight-attendant-selling-credit-cards.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T16:58:56Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "d57c4ee0d08aab5b",
+      "title": "Get a 40% bonus when buying Choice points (buy points for 0.74 cpp)",
+      "summary": "Choice Privileges has launched its latest points sale.",
+      "url": "https://frequentmiler.com/choice-privileges-points-sale/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Choice-Privileges-40-bonus-when-buying-points.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T16:45:58Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "949bb0c12411f4d2",
+      "title": "Highest-ever offer: Earn 75,000 miles with a Citi / AA Business card",
+      "summary": "Citi's AAdvantage credit card lineup comes with solid welcome bonus offers for more miles to use on American Airlines flights.",
+      "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/PHX-Planes-10.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T16:00:35Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "ecc3385730882536",
+      "title": "Bank of America Platinum Plus Business Card: 0% Intro APR and No Annual Fee",
+      "summary": "For business owners who need to carry a balance for a bit, the Bank of America Platinum Plus Business may be a card worth looking at.",
+      "url": "https://awardwallet.com/credit-cards/bank-of-america/bank-of-america-platinum-plus-business-card/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T16:00:05Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "bf7afae406db494b",
+      "title": "Hyatt Dining & Spa Awards: Are They Worth Redeeming Points For?",
+      "summary": "World of Hyatt lets you redeem points for dining and spa credit at up to 1.54 cents each.",
+      "url": "https://onemileatatime.com/guides/hyatt-dining-spa-awards/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/Park-Hyatt-Kuala-Lumpur-83.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-11-03T15:56:39Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "37c1bb4a0e2fd789",
+      "title": "Accor ALL Signature promo: Save 20% on subscription with promo code PREBLACK2026 (Cheap points + status)",
+      "summary": "In addition to its Voyager subscription plans, Accor has a range of other subscription plans called ALL Signature.",
+      "url": "https://frequentmiler.com/accor-all-signature-promo-save-20-on-subscription-with-promo-code-preblack2026-cheap-points-status/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Accor-ALL-Signature.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T15:45:50Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "dd92b354df72fe02",
+      "title": "Southwest Premier Business Card Review: Is The $149 Annual Fee Worth It?",
+      "summary": "The Southwest Premier Business Card has a $149 annual fee and a 60,000-point welcome bonus that currently counts toward Companion Pass.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/southwest-premier-business-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/09/Southwest-737-Flying.jpg?width=1200&quality=75&height=800&aspect_ratio=3%3A2",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T15:38:06Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "a7bf11302175bb17",
+      "title": "Oneworld Explains The Money Behind Your Lounge Access\u2014And Why Credit Cards Help Decide Where Airlines Fly",
+      "summary": "Oneworld\u2019s lounge economics reveal the challenge of getting competing airlines to deliver shared benefits\u2014and suggest the airline you fly m\u2026",
+      "url": "https://viewfromthewing.com/oneworld-explains-the-money-behind-your-lounge-access-and-why-credit-cards-help-decide-where-airlines-fly/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/09/oneworld-loyalty-summit.jpg",
+      "category": "News",
+      "publishedAt": "2026-11-03T15:04:41Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "2040576feb1bd09c",
+      "title": "Flying Blue Promo Rewards for November 2026: Save 25% on flights to/from Europe, China, Mauritius, & Kenya",
+      "summary": "With the start of a new month comes a fresh batch of Air France/KLM Flying Blue Promo Rewards.",
+      "url": "https://frequentmiler.com/flying-blue-promo-rewards-for-november-2026-save-25-on-flights-to-from-europe-china-mauritius-kenya/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Air-France-KLM-Flying-Blue-Promo-Rewards-November-2026.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T14:45:02Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "8577d705036ca1f0",
+      "title": "Hyatt New Hotels Bonus Offer: Earn Double Points per Stay at These 65 Properties",
+      "summary": "To incentivize World of Hyatt members to fill new hotels, Hyatt offers members double points for staying at new hotels within the first few\u2026",
+      "url": "https://awardwallet.com/hotels/world-of-hyatt/new-hotel-bonus/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-03T14:10:02Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "78c3208c1a7e6045",
+      "title": "Pay Over Time on eligible Amex cards will no longer be optional from 2/1/27",
+      "summary": "Traditionally, American Express issued two types of cards: charge cards and credit cards.",
+      "url": "https://frequentmiler.com/pay-over-time-on-eligible-amex-cards-will-no-longer-be-optional-from-2-1-27/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/American-Express-Pay-Over-Time-ending.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-03T13:45:03Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "1ca176a1aeaf80f6",
       "title": "Marriott Earnings Call: New Upgrade List Encourages Elites To Pay For Better Rooms\u2014But Puts Its Credit Card Cash Cow At Risk",
@@ -100,16 +390,6 @@
       "category": "Tips",
       "publishedAt": "2026-11-02T23:45:33Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "940eca8d10c927d0",
-      "title": "CVS: Buy $100 Zillions Giftcards, Get $20 ExtraBucks (Stack For More Savings)",
-      "summary": "CVS stores are offering $20 in ExtraBucks when you buy $100 Zillions gift cards.",
-      "url": "https://www.doctorofcredit.com/cvs-buy-100-zillions-giftcards-get-20-extrabucks-stack-for-more-savings/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T23:16:19Z",
-      "source": "Doctor of Credit"
     },
     {
       "id": "c444a47f5ff2cc67",
@@ -220,286 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-11-02T20:00:42Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "98a27d6a17274d8f",
-      "title": "American Express Transfer Bonus: 30% To Virgin Atlantic",
-      "summary": "Receive a 30% bonus when you transfer your American Express membership rewards points to Virgin Atlantic.",
-      "url": "https://www.doctorofcredit.com/american-express-transfer-bonus-30-to-virgin-atlantic-8/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T19:31:27Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "788c142fd37fcc79",
-      "title": "[Targeted] AmEx Offer: Lululemon, Spend $100+ & Receive $20 Statement Credit",
-      "summary": "Get a one-time $20 statement credit by using your enrolled card to spend a minimum of $100 in one or more transactions online at lululemon.\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-amex-offer-lululemon-spend-100-receive-20-statement-credit-3/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T19:20:33Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "3c95d3991aef2a2f",
-      "title": "Transfer Amex Membership Rewards Points to Virgin Atlantic Flying Club With a 30% Bonus",
-      "summary": "American Express just launched a new 30% transfer bonus to Virgin Atlantic Flying Club.",
-      "url": "https://awardwallet.com/news/amex-membership-rewards/virgin-atlantic-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T19:10:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "bd91c2c72c628e45",
-      "title": "Credit card transfer bonuses (November): 80% bonus to IHG, 35% to Marriott and more",
-      "summary": "Here's a look at all the current transfer bonuses involving major credit cards and airline and hotel loyalty programs.",
-      "url": "https://thepointsguy.com/loyalty-programs/current-transfer-bonuses/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/07/Person-handing-credit-card-over-to-pay-for-bill-at-restaurant_Oscar-Wong.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T19:00:47Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "2bfeff93f754f6a1",
-      "title": "Buy Choice Privileges Points With 40% Bonus (0.74 Cents Each): Worth It?",
-      "summary": "Choice Privileges is selling points with up to a 40% bonus through November 26, which works out to as little as 0.74 cents each.",
-      "url": "https://onemileatatime.com/deals/buy-choice-privileges-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/10/The-Wigman-Arizona.jpeg?width=1200&quality=75&height=763&aspect_ratio=1200%3A763",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T18:51:01Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "a7587901e4aa0d03",
-      "title": "Copa added as new Capital One transfer partner (2:1.5), 30% launch transfer bonus",
-      "summary": "Capital One has added Copa Airlines Connect Miles as a brand-new transfer partner.",
-      "url": "https://frequentmiler.com/copa-added-as-new-capital-one-transfer-partner-21-5-30-launch-transfer-bonus/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/chrome_rl96a1K5TP.png",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T18:45:35Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "93353aeb62462e71",
-      "title": "Chase Offers: Save 10% on Lyft, Up To $10 Back",
-      "summary": "Check your Bank Amerideals/Chase Offers: Earn 10% cash back on your Lyft purchase, with a $3.00 cash back maximum.",
-      "url": "https://www.doctorofcredit.com/chase-offers-bofa-save-10-on-lyft-max-3-cashback/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T18:40:45Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "bd30de1f0144bc5e",
-      "title": "Buy Avios With up to a 50% Discount (Best-Ever 1.09\u00a2 Each) \u2014 Plus Earn 10% Tier Points",
-      "summary": "Finnair Plus is offering a 50% discount on Avios purchases, letting members buy Avios for as little as 1.09\u00a2 each.",
-      "url": "https://awardwallet.com/airlines/buy-finnair-points/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T18:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "95b1613ecdb2c4a3",
-      "title": "Are Authorized Users Eligible For Credit Card Bonuses?",
-      "summary": "If you're an authorized user on someone else's credit card, can you still apply as the primary cardmember and earn the welcome bonus?",
-      "url": "https://onemileatatime.com/insights/authorized-user-eligible-credit-card-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2022/05/Waldorf-Astoria-Maldives-72.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T17:29:30Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "6328ff73e1dcc329",
-      "title": "Buy Choice Privileges Points With a 40% Bonus (0.74\u00a2 Each)",
-      "summary": "Choice Privileges is running a promotion to buy points through November 26, 2026.",
-      "url": "https://awardwallet.com/hotels/choice-privileges/buy-choice-points/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T17:22:43Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "23005f359cbbf73d",
-      "title": "30% transfer bonus from Chase Ultimate Rewards to Wyndham Rewards",
-      "summary": "Earlier this year, Chase added Wyndham Rewards as a travel partner.",
-      "url": "https://frequentmiler.com/30-transfer-bonus-from-chase-ultimate-rewards-to-wyndham-rewards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/10/clubwyndham-at-waikiki-beach-walk.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T17:08:48Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "6ad6cb4b17f106e0",
-      "title": "10 ways to use points and miles for a fabulous trip to London",
-      "summary": "Top strategies for redeeming points and miles for airline tickets and hotel reservations in London, plus tips for using credit card benefit\u2026",
-      "url": "https://thepointsguy.com/travel/use-points-and-miles-travel-to-london/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2019/06/GettyImages-648477278.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-02T17:00:50Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "37f2dba420c572ba",
-      "title": "Capital One Adds New Airline Partner With 30% Bonus\u2014Book Emirates Business Class Without Fuel Surcharges",
-      "summary": "All of a sudden Panamanian airline Copa is taking U.S.",
-      "url": "https://viewfromthewing.com/capital-one-adds-new-airline-partner-with-30-bonus-book-emirates-business-class-without-fuel-surcharges/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/08/emirates-business.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T16:26:07Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "ba0d9e64461ed824",
-      "title": "Capital One Offers: How to earn cash back and rewards when you shop",
-      "summary": "Learn how to find and use Capital One Offers to earn extra rewards on eligible purchases, plus important tips to know before shopping.",
-      "url": "https://thepointsguy.com/credit-cards/capital-one-offers/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/08/Young-woman-holding-credit-card-while-using-smartphone-outside-on-bench_South_agency.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-02T16:00:55Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "f880dc437a6b39c2",
-      "title": "One Month Only: Transfer United MileagePlus Miles to Marriott Bonvoy Points With a 20% Bonus",
-      "summary": "Throughout the rest of November, United and Marriott\u2019s RewardsPlus partnership will be a little more rewarding than usual.",
-      "url": "https://awardwallet.com/news/united-mileageplus/marriott-bonvoy-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T16:00:35Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "b3ad89770d4f1daf",
-      "title": "Get a 30% bonus when transferring Chase Ultimate Rewards to Avios programs (BA, Iberia, & Aer Lingus)",
-      "summary": "Chase has launched four new transfer bonuses today, although three of them are \u2013 for all intents and purposes \u2013 a single type of bonus.",
-      "url": "https://frequentmiler.com/get-a-30-bonus-when-transferring-chase-ultimate-rewards-to-avios-programs-ba-iberia-aer-lingus/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/10/Chase-Ultimate-Rewards-Avios-30-transfer-bonus-British-Airways-Iberia-Aer-LINGUS.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T15:45:50Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "9f9699e8519ecf87",
-      "title": "The 4 Amex cards I\u2019d use to earn Membership Rewards points faster",
-      "summary": "See which Amex cards can help you maximize Membership Rewards points on groceries, flights and business spending \u2014 and how each fits into y\u2026",
-      "url": "https://thepointsguy.com/credit-cards/amex-cards-maximize-points/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/05/20260518_Most-Costly-Travel-Scams-8.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-02T15:04:24Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "5a6f989d92662cad",
-      "title": "20% transfer bonus to Air France / KLM Flying Blue from Capital One",
-      "summary": "Capital One is offering a 20% transfer bonus to Air France / KLM Flying Blue through 11/30/26.",
-      "url": "https://frequentmiler.com/20-transfer-bonus-to-air-france-klm-flying-blue-from-capital-one/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/05/Air-France-KLM-Flying-Blue.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T14:57:07Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "c977228067a1684e",
-      "title": "Transfer Amex Points To Virgin Atlantic Flying Club With 30% Bonus: Worth It?",
-      "summary": "Amex Membership Rewards has launched a 30% transfer bonus to Virgin Atlantic Flying Club through November 30, 2026.",
-      "url": "https://onemileatatime.com/deals/amex-virgin-atlantic-transfer-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/03/Virgin-Atlantic-Upper-Class-A330neo-23.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T14:44:35Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "c591c51ab0de00d8",
-      "title": "Earn Up to 17,500 Bonus Miles with Airline Shopping Portal Promotions",
-      "summary": "Airline shopping portal promotions are a great way to earn extra miles for your next flight.",
-      "url": "https://awardwallet.com/news/airlines/shopping-portal-bonuses/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T14:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "6ccdb1d20ffa726d",
-      "title": "Best Posts Last Week: 100% Off UberEats, $475 Citi Checking & 90k Southwest Offer",
-      "summary": "Chase is offering 80,000 \u2013 90,000 points on personal Southwest cards.",
-      "url": "https://www.doctorofcredit.com/best-posts-last-week-100-off-ubereats-475-citi-checking-90k-southwest-offer/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T13:45:23Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "2641d2f5b5119e1c",
-      "title": "Airline Passengers Are Getting Scam Emails With Real Confirmation Numbers\u2014Some Frontier Customers Are Entering Credit Card Details",
-      "summary": "Frontier Airlines passengers are reporting emails from scammers using their real flight details and confirmation numbers, promising refunds\u2026",
-      "url": "https://viewfromthewing.com/airline-passengers-are-getting-scam-emails-with-real-confirmation-numbers-some-frontier-customers-are-entering-credit-card-details/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/06/frontier-airlines.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-02T13:04:42Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "221107c1c037bcc6",
-      "title": "Save On Etihad Flights With Amex Offers (Targeted)",
-      "summary": "A new targeted Amex Offers deal gives a $200 statement credit when you spend $1,000+ on Etihad flights by December 31, 2026.",
-      "url": "https://onemileatatime.com/deals/etihad-amex-offers/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/11/Etihad-First-Class-A321LR-5.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T12:07:49Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "a68338239a17c674",
-      "title": "Flying Blue Promo Rewards: Fly U.S.-Europe From Just 18,750 Miles or 45k Miles in Business Class!",
-      "summary": "Flying Blue Promo Rewards are back for November 2026!",
-      "url": "https://awardwallet.com/airlines/flying-blue/promo-rewards/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T12:00:03Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "5fad20b7d445f777",
-      "title": "Save On Air France-KLM Flights With Amex Offers (Targeted)",
-      "summary": "A new targeted Amex Offers deal gives you a $250 statement credit when you spend $2,500+ on Air France-KLM flights, though it's less lucrat\u2026",
-      "url": "https://onemileatatime.com/deals/air-france-klm-amex-offers/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2020/07/Air-France-787.jpg?width=1200&quality=75&height=886&aspect_ratio=600%3A443",
-      "category": "Deals",
-      "publishedAt": "2026-11-02T11:03:24Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "e0fc5ae24ac1e7a3",
-      "title": "Is airline elite status still worth it?",
-      "summary": "United Airlines and Southwest Airlines overhauled their loyalty programs, and status is becoming more about spending than flying.",
-      "url": "https://thepointsguy.com/news/is-airline-elite-status-still-worth-it/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/10/airlines-LGA.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-02T11:00:29Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "a782d5f76b9385c6",
-      "title": "Discover: Earn 15% Cashback On Capital One Travel Purchases",
-      "summary": "Discover is offering cardholders 15% cashback on Capital One travel purchases (hotel or vacation rental) up to $200 back.",
-      "url": "https://www.doctorofcredit.com/discover-earn-15-cashback-on-capital-one-travel-purchases/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T01:22:38Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "f8a4fceb938266a8",
-      "title": "[Targeted] Venmo Credit Card: Double Cashback On All Purchases",
-      "summary": "Venmo is offering an double cash back on all purchases.",
-      "url": "https://www.doctorofcredit.com/targeted-venmo-credit-card-double-cashback-on-all-purchases/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-02T01:16:31Z",
-      "source": "Doctor of Credit"
     }
   ]
 }
