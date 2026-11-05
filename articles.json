@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-04T23:17:44Z",
+  "updatedAt": "2026-11-05T05:31:41Z",
   "articles": [
+    {
+      "id": "63f0e96f6cd5d993",
+      "title": "Wyndham Rewards Insider: Is this $95 per year subscription worth it?",
+      "summary": "Back in October 2025, Wyndham launched a new feature as part of its loyalty program called Wyndham Rewards Insider.",
+      "url": "https://frequentmiler.com/wyndham-rewards-insider/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/10/Wyndham-Rewards-Insider-subscription.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-05T02:45:26Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "106ddd0ccb40dd0f",
+      "title": "SimplyMiles: Earn 4X AAdvantage miles + 4X Loyalty Points at Stop & Shop",
+      "summary": "SimplyMiles has a new card-linked offer for purchases at Stop & Shop, offering both 4X American Airlines AAdvantage miles + 4X Loyalty Poin\u2026",
+      "url": "https://frequentmiler.com/simplymiles-earn-4x-aadvantage-miles-4x-loyalty-points-at-stop-shop/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/SimplyMiles-Stop-Shop.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-05T00:45:33Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "e59d9d30dfbd4a4b",
+      "title": "Citi Strata Elite vs. Amex Platinum: Better Rewards or Better Travel Perks?",
+      "summary": "The Citi Strata Elite and the Platinum Card from American Express are incredible cards, but which one is best for your wallet?",
+      "url": "https://awardwallet.com/credit-cards/citi-strata-elite-vs-amex-platinum/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-04T23:49:28Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "57b92356432df866",
       "title": "[Targeted] AmEx Offer: Hen House Market, Spend $100+ & Receive $20 Statement Credit",
@@ -97,7 +127,7 @@
       "summary": "The Amex Gold Card earns 4x Membership Rewards points on dining and U.S.",
       "url": "https://onemileatatime.com/reviews/credit-cards/american-express/amex-gold-card/",
       "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/08/Solaz-Los-Cabos-81.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
+      "category": "Tips",
       "publishedAt": "2026-11-04T19:50:32Z",
       "source": "One Mile at a Time"
     },
@@ -470,36 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-03T19:58:57Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "db9779d0d4af0dfc",
-      "title": "AmEx Offers: BBC.com, Spend $49.99 & Get $49.99 Back",
-      "summary": "AmEx Offers: Get $49.99 statement credit after spending $49.99 or more online at bbc.com/subscribe by 12/31/2026",
-      "url": "https://www.doctorofcredit.com/amex-offers-bbc-com-spend-49-99-get-49-99-back/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-03T19:54:23Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "ad2798c03587347c",
-      "title": "Limited Time: Citi AAdvantage Business Card 75K Bonus Miles Offer (Double Dip Loyalty Points!)",
-      "summary": "The Citi AAdvantage Business Card is offering a limited time welcome bonus of 75,000 AAdvantage miles after $5,000 spend in five months, ma\u2026",
-      "url": "https://onemileatatime.com/deals/citi-aadvantage-business-card-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/12/Etihad-First-Class-A380-104.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-03T19:53:37Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "cfaf4841716b2235",
-      "title": "(Now available via referrals) Southwest Priority and Premier cards: Increased welcome offers of up to 90K points",
-      "summary": "Update 11/3/26: These increased welcome offers are now available via referrals.",
-      "url": "https://frequentmiler.com/southwest-priority-and-premier-cards-increased-welcome-offers/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/04/Chase-Southwest-credit-cards.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-03T19:45:38Z",
-      "source": "Frequent Miler"
     }
   ]
 }
