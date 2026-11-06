@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-06T05:29:46Z",
+  "updatedAt": "2026-11-06T13:51:25Z",
   "articles": [
+    {
+      "id": "b8702cb1470b69f9",
+      "title": "How To Combine Hilton Honors Points Between Accounts For Free",
+      "summary": "Hilton Honors has arguably the most generous policy for combining points between members.",
+      "url": "https://onemileatatime.com/guides/combine-hilton-honors-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/03/Conrad-Bora-Bora-18.jpg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-11-06T13:02:22Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "d221d89dbe46e993",
+      "title": "World of Hyatt Card Limited Time Bonus Offer: Earn Four Free Night Awards",
+      "summary": "The World of Hyatt Credit Card is offering four Category 1-4 free night awards after $5,000 in spending within three months.",
+      "url": "https://onemileatatime.com/deals/world-of-hyatt-card-bonus/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/10/Alila-Napa-Valley-85.jpeg?width=1200&quality=75&height=922&aspect_ratio=600%3A461",
+      "category": "Deals",
+      "publishedAt": "2026-11-06T12:20:37Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "2d5d9ffff22973a2",
       "title": "Shopback: Try ExpressVPN & Get 120% Back; $42 Moneymaker & 30-Day Money Back Guarantee",
@@ -27,7 +47,7 @@
       "summary": "Now is a fantastic time to apply for a co-branded Hyatt credit card.",
       "url": "https://awardwallet.com/credit-cards/world-of-hyatt/hyatt-credit-card-offers/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-11-06T02:06:18Z",
       "source": "AwardWallet"
     },
@@ -287,7 +307,7 @@
       "summary": "Lyft's new membership program earns 8% back in credits on eligible rides, and customers who get DoorDash DashPass through an eligible Chase\u2026",
       "url": "https://viewfromthewing.com/lyft-launches-8-ride-rewards-free-with-chase-dashpass-but-airport-discounts-and-priority-pickup-perk-go-away/",
       "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/11/image1.jpg",
-      "category": "Card Updates",
+      "category": "Deals",
       "publishedAt": "2026-11-05T15:22:29Z",
       "source": "View from the Wing"
     },
@@ -320,16 +340,6 @@
       "category": "Tips",
       "publishedAt": "2026-11-05T14:31:08Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "87ff3b172ede4287",
-      "title": "Chase Adds 10,000 Vacation Homes To The Edit In 2027\u2014Use Your Hotel Credits, But No Points Boost",
-      "summary": "Chase is adding more than 10,000 vacation homes to The Edit starting January 1, 2027.",
-      "url": "https://viewfromthewing.com/chase-adds-10000-vacation-homes-to-the-edit-in-2027-use-your-hotel-credits-but-no-points-boost/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2023/10/balconyview.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-05T14:00:42Z",
-      "source": "View from the Wing"
     },
     {
       "id": "fa37309903dd16b4",
@@ -490,16 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-04T19:46:39Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "26471de8cce2eee5",
-      "title": "Southwest\u2019s New Platinum Status Adds Too Little\u201410 Ways Rapid Rewards Should Fix Its New Program",
-      "summary": "Southwest Airlines is adding Platinum status to Rapid Rewards, but someone who already has A-List Preferred and Companion Pass won't get mu\u2026",
-      "url": "https://viewfromthewing.com/southwests-new-platinum-status-adds-too-little-10-ways-rapid-rewards-should-fix-its-new-program/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/05/southwest-infinite-legroom-exit-row.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-04T19:34:18Z",
-      "source": "View from the Wing"
     }
   ]
 }
