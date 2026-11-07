@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-06T22:46:26Z",
+  "updatedAt": "2026-11-07T04:58:12Z",
   "articles": [
+    {
+      "id": "17b7de3ecee596a6",
+      "title": "Current Amex Offers",
+      "summary": "This post is designed to show current Amex Offers.",
+      "url": "https://frequentmiler.com/current-amex-offers/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/08/Amex-Offers-Tablet.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-07T01:45:31Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "af38f09e9a238848",
+      "title": "Atmos Rewards Member Days / Global Getaways: Europe from 25K one-way, Asia from 20K, Hawai\u2019i from 11.5K",
+      "summary": "The latest set of Atmos Rewards Global Getaways is out, with awards to Hawai\u2019i starting at 1.5K one-way, flights to Italy starting at 25K,\u2026",
+      "url": "https://frequentmiler.com/atmos-rewards-global-getaways-discount-international-awards/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/10/Global-Getaways-November-26.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-07T00:45:59Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "83c59792a4597e60",
+      "title": "IHG Elite Status Explained: Tiers, Benefits, and Fast-Track Shortcuts",
+      "summary": "IHG elite status grants valuable perks like bonus points, complimentary upgrades, and a welcome amenity during each stay.",
+      "url": "https://awardwallet.com/hotels/ihg-one-rewards/ihg-elite-status/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-06T23:51:47Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "eccdc90dc7113ae5",
+      "title": "Buy points cheap, get elite\u2026 via superstacking | Frequent Miler on the Air Ep382 | 11-6-26",
+      "summary": "On today\u2019s episode, we talk about a hidden Bank of America Rewards benefit, Wyndham tiptoeing into luxury, and multiple ways to buy points\u2026",
+      "url": "https://frequentmiler.com/buy-points-cheap-get-elite-via-superstacking-frequent-miler-on-the-air-ep382-11-6-26/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Buy-points-cheap-get-elite.-via-superstacking.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-06T23:45:42Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "2047a3bcca63ca40",
+      "title": "When Is An Airport Lounge Visit Not Worth It? Here\u2019s How I Decide\u2026",
+      "summary": "Airport lounges used to be a quiet escape from the terminal.",
+      "url": "https://onemileatatime.com/insights/airport-lounge-not-worth-it/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/02/Air-Canada-Maple-Leaf-Lounge-Toronto-44.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "News",
+      "publishedAt": "2026-11-06T23:11:09Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "e54f8813e80855ed",
+      "title": "I Went Dumpster Diving At Wendy\u2019s And Bought $100,000 In Stickers\u2014All For Airline Miles",
+      "summary": "How to earn 100,000 credit card points for \u201czero dollars\u201d: buy 100 bags of dog food, type a chicken sound into your bank account, download\u2026",
+      "url": "https://viewfromthewing.com/i-went-dumpster-diving-at-wendys-and-bought-100000-in-stickers-all-for-airline-miles/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/11/jecAh.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-06T23:06:45Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "7cfc8cbda00431c0",
+      "title": "[Targeted] AmEx Offers: Quill.com, Spend $100+ & Receive $20 Statement Credit",
+      "summary": "Get a one-time $20 statement credit by using your enrolled eligible Card to spend a minimum of $100 in one or more qualifying purchases onl\u2026",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offers-quill-com-spend-100-receive-20-statement-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-06T23:06:25Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "69c2b9f4ee1b7754",
+      "title": "Southwest Airlines Amex Offer: $60 back after spending $300+ on flights (targeted)",
+      "summary": "Here\u2019s something we don\u2019t see every day: an Amex Offer for Southwest Airlines.",
+      "url": "https://frequentmiler.com/southwest-airlines-amex-offer-60-back-after-spending-300-on-flights-targeted/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Southwest-Amex-Offer-2026.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-06T22:45:25Z",
+      "source": "Frequent Miler"
+    },
     {
       "id": "5fe987ee9dfc2739",
       "title": "$200 Amazon Gift Card upon approval for Prime Visa",
@@ -127,7 +207,7 @@
       "summary": "The Sapphire Reserve for Business and Capital One Venture X Business both offer valuable rewards and premium travel perks.",
       "url": "https://awardwallet.com/credit-cards/venture-x-business-vs-sapphire-reserve-business/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-11-06T18:00:33Z",
       "source": "AwardWallet"
     },
@@ -420,86 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-11-05T21:38:47Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "2ce55019ddf3cba4",
-      "title": "Earn 10X American Airlines Miles on Red Cross Donations",
-      "summary": "American Airlines is partnering with the American Red Cross to support its critical mission.",
-      "url": "https://awardwallet.com/news/american-aadvantage/red-cross-donations/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-11-05T21:10:02Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "dde13d569c2e4fbd",
-      "title": "Chase Hyatt Credit Card: 4 Free Night Certificates (Category 1-4)",
-      "summary": "Chase is offering a bonus four free night certificates, good on category 1-4 properties when you spend $5,000 within the first three months\u2026",
-      "url": "https://www.doctorofcredit.com/chase-hyatt-credit-card-4-free-night-certificates-category-1-4/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-05T20:53:45Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "7d7c1213e8e76872",
-      "title": "30X miles / 40% back at Viator with Capital One Offers / Capital One Shopping (today only)",
-      "summary": "Today\u2019s Capital One Shopping and Capital One offer Top Deal of the Day is for Viator.",
-      "url": "https://frequentmiler.com/30x-miles-40-back-at-viator-with-capital-one-offers-capital-one-shopping-today-only/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Capital-One-Viator.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-05T20:45:45Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "028edb4c5797b85a",
-      "title": "AmEx Offers: Amazon, Spend $150 and Get 1,200 Membership Rewards Points (Can Be Done 3x)",
-      "summary": "AmEx Offers: Spend $150 on Amazon and get 1,200 bonus Membership Rewards points.",
-      "url": "https://www.doctorofcredit.com/amex-offers-amazon-spend-150-and-get-1200-membership-rewards-points-can-be-done-3x/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-05T20:09:09Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9a2d43ee424f8367",
-      "title": "How to earn IHG One Rewards points",
-      "summary": "Learn how to earn IHG One Rewards points through hotel stays, credit cards, promotions, dining and more, plus which points count toward eli\u2026",
-      "url": "https://thepointsguy.com/loyalty-programs/earn-points-ihg-rewards-club/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/09/20220926_INTERCONTINENTAL-PHUKET_KGENTER_43.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-05T20:00:05Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "bf38db9d93fce2c3",
-      "title": "Chase Marriott Bonvoy Boundless 200,000 Points + $100  Airfare Credit",
-      "summary": "Signup for the Chase Marriott Bonvoy Boundless card and 200,000 points when you spend $3,000 within the first three months.",
-      "url": "https://www.doctorofcredit.com/chase-marriott-bonvoy-boundless-200000-points-100-airfare-credit/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-05T19:54:45Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "625ba2d5c6c2842c",
-      "title": "World of Hyatt card: New welcome offer with four Category 1-4 free night certificates",
-      "summary": "The Chase World of Hyatt card usually sits firmly ensconced in the doldrums of welcome-offer mediocrity.",
-      "url": "https://frequentmiler.com/world-of-hyatt-card-new-welcome-offer-with-four-category-1-4-free-night-certificates/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/04/img_8237.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-05T19:45:38Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "d70fe6e4ace336df",
-      "title": "Earn 4 free nights with the World of Hyatt Card: Best offer since February",
-      "summary": "If you have an upcoming stay at any Hyatt property, the World of Hyatt personal and business cards can help save you a ton of money.",
-      "url": "https://thepointsguy.com/credit-cards/world-of-hyatt-credit-cards-current-offers/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/02/20250213_Best-New-Points-Hotels-for-Families_Dreams-Madeira-Resort-Spa-Marina-CREDIT-HYATT_7.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-05T19:00:08Z",
-      "source": "The Points Guy"
     }
   ]
 }
