@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-08T04:52:32Z",
+  "updatedAt": "2026-11-08T12:52:47Z",
   "articles": [
+    {
+      "id": "1a045d785db59008",
+      "title": "Ritz-Carlton Club Level Upgrade Certificates: How They Work and Where To Use Them",
+      "summary": "As one of the many perks of The Ritz-Carlton\u2122 Credit Card, cardholders receive complimentary club-level upgrade certificates each year.",
+      "url": "https://awardwallet.com/hotels/marriott-bonvoy/ritz-carlton-club-level-upgrade/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-08T12:10:02Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "78de0d7bd4a51844",
       "title": "Chase Sapphire Reserve $300 Dining Credit: Where It Works \u2014 and Where It Doesn\u2019t",
@@ -487,19 +497,9 @@
       "summary": "Now is a fantastic time to apply for a co-branded Hyatt credit card.",
       "url": "https://awardwallet.com/credit-cards/world-of-hyatt/hyatt-credit-card-offers/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-11-06T14:10:02Z",
       "source": "AwardWallet"
-    },
-    {
-      "id": "20c328f353dd28ed",
-      "title": "Here\u2019s how far the new IHG Premier Select Card\u2019s welcome offer could go on a weekend in Manhattan",
-      "summary": "See how the IHG One Rewards Premier Select card\u2019s welcome offer, Platinum Elite status and travel credits add up on an NYC weekend.",
-      "url": "https://thepointsguy.com/credit-cards/ihg-premier-select-nyc-weekend/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/10/Kimpton-Era-Midtown-Room-View-1.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-06T14:00:56Z",
-      "source": "The Points Guy"
     }
   ]
 }
