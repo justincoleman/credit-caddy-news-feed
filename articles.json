@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-11T05:01:38Z",
+  "updatedAt": "2026-11-11T13:41:51Z",
   "articles": [
+    {
+      "id": "d85179a437e19c11",
+      "title": "Etihad Guest and STARLUX Expand Partnership \u2014 Here\u2019s How To Earn and Redeem Miles",
+      "summary": "You can now earn Etihad miles as well as book Starlux-operated flights using Etihad Guest miles.",
+      "url": "https://awardwallet.com/airlines/book-starlux-awards-through-etihad/",
+      "thumbnailUrl": null,
+      "category": "News",
+      "publishedAt": "2026-11-11T12:10:04Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "dde6e1f39533a075",
+      "title": "ENDING SOON: 100,000 Points Plus A Companion Award\u2014Why Alaska\u2019s Best Credit Card Beats Those From Bigger Airlines",
+      "summary": "The $395 Atmos Summit card pairs its initial bonus with a companion award, 3 points per dollar on foreign purchases, and waived partner boo\u2026",
+      "url": "https://viewfromthewing.com/limited-time-100000-points-plus-a-companion-award-why-alaskas-best-credit-card-beats-those-from-bigger-airlines/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/09/ALASKA-737-10-MAX-AURORA-SUITES-CABIN_RENDERING_04.jpg-1.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-11T12:04:44Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "82b6a98615ce65ef",
+      "title": "Rakuten: $170 Bonus For Citi Strata Premier Signup",
+      "summary": "Rakuten is offering $100 bonus when you sign up for the Citi Strata Premier card.",
+      "url": "https://www.doctorofcredit.com/rakuten-100-bonus-for-citi-strata-premier-signup/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-11T09:52:30Z",
+      "source": "Doctor of Credit"
+    },
     {
       "id": "cba16cf2a549a13c",
       "title": "Bilt Partners With Lowe\u2019s: Earn Points at Lowe\u2019s & Redeem Bilt Cash For Lowe\u2019s HomeCare",
@@ -67,7 +97,7 @@
       "summary": "Bilt is retiring its Flexible Bilt Cash option in 2027.",
       "url": "https://awardwallet.com/credit-cards/bilt-rewards/earning-bilt-cash-starting-2027/",
       "thumbnailUrl": null,
-      "category": "Deals",
+      "category": "Tips",
       "publishedAt": "2026-11-10T23:49:27Z",
       "source": "AwardWallet"
     },
@@ -412,16 +442,6 @@
       "source": "View from the Wing"
     },
     {
-      "id": "6ea9a3fa0236afbb",
-      "title": "How Hilton for Business Works \u2014 Plus Offers for Double Nights Credits and Diamond Status",
-      "summary": "Hilton for Business is designed to encourage small- and medium-sized businesses and their employees to stay at Hilton properties.",
-      "url": "https://awardwallet.com/hotels/hilton-honors/hilton-for-business/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-11-09T20:10:04Z",
-      "source": "AwardWallet"
-    },
-    {
       "id": "d42d950a43ce59d7",
       "title": "(Update) American Express & Fanatics Announce Partnership \u2013 New Credit Card, FanCash Transfer Partner & More",
       "summary": "American Express has announced a new partnership with Fanatics.",
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-09T18:02:09Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "c108fbc0e088ebd0",
-      "title": "American launches award sale: 1 million seats discounted, starting at 8,000 miles",
-      "summary": "American Airlines is offering up AAdvantage mileage discounts for the winter, with deals on more than 1 million coach seats.",
-      "url": "https://thepointsguy.com/deals/american-airlines-aadvantage-award-sale-winter/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/aa-a321xlr-20-nl-ds.png",
-      "category": "News",
-      "publishedAt": "2026-11-09T17:12:34Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "3e4af01d21a4b9c4",
-      "title": "How to earn Marriott lifetime elite status",
-      "summary": "Marriott Bonvoy offers lifetime Silver Elite, Gold Elite and Platinum Elite status.",
-      "url": "https://thepointsguy.com/loyalty-programs/marriott-bonvoy-lifetime-elite-status/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/02/Young-business-woman-working-on-smart-phone-an-laptop-at-airport-lounge_Oscar-Wong.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-09T17:00:28Z",
-      "source": "The Points Guy"
     }
   ]
 }
