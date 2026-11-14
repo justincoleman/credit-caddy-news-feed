@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-14T05:18:56Z",
+  "updatedAt": "2026-11-14T13:05:03Z",
   "articles": [
+    {
+      "id": "a83ee242643377dd",
+      "title": "How to maximize credit card rewards on business expenses",
+      "summary": "Starting a business comes with plenty of expenses.",
+      "url": "https://thepointsguy.com/loyalty-programs/points-miles-when-starting-business/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/11/Business-partners-looking-at-computer-in-office_FG-Trade.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-14T13:00:07Z",
+      "source": "The Points Guy"
+    },
     {
       "id": "d5c94c338cb46230",
       "title": "Matachica Resort, Belize (Hilton / SLH): Bottom Line Review",
@@ -292,6 +302,16 @@
       "source": "One Mile at a Time"
     },
     {
+      "id": "c4b1537df9c782f7",
+      "title": "Knowing when to drop everything and book, more coupon contemplation, the quirks of the hobby, and more (Week in Review)",
+      "summary": "A couple of days ago, Wyndham Rewards ran an incredible deal that is now dead: two nights in a decked-out Christmas Spectacular-themed suit\u2026",
+      "url": "https://frequentmiler.com/knowing-when-to-drop-everything-and-book-more-coupon-contemplation-the-quirks-of-the-hobby-and-more-week-in-review/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2020/03/working.png",
+      "category": "Tips",
+      "publishedAt": "2026-11-13T12:58:50Z",
+      "source": "Frequent Miler"
+    },
+    {
       "id": "814a48d0a21a09a2",
       "title": "Flying Blue Expands Miles Subscription: Buy Up to 30K Miles Monthly for 1.34\u00a2 Each",
       "summary": "Flying Blue, the joint loyalty program of Air France and KLM, offers a \"Subscribe to Miles\" program.",
@@ -350,16 +370,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-13T00:26:19Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "745d00812ce66f11",
-      "title": "Citi Strata Elite Card Delivers 75,000 Points Plus $1,200 In Credits In Your First Year",
-      "summary": "Citi Strata Elite delivers a surprisingly strong first-year value play.",
-      "url": "https://viewfromthewing.com/citi-strata-elite-card-delivers-75000-points-plus-1200-in-credits-in-your-first-year-2/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/09/american-airlines-787-9-flagship-preferred-suite.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-13T00:04:23Z",
-      "source": "View from the Wing"
     },
     {
       "id": "394e748f991008b8",
@@ -490,16 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-11-12T19:04:38Z",
       "source": "View from the Wing"
-    },
-    {
-      "id": "584722852af6494a",
-      "title": "Buy Etihad Guest Miles With up to a 60% Bonus \u2014 But Should You?",
-      "summary": "Etihad is offering Guest members the chance to buy miles with a 60% bonus.",
-      "url": "https://awardwallet.com/news/airlines/buy-etihad-miles/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-12T19:00:01Z",
-      "source": "AwardWallet"
     }
   ]
 }
