@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-15T05:14:54Z",
+  "updatedAt": "2026-11-15T13:33:50Z",
   "articles": [
+    {
+      "id": "b758e8278ec3e5f1",
+      "title": "World Of Hyatt Credit Card Review: Why It\u2019s My Go-To Hotel Card",
+      "summary": "The World of Hyatt Credit Card pairs a $95 annual fee with a free anniversary night and Discoverist status.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/chase/hyatt-credit-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/05/Andaz-Maui-Villas-85.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Deals",
+      "publishedAt": "2026-11-15T13:32:07Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "f1d80848525cc41c",
+      "title": "United Global Services: Benefits & How To Earn This Invitation-Only Status",
+      "summary": "United Global Services is the airline's invitation-only elite tier.",
+      "url": "https://onemileatatime.com/guides/united-airlines-global-services/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/07/United-Polaris-Business-Class-777-17.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-11-15T09:17:51Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "3ce580e599ea326e",
       "title": "Last Chance Deals: Virgin transfer bonus, IHG increased welcome offers, & more",
@@ -190,16 +210,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-14T00:50:48Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "b2337b83368d33da",
-      "title": "Citi Strata Elite Looks Premium \u2014 But The Real Value Is American Airlines Miles And $1200 First Year Credits",
-      "summary": "Citi Strata Elite arrives in a surprisingly premium package, but the real value is what the card earns.",
-      "url": "https://viewfromthewing.com/citi-strata-elite-looks-premium-but-the-real-value-is-american-airlines-miles-and-1200-first-year-credits/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2025/08/20250825_180913.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-14T00:04:29Z",
-      "source": "View from the Wing"
     },
     {
       "id": "adeea8a594188114",
@@ -489,16 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-11-13T00:41:08Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "eb59c1b8b222e35c",
-      "title": "Chase Offers: Get 10% Back at Lowe\u2019s/Lowes.com ($50 Cashback Max)",
-      "summary": "Check your Chase Offers for the following deal: Got 15% cashback at Lowe's.",
-      "url": "https://www.doctorofcredit.com/chase-offers-ihg-only-get-15-back-at-lowes-50-cashback-max/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-13T00:35:51Z",
       "source": "Doctor of Credit"
     }
   ]
