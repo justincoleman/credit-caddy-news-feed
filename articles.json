@@ -1,10 +1,230 @@
 {
-  "updatedAt": "2026-11-18T15:14:07Z",
+  "updatedAt": "2026-11-18T23:57:45Z",
   "articles": [
+    {
+      "id": "44dd1441f54f55e0",
+      "title": "Leveraging paid flights for more status, more rewards | Coffee Break Ep130 | 11-18-26",
+      "summary": "Sometimes miles aren\u2019t the best way to get flights.",
+      "url": "https://frequentmiler.com/leveraging-paid-flights-for-more-status-more-rewards-coffee-break-ep130-11-18-26/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Leveraging-paid-flights-for-more-status-more-rewards-2.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-18T23:45:32Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "da5de9271054a82c",
+      "title": "Earn 5X SkyMiles on hotel stays booked through Delta Stays (stack with card credits)",
+      "summary": "Delta Cars & Stays has launched a new promotion that\u2019s offering 5X SkyMiles on hotel stays.",
+      "url": "https://frequentmiler.com/earn-5x-skymiles-on-hotel-stays-booked-through-delta-stays-stack-with-card-credits/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Delta-Stays-5X-SkyMiles.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T22:45:22Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "6ac28a57a87c6ca8",
+      "title": "See if you\u2019re eligible for a welcome offer as high as 100,000 points on the Amex Gold",
+      "summary": "The Amex Gold Card is one of the best travel rewards cards for dining and groceries.",
+      "url": "https://thepointsguy.com/credit-cards/amex-gold-current-offer/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/07/030523_RESY_GOLDCARD_0296-scaled.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T22:00:06Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "dc4d7357e60da0da",
+      "title": "New offers on Atmos Rewards credit cards: Earn up to 90,000 points, companion fares and more",
+      "summary": "Atmos Rewards credit cards offer big bonuses for Alaska Airlines and Hawaiian Airlines travelers looking to earn points to redeem for award\u2026",
+      "url": "https://thepointsguy.com/credit-cards/alaska-atmos-rewards-current-offers/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/08/An-Alaska-Airlines-airplane-and-a-Hawaiian-Airlines-airplane-at-Los-Angeles-International-Airport-LAX-in-Los-Angeles-California_Eric-ThayerBloomberg-via-Getty-Images.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T21:45:27Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "31f9ffc5aae24b94",
+      "title": "Bank of America Business Advantage Unlimited Cash: Up to 2.625% Cash Back on Everyday Purchases With No Annual Fee",
+      "summary": "For business owners who want an easy-to-understand cash back return on purchases, the Bank of America\u00ae Business Advantage Unlimited Cash Re\u2026",
+      "url": "https://awardwallet.com/credit-cards/bank-of-america/bank-of-america-business-advantage-unlimited-cash/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-18T21:00:22Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "e3e803b6d77bc994",
+      "title": "Earn 8X United miles on scheduled Lyft rides to/from the airport",
+      "summary": "Lyft has a partnership with a few different travel loyalty programs, one of which is United.",
+      "url": "https://frequentmiler.com/earn-8x-united-miles-on-scheduled-lyft-rides-to-from-the-airport/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Lyft-United-MileagePlus-partnership.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T20:45:48Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "0cc4797ed49ebbd1",
+      "title": "Chase Adds Qantas & Cathay Pacific As 1:1 Transfer Partner",
+      "summary": "Chase has added both Qantas & Cathay Pacific as Chase Ultimate Rewards transfer partners.",
+      "url": "https://www.doctorofcredit.com/chase-adds-qantas-cathay-pacific-as-11-transfer-partner/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-11-18T20:17:38Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "bf11117b4d04b3d0",
+      "title": "Targeted 300K Amex Business Platinum\u00ae welcome offer with No Lifetime Language",
+      "summary": "The public welcome offer on the Business Platinum Card\u00ae from American Express is a bonus that\u2019s as high as 300,000 Membership Rewards point\u2026",
+      "url": "https://frequentmiler.com/targeted-300k-amex-business-platinum-welcome-offer-with-no-lifetime-language/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Targeted-300K-American-Express-Business-Platinum-card-offer-No-Lifetime-Language.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T19:45:21Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "5685b573d58475ea",
+      "title": "Who's eligible for United credit cards? A guide to Chase's application rules",
+      "summary": "Want a United credit card?",
+      "url": "https://thepointsguy.com/credit-cards/united-credit-card-eligibility/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/20260903_United-Polaris-Elevated_ERosen-21.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-18T19:00:29Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "fcd70ef9da7df553",
+      "title": "Get a 100% Bonus on Frontier Airlines Miles Purchases Through December 4",
+      "summary": "Frontier Airlines just launched another deal on buying miles.",
+      "url": "https://awardwallet.com/airlines/buy-frontier-miles/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T19:00:16Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "0793f48bccd4b560",
+      "title": "Bank of America Refreshes Atmos Business Card: 90,000 Bonus, $195 Annual Fee, New Benefits, Companion Fare Removed",
+      "summary": "Bank of America refreshes the Atmos Rewards Business Card with a 90,000-point bonus, $195 annual fee, new benefits, and removes $99 Compani\u2026",
+      "url": "https://www.doctorofcredit.com/bank-of-america-refreshes-atmos-business-card-90000-bonus-195-annual-fee-new-benefits-companion-fare-removed/",
+      "thumbnailUrl": null,
+      "category": "Card Updates",
+      "publishedAt": "2026-11-18T18:59:42Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "92ca0f0cfc2f6cc7",
+      "title": "Earn +8 Marriott points per $1 at office supply stores with targeted Amex Offer",
+      "summary": "There\u2019s a new, targeted Amex Offer on Marriott Bonvoy Business\u00ae American Express\u00ae cards which is giving +8 points on purchases at office su\u2026",
+      "url": "https://frequentmiler.com/earn-8-marriott-points-per-1-at-office-supply-stores-with-targeted-amex-offer/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2023/06/Office-Depot.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T18:45:42Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "b37d8a479a5eaeee",
+      "title": "JetBlue Launches New 125% Bonus on Points Purchases \u2014 But Should You Buy?",
+      "summary": "JetBlue just launched a new buy miles sale featuring up to a 125% bonus now through December 31, 2026.",
+      "url": "https://awardwallet.com/airlines/jetblue-trueblue/buy-jetblue-points/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T18:10:07Z",
+      "source": "AwardWallet"
+    },
+    {
+      "id": "61f8c580e9e3501b",
+      "title": "[11/18] BestBuy.com: Buy $100 Amazon, Home Depot, Etc. & Get $10 Bonus Giftcard (Stack With Amex Offer or Citi Credit)",
+      "summary": "Bestbuy.com is offering a bonus $10 Best Buy e-gift card when you buy $100 gift card of Amazon, Home Depot, Instacart, Disney, Airbnb, Door\u2026",
+      "url": "https://www.doctorofcredit.com/11-18-bestbuy-com-buy-100-amazon-home-depot-etc-get-10-bonus-giftcard-stack-with-amex-offer-or-citi-credit/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T18:05:40Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "15c0c9d03d7b6129",
+      "title": "[Targeted] AmEx Offers: Mcdonald\u2019s App, Spend $15 & Get $5 Back (3x)",
+      "summary": "AmEx Offers: Get $5 back with $15 purchase using using McDonald\u2019s mobile app by 12/31/2022.",
+      "url": "https://www.doctorofcredit.com/targeted-amex-offers-mcdonalds-app-spend-15-get-5-back-2x/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T18:00:16Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "ccb687599bb382fd",
+      "title": "Rakuten: Earn 21X at Viator (11/18/26 only)",
+      "summary": "Rakuten is offering a boosted rate of 21% cashback or 21X points (depending on your earning preference) for bookings made through Viator to\u2026",
+      "url": "https://frequentmiler.com/rakuten-earn-21x-at-viator-11-18-26-only/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Rakuten-Viator-21X.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T17:45:50Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "415fdbd292aae445",
+      "title": "[11/18] Target.com: Save 15% On One4All Swap Giftcard (Grubhub, Southwest, Lyft, Ulta & More)",
+      "summary": "Target.com is selling One4All Ultimate Swap gift card at 15% discount.",
+      "url": "https://www.doctorofcredit.com/target-com-save-15-on-one4all-swap-giftcard-grubhub-southwest-lyft-ulta-more/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-18T17:39:03Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "d8867f39d8ca25bf",
+      "title": "Capital One Shopping/Offers: Up To 18.5% Back On Giftcards.com",
+      "summary": "Capital One Shopping is offering up to 10% cashback on Giftcards.com.",
+      "url": "https://www.doctorofcredit.com/capital-one-shopping-3-10-back-on-giftcards-com/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T17:28:02Z",
+      "source": "Doctor of Credit"
+    },
+    {
+      "id": "eba37c8d41e61d73",
+      "title": "Check your offer: Save up to 50% on Amazon purchases using just 429 Amex points",
+      "summary": "Turn American Express Membership Rewards points into big savings on Amazon thanks to this offer available to some shoppers.",
+      "url": "https://thepointsguy.com/news/amazon-amex-membership-rewards-discount/",
+      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/10/Amazon-packages-on-a-residential-doorstep.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T17:00:27Z",
+      "source": "The Points Guy"
+    },
+    {
+      "id": "8a70b58865e7c209",
+      "title": "Get a 40% bonus when transferring Chase Ultimate Rewards to Virgin Atlantic Flying Club",
+      "summary": "Chase is once again offering a 40% bonus when transferring Ultimate Rewards points to Virgin Atlantic Flying Club.",
+      "url": "https://frequentmiler.com/40-percent-transfer-bonus-chase-ultimate-rewards-virgin-atlantic-flying-club/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/07/Virgin-Atlantic-Airplane.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T16:45:34Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "83d834e7aa920405",
+      "title": "Capital One Shopping/Offers: Earn up to 18.5%/10X at Giftcards.com",
+      "summary": "Today\u2019s deal of the day for Capital One Shopping and Capital One Offers is Giftcards.com.",
+      "url": "https://frequentmiler.com/capital-one-shopping-offers-earn-up-to-18-5-10x-at-giftcards-com/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Capital-One-Offers-Shopping-Giftcardsdotcom.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-18T15:45:35Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "d9f31357ae1986ea",
+      "title": "Amex Gold Card Credits: How To Maximize $424 In Uber, Dining, Resy, & Dunkin\u2019 Value",
+      "summary": "The Amex Gold Card offers up to $424 in annual credits for Uber Cash, dining, Resy, and Dunkin'.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/amex-gold-card-credits/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/03/Cheval-Blanc-St-Barts-74.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
+      "category": "Tips",
+      "publishedAt": "2026-11-18T15:41:55Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "cd46ffec3690d9b8",
       "title": "World of Hyatt changes: Stackable awards, new milestone rewards, no more free parking for Globalists",
-      "summary": "Today, World of Hyatt announced several changes that will be coming to its rewards program in 2027.",
+      "summary": "Today, World of Hyatt announced several changes coming to its rewards program in 2027 (the official press release is here).",
       "url": "https://frequentmiler.com/world-of-hyatt-changes-stackable-awards-more-milestone-rewards-no-more-free-parking-for-globalists/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/12/World-of-Hyatt-featured-image.jpg",
       "category": "Card Updates",
@@ -47,7 +267,7 @@
       "summary": "Chase has announced not just one, but two new Ultimate Rewards transfer partners today: Cathay Pacific Asia Miles and Qantas Frequent Flyer.",
       "url": "https://frequentmiler.com/chase-has-added-two-new-transfer-partners-cathay-pacific-and-qantas/",
       "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Chase-Ultimate-Rewards-Cathay-Pacific-Asia-Miles-Qantas-Frequent-Flyer.jpg",
-      "category": "Card Updates",
+      "category": "Tips",
       "publishedAt": "2026-11-18T13:00:45Z",
       "source": "Frequent Miler"
     },
@@ -280,226 +500,6 @@
       "category": "News",
       "publishedAt": "2026-11-17T15:59:04Z",
       "source": "The Points Guy"
-    },
-    {
-      "id": "77e60c88a5b14b0a",
-      "title": "Delta SkyMiles & World Of Hyatt Partnership Live: Dual Earning, Milestone Rewards, & Linking Accounts",
-      "summary": "Delta SkyMiles and World of Hyatt have detailed their new partnership, with dual earning for elites, reciprocal milestone rewards from 2027\u2026",
-      "url": "https://onemileatatime.com/news/delta-hyatt-partnership/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/Delta-One-Business-Class-767-5.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "News",
-      "publishedAt": "2026-11-17T15:57:32Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "52bed18697862438",
-      "title": "Capital One Shopping: 25% Back on Stubhub",
-      "summary": "The Capital One Shopping portal is offering 40% back on Stubhub purchases.",
-      "url": "https://www.doctorofcredit.com/capital-one-shopping-40-back-on-stubhub-50-moneymaker-for-chase-sapphire-reserve-cardholders/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-17T15:30:26Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "c30475ecf2b94a71",
-      "title": "Capital One business credit cards for new LLCs: Which card to get based on your credit history",
-      "summary": "Starting a new LLC?",
-      "url": "https://thepointsguy.com/credit-cards/capital-one-business-cards-new-llc/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/08/Business-owner-and-colleague-discussing-in-conference-room_Thomas-Barwick.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-17T15:00:21Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "edf9f53ba591752b",
-      "title": "[Targeted] U.S. Bank Smartly Checking Deals: Get 15% Back On Department Stores & Grocery Stores",
-      "summary": "Earn 15% cash back at department stores AND 15% at grocery stores",
-      "url": "https://www.doctorofcredit.com/targeted-u-s-bank-smartly-checking-deals-get-15-back-on-department-stores-grocery-stores/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-17T15:00:12Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "05a08bd42ca9ab68",
-      "title": "(Extended) Hyatt Resorts Amex Offer: Get $100 back when spending $500+",
-      "summary": "Update 11/17/26: This Hyatt Resorts Amex Offer has been extended through November 30, 2026 if you haven\u2019t used it yet.",
-      "url": "https://frequentmiler.com/hyatt-resorts-amex-offer-get-100-back-when-spending-500/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/07/Hyatt-Resorts-Amex-Offer-500-100.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T14:45:55Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "0836f542988b0213",
-      "title": "New Resy Rewards Program Offers 4x Bonus Amex Points For Dining Out",
-      "summary": "Resy Rewards lets Amex cardmembers earn an extra 4x points per dollar at participating restaurants.",
-      "url": "https://onemileatatime.com/news/resy-rewards-bonus-amex-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/05/Otto-Pepe-Restaurant.jpg?width=1200&quality=75&height=858&aspect_ratio=200%3A143",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-17T14:00:28Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "48dd173dbf77e403",
-      "title": "Amex launches Resy Rewards: Earn up to 8 points per dollar on dining",
-      "summary": "Amex's new Resy Rewards program lets eligible cardholders earn up to 8 points per dollar at select restaurants.",
-      "url": "https://thepointsguy.com/news/resy-rewards-amex-points/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/07/American-Express-Gold_RESY_GOLDCARD_0612.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-17T14:00:25Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "d3e863e8384baa62",
-      "title": "Chase to Virgin Atlantic Transfer Bonus: Book Delta Awards From 6k Points, Biz to Europe From 21k Points",
-      "summary": "Chase just launched a new 40% transfer bonus to Virgin Atlantic Flying Club.",
-      "url": "https://awardwallet.com/news/chase-ultimate-rewards/virgin-atlantic-transfer-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-17T14:00:04Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "3434eb8d7bc7323d",
-      "title": "Capital One Shopping/Offers: Earn 25%/15X at StubHub",
-      "summary": "The deal of the day on Capital One Shopping and Capital One Offers for today is StubHub.",
-      "url": "https://frequentmiler.com/capital-one-shopping-offers-earn-25-15x-at-stubhub/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Capital-One-Shopping-Stubhub-11.17.26.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T13:45:47Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "7c7d73c0586e581c",
-      "title": "Transfer Chase Points To Virgin Atlantic Flying Club With 40% Bonus: Worth It?",
-      "summary": "Chase Ultimate Rewards is offering a 40% bonus on transfers to Virgin Atlantic Flying Club through December 30, 2026.",
-      "url": "https://onemileatatime.com/deals/chase-virgin-atlantic-transfer-bonus/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2019/10/Virgin-Atlantic-787-9.jpeg?width=1200&quality=75&height=714&aspect_ratio=200%3A119",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T12:49:00Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "9e5e77830a7f4792",
-      "title": "Buy Hilton Honors Points With 120% Bonus By November 21: Worth It?",
-      "summary": "Hilton Honors just rolled out its best-ever points purchase bonus: up to 120%, bringing the cost down to 0.45 cents per point.",
-      "url": "https://onemileatatime.com/deals/buy-hilton-honors-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/08/Waldorf-Astoria-Los-Cabos-Pedregal-44.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T10:31:51Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "dca5e47c7e78a49e",
-      "title": "Delta Reserve Credit Card Review: Benefits Worth It For Delta Loyalists?",
-      "summary": "The Delta Reserve Amex is the most premium Delta card, offering lounge access, a companion certificate, upgrade priority and a strong path\u2026",
-      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/delta-reserve-card/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/Delta-One-Lounge-New-York-JFK-25.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Tips",
-      "publishedAt": "2026-11-17T09:22:46Z",
-      "source": "One Mile at a Time"
-    },
-    {
-      "id": "12bf40df8c899fb4",
-      "title": "Best credit card combinations for earning tons of transferable points",
-      "summary": "In our opinion, transferable points programs like Chase Ultimate Rewards, Citi ThankYou Rewards, and Amex Membership Rewards are the most v\u2026",
-      "url": "https://frequentmiler.com/awesome-credit-card-combos/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2021/12/Credit-Card-Combo-featured-image.jpg",
-      "category": "Tips",
-      "publishedAt": "2026-11-17T06:45:33Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "ad7ae0fe931b69f7",
-      "title": "Link DashPass to get free Lyft Go membership (8% back in Lyft credits)",
-      "summary": "DoorDash and Lyft recently launched a new partnership whereby DoorDash DashPass members can get a free Lyft Go membership.",
-      "url": "https://frequentmiler.com/link-dashpass-to-get-free-lyft-go-membership-8-back-in-lyft-credits/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2025/08/Lyft-DoorDash-Dashpass.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T00:45:17Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "d75177fcb243af8a",
-      "title": "Southwest\u2019s New Credit Card Bonuses Offer Up To 90,000 Points Toward Companion Pass\u2014Last Chance Before Rules Change",
-      "summary": "Southwest\u2019s Companion Pass lets a designated companion fly with you for just taxes and fees, even when you book your own ticket with points.",
-      "url": "https://viewfromthewing.com/southwests-new-credit-card-bonuses-offer-up-to-90000-points-toward-companion-pass-last-chance-before-rules-change/",
-      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/01/20260127_152434.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-17T00:04:51Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "cb4f27f63baa2f97",
-      "title": "Earn a $200 Bonus With the Chase Freedom Flex After Just $500 in Spending",
-      "summary": "The Chase Freedom Flex\u00ae is a great cashback earnings card, offering 5% cashback in rotating categories and on travel purchased through Chas\u2026",
-      "url": "https://awardwallet.com/credit-cards/cash-back/chase-freedom-flex-offer/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-16T23:49:38Z",
-      "source": "AwardWallet"
-    },
-    {
-      "id": "6c97ce057607cf91",
-      "title": "Are you due compensation when the airline changes your aircraft type? | Question of the Week Ep22 | 11-16-26",
-      "summary": "Are you due compensation when the airline changes your aircraft type?",
-      "url": "https://frequentmiler.com/are-you-due-compensation-when-the-airline-changes-your-aircraft-type-question-of-the-week-ep22-11-16-26/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Are-you-due-compensation-when-the-airline-changes-your-aircraft-type-2.jpg",
-      "category": "Card Updates",
-      "publishedAt": "2026-11-16T23:45:35Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "248f363ba3954d24",
-      "title": "Giftcards.com: $10 Bonus Giftcard With $100+ Virtual Visa eGiftcard Purchase With Code EARLYVISA",
-      "summary": "Get a $10 Giftcards.com giftcard with $100 Virtual Visa Giftcard with promo code EARLYVISA",
-      "url": "https://www.doctorofcredit.com/giftcards-com-10-bonus-giftcard-with-100-virtual-visa-egiftcard-purchase-with-code-earlyvisa/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-16T23:19:48Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "5ec00f14f06ab089",
-      "title": "Chase Offers: 10% Cashback at Hyatt Essentials Properties & More",
-      "summary": "Update 11/16/26: Spend $100 or more and get 10% back, up to $50 back.",
-      "url": "https://www.doctorofcredit.com/chase-offers-bofa-get-10-cashback-at-hyatt-max-25-cashback/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-16T23:10:03Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "6f5767c61ce0fe62",
-      "title": "Free top-tier SLH Club 03 status (just click and upgrade)",
-      "summary": "Yesterday, I noticed that Loyalty Lobby and Miles Talk both posted a deal to get easy free SLH Club O3 status.",
-      "url": "https://frequentmiler.com/free-top-tier-slh-club-03-status-just-click-and-upgrade/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/SLH-Club-03.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-16T22:45:07Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "e064dafcea63874d",
-      "title": "10% transfer bonus to Avianca Lifemiles from Amex Membership Rewards",
-      "summary": "American Express Membership Rewards is offering a 10% transfer bonus when you transfer points to Avianca Lifemiles, through 12/16/26.",
-      "url": "https://frequentmiler.com/10-transfer-bonus-to-avianca-lifemiles-from-amex-membership-rewards/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/02/Avianca-LifeMiles-Featured-Image.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-16T21:45:44Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "8a97b6108e5d1c56",
-      "title": "Amex Business Gold Review: Rewards, Credits, and Whether It Deserves a Spot in Your Wallet",
-      "summary": "The American Express\u00ae Business Gold Card automatically earns 4X points in multiple categories, enabling businesses to potentially earn a ma\u2026",
-      "url": "https://awardwallet.com/credit-cards/amex-membership-rewards/amex-business-gold/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-11-16T21:10:02Z",
-      "source": "AwardWallet"
     }
   ]
 }
