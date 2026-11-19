@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-18T23:57:45Z",
+  "updatedAt": "2026-11-19T07:06:23Z",
   "articles": [
+    {
+      "id": "31b6fa7c1f44ce12",
+      "title": "Hyatt\u2019s 2027 changes ranked from best to worst",
+      "summary": "World of Hyatt announced significant changes to its Milestone Rewards and Globalist benefits.",
+      "url": "https://frequentmiler.com/hyatts-2027-changes-ranked-from-best-to-worst/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Hyatt-2027.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-11-19T02:45:12Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "23b8ff6410adc676",
+      "title": "Some United credit cards offer complimentary IHG One Rewards Platinum status",
+      "summary": "Some United credit cards have a benefit that you might not have been aware of: IHG One Rewards Platinum elite status.",
+      "url": "https://frequentmiler.com/some-united-credit-cards-offer-complimentary-ihg-one-rewards-platinum-status/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/United-MileagePlus-IHG-One-Rewards-partnership.jpg",
+      "category": "Tips",
+      "publishedAt": "2026-11-19T00:45:25Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "821f36c28b338d65",
+      "title": "Delta and Hyatt Reveal First Details of New Loyalty Partnership: Dual Earnings, Limited-Time Offers, and More",
+      "summary": "We finally have more details on the new Delta SkyMiles and World of Hyatt partnership.",
+      "url": "https://awardwallet.com/news/delta-and-hyatt-launch-dual-earnings/",
+      "thumbnailUrl": null,
+      "category": "Deals",
+      "publishedAt": "2026-11-18T23:49:27Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "44dd1441f54f55e0",
       "title": "Leveraging paid flights for more status, more rewards | Coffee Break Ep130 | 11-18-26",
@@ -67,7 +97,7 @@
       "summary": "Chase has added both Qantas & Cathay Pacific as Chase Ultimate Rewards transfer partners.",
       "url": "https://www.doctorofcredit.com/chase-adds-qantas-cathay-pacific-as-11-transfer-partner/",
       "thumbnailUrl": null,
-      "category": "Card Updates",
+      "category": "Tips",
       "publishedAt": "2026-11-18T20:17:38Z",
       "source": "Doctor of Credit"
     },
@@ -470,36 +500,6 @@
       "category": "Tips",
       "publishedAt": "2026-11-17T16:56:40Z",
       "source": "One Mile at a Time"
-    },
-    {
-      "id": "153dba8997301ffa",
-      "title": "Turkish Airlines Chase Offer: Get $50 back when spending $1,000",
-      "summary": "There\u2019s a new Turkish Airlines Chase Offer available on a targeted basis which is giving a $50 statement credit when spending at least $1,0\u2026",
-      "url": "https://frequentmiler.com/turkish-airlines-chase-offer-get-50-back-when-spending-1000/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Turkish-Airlines-Chase-Offer-spend-1000-get-50.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-17T16:45:10Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "e3cb6970acfb8729",
-      "title": "(Update) American Express Business Platinum 300,000 Points Signup Bonus",
-      "summary": "Targeted offer, check incognito: signup for the American Express Business Platinum card and get 300,000 Membership Rewards points after you\u2026",
-      "url": "https://www.doctorofcredit.com/targeted-american-express-business-platinum-300000-points-signup-bonus/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-17T16:00:06Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "9efb85b7500f90b9",
-      "title": "Delta, Hyatt launch loyalty partnership with 'double dip' earnings for elite members",
-      "summary": "Delta Air Lines and World of Hyatt have launched their loyalty partnership, allowing elite members to \"double dip\" their earnings on flight\u2026",
-      "url": "https://thepointsguy.com/news/delta-air-lines-world-of-hyatt-partnership-launches/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/delta-new-interior-motif-side.jpeg",
-      "category": "News",
-      "publishedAt": "2026-11-17T15:59:04Z",
-      "source": "The Points Guy"
     }
   ]
 }
