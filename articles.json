@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-21T05:56:34Z",
+  "updatedAt": "2026-11-21T14:26:43Z",
   "articles": [
+    {
+      "id": "b99cf545531b4c3c",
+      "title": "A whole new World of Hyatt, luxury hotels with IHG certificates, great card combos and more",
+      "summary": "Hello from Tucson, Arizona!",
+      "url": "https://frequentmiler.com/a-whole-new-world-of-hyatt-luxury-hotels-with-ihg-certificates-great-card-combos-and-more/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2026/11/Tucson-cactus-flower.jpg",
+      "category": "Card Updates",
+      "publishedAt": "2026-11-21T12:15:15Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "5223f8c63fc30d17",
+      "title": "Amex Blue Cash Preferred Review: A Top Cash Back Card For Everyday Purchases",
+      "summary": "The Blue Cash Preferred Card from American Express earns 6% cash back at U.S.",
+      "url": "https://onemileatatime.com/reviews/credit-cards/american-express/blue-cash-preferred-card/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2021/11/Grocery-Store-Supermarket-2.jpg?width=1200&quality=75&height=858&aspect_ratio=200%3A143",
+      "category": "Tips",
+      "publishedAt": "2026-11-21T11:13:18Z",
+      "source": "One Mile at a Time"
+    },
+    {
+      "id": "28b60a6109aa668b",
+      "title": "Buy Southwest Rapid Rewards Points For 50% Off (1.5 Cents Each): Worth It?",
+      "summary": "Southwest is discounting purchased Rapid Rewards points by up to 50%, bringing the cost to 1.5 cents each.",
+      "url": "https://onemileatatime.com/deals/buy-southwest-rapid-rewards-points/",
+      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2024/10/Southwest-Boeing-737-700.jpeg?width=1200&quality=75&height=839&aspect_ratio=1200%3A839",
+      "category": "Deals",
+      "publishedAt": "2026-11-21T10:43:11Z",
+      "source": "One Mile at a Time"
+    },
     {
       "id": "34b9dc887e09eb91",
       "title": "Citi Strata Card Review: Earn 3X Transferable Points Without an Annual Fee",
@@ -37,7 +67,7 @@
       "summary": "Rakuten is one of the oldest and best shopping portals on the internet for earning bonus rewards.",
       "url": "https://awardwallet.com/shopping/rakuten-rewards/",
       "thumbnailUrl": null,
-      "category": "Tips",
+      "category": "Deals",
       "publishedAt": "2026-11-20T21:10:02Z",
       "source": "AwardWallet"
     },
@@ -470,36 +500,6 @@
       "category": "Card Updates",
       "publishedAt": "2026-11-19T18:09:50Z",
       "source": "Doctor of Credit"
-    },
-    {
-      "id": "e4f64e1def02e887",
-      "title": "Up to $50 off at Amazon with 125 Citi points",
-      "summary": "Amazon.com is offering up to 40% off / up to a $50 discount when using 125 Citi Thank You points (worth $1) at checkout.",
-      "url": "https://frequentmiler.com/up-to-50-off-at-amazon-with-125-citi-points/",
-      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2022/07/Amazon-Laptop-Featured-Image.png",
-      "category": "Deals",
-      "publishedAt": "2026-11-19T17:46:49Z",
-      "source": "Frequent Miler"
-    },
-    {
-      "id": "ab433b205552b511",
-      "title": "A Trick To Buy Accor Hotel Stays At 40% Off \u2014 And Black Friday May Make It Even Better",
-      "summary": "For about $1,254, you can buy Accor points that deliver \u20ac1,500 toward hotel stays over a year.",
-      "url": "https://viewfromthewing.com/a-trick-to-buy-accor-hotel-stays-at-40-off-and-black-friday-may-make-it-even-better/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-19T16:58:16Z",
-      "source": "View from the Wing"
-    },
-    {
-      "id": "ce434753748408e5",
-      "title": "Buy Air Canada Aeroplan Points With 100% Bonus (1.31 Cents Each): Worth It?",
-      "summary": "Air Canada Aeroplan is offering up to a 100% bonus on purchased points through December 10, 2026, working out to about 1.31 cents per point\u2026",
-      "url": "https://onemileatatime.com/deals/buy-air-canada-aeroplan-points/",
-      "thumbnailUrl": "https://cdn.onemileatatime.com/wp-content/uploads/2023/08/Turkish-Airlines-A350-Business-Class-7.jpeg?width=1200&quality=75&height=900&aspect_ratio=4%3A3",
-      "category": "Deals",
-      "publishedAt": "2026-11-19T16:42:15Z",
-      "source": "One Mile at a Time"
     }
   ]
 }
