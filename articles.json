@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-21T22:50:54Z",
+  "updatedAt": "2026-11-22T05:30:47Z",
   "articles": [
+    {
+      "id": "3ce580e599ea326e",
+      "title": "Last Chance Deals: Marriott & Choice points sales, travel Amex Offers, & more",
+      "summary": "Welcome to our weekly list of what\u2019s ending this week, along with a collection of other deals due to end soon.",
+      "url": "https://frequentmiler.com/last-chance-deals/",
+      "thumbnailUrl": "https://frequentmiler.com/wp-content/uploads/2024/05/Last-Chance-Deals.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-22T02:45:12Z",
+      "source": "Frequent Miler"
+    },
+    {
+      "id": "717027e87091808a",
+      "title": "Best Ways To Fly to Tahiti With Points and Miles \u2014 Including Business Class From 60K",
+      "summary": "Whether you\u2019re looking to book a dream honeymoon or just need a tropical getaway, Tahiti is a perfect destination.",
+      "url": "https://awardwallet.com/airlines/book-tahiti-with-points/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-21T23:51:51Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "eadd7546eae15b02",
       "title": "Weekly Review: November 21, 2026",
@@ -17,7 +37,7 @@
       "summary": "Whether you're looking to reduce your annual fees or boost your ThankYou\u00ae points earnings, Citi offers three excellent no-annual-fee cards\u2026",
       "url": "https://awardwallet.com/credit-cards/citi-thankyou-rewards/citi-no-annual-fee-card/",
       "thumbnailUrl": null,
-      "category": "Deals",
+      "category": "Tips",
       "publishedAt": "2026-11-21T21:10:02Z",
       "source": "AwardWallet"
     },
@@ -480,26 +500,6 @@
       "category": "Deals",
       "publishedAt": "2026-11-19T21:46:53Z",
       "source": "Frequent Miler"
-    },
-    {
-      "id": "3f26a11ded133311",
-      "title": "(Update) American Express Personal Platinum Adds $200 Oura Ring Credit",
-      "summary": "American Express personal Platinum card has added a $200 Oura ring credit",
-      "url": "https://www.doctorofcredit.com/american-express-personal-platinum-adds-200-oura-ring-credit/",
-      "thumbnailUrl": null,
-      "category": "Card Updates",
-      "publishedAt": "2026-11-19T21:30:58Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "81df86a58c79cdc7",
-      "title": "Bilt Palladium Card Hotel Credit: How To Utilize the Full $400 Annual Credit",
-      "summary": "The Bilt Palladium Card's $400 hotel credit comes as two $200 semiannual statement credits.",
-      "url": "https://awardwallet.com/credit-cards/bilt-rewards/bilt-palladium-hotel-credit-guide/",
-      "thumbnailUrl": null,
-      "category": "Tips",
-      "publishedAt": "2026-11-19T21:00:05Z",
-      "source": "AwardWallet"
     }
   ]
 }
