@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-22T23:19:03Z",
+  "updatedAt": "2026-11-23T06:10:26Z",
   "articles": [
+    {
+      "id": "f8c8b863946b557f",
+      "title": "Rove Gives You 1,500 Free Miles Just For Signing Up\u2014Plus 5,000 More On Your First $500 Hotel Booking",
+      "summary": "Rove is offering 1,500 free miles just for signing up .",
+      "url": "https://viewfromthewing.com/rove-gives-you-1500-free-miles-just-for-signing-up-plus-5000-more-on-your-first-500-hotel-booking/",
+      "thumbnailUrl": "https://viewfromthewing.com/wp-content/uploads/2026/09/westin-dallas-southlake-bed-2.jpg",
+      "category": "Deals",
+      "publishedAt": "2026-11-23T00:04:10Z",
+      "source": "View from the Wing"
+    },
+    {
+      "id": "1e912fb118b5a780",
+      "title": "Our 10 Favorite Hyatt Award Sweet Spots \u2014 From 3K Nights to Luxury Resorts",
+      "summary": "Hyatt assigns each of its properties a category, then sets award rates for each, but splits those categories in five tiers of award pricing.",
+      "url": "https://awardwallet.com/hotels/world-of-hyatt/best-hyatt-redemptions/",
+      "thumbnailUrl": null,
+      "category": "Tips",
+      "publishedAt": "2026-11-22T23:51:55Z",
+      "source": "AwardWallet"
+    },
     {
       "id": "b07bae537e3c417d",
       "title": "American AAdvantage Business Program: How To Earn Bonus Loyalty Points & Miles",
@@ -479,26 +499,6 @@
       "thumbnailUrl": null,
       "category": "Deals",
       "publishedAt": "2026-11-20T17:30:48Z",
-      "source": "Doctor of Credit"
-    },
-    {
-      "id": "c68efab33f46ee7e",
-      "title": "Book a cruise and get thousands of bonus Delta miles with this limited-time offer",
-      "summary": "Delta Cruises is out with its richest accelerated mileage offer of the year.",
-      "url": "https://thepointsguy.com/cruise/delta-cruises-skymiles-promotion/",
-      "thumbnailUrl": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/11/DeltaCruises-175543166_1600x1067.jpg",
-      "category": "Deals",
-      "publishedAt": "2026-11-20T17:30:09Z",
-      "source": "The Points Guy"
-    },
-    {
-      "id": "2559bebc85b7dd28",
-      "title": "[Targeted] Increased Bank Of America Atmos Offers (125k Summit, 90k Ascent)",
-      "summary": "Bank of America are offering some increased offers on the Atmos cards",
-      "url": "https://www.doctorofcredit.com/targeted-increased-bank-of-america-atmos-offers-125k-summit-90k-ascent/",
-      "thumbnailUrl": null,
-      "category": "Deals",
-      "publishedAt": "2026-11-20T17:00:56Z",
       "source": "Doctor of Credit"
     }
   ]
